@@ -1,0 +1,26 @@
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+  - cron: '6,26,46 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+    - name: Fetch latest data
+      run: |-
+        curl 'https://xcelenergy-ags.esriemcs.com/arcgis/rest/services/XcelOutage/MapServer/0/query?f=json&where=1%3D1%20AND%201739910385196%3D1739910385196&returnGeometry=true&spatialRel=esriSpatialRelIntersects&geometry=%7B%22xmin%22%3A-12743140.100027252%2C%22ymin%22%3A4728071.375089732%2C%22xmax%22%3A-10878076.609869447%2C%22ymax%22%3A5310215.782509479%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100&cacheBuster=1739910385200' \
+          -X POST --data-raw 'showFeatured=False' | jq > incidents-june-2023-format.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
