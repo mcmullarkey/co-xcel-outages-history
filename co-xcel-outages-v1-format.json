@@ -80,12 +80,30 @@
     {
       "attributes": {
         "OBJECTID": 1,
+        "BEGINTIME": 1739878500000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 2,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 23074325,
+        "COMMUNITIES": "Boulder",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11708425.950100001,
+        "y": 4879137.4245999977
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
         "BEGINTIME": 1740291900000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 10,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 23072725,
+        "BATCHID": 23074325,
         "COMMUNITIES": "Grand Junction",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
+        "OBJECTID": 6,
         "BEGINTIME": 1740295500000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 23072725,
+        "BATCHID": 23074325,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,13 +133,31 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 7,
+        "BEGINTIME": 1740296160000,
+        "ESTIMATEDTIMERESTORATION": 1740307500000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 23074325,
+        "COMMUNITIES": "Boulder",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11716495.6303,
+        "y": 4866900.4694000036
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 9,
         "BEGINTIME": 1740291180000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 4,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 23072725,
+        "BATCHID": 23074325,
         "COMMUNITIES": "Grand Junction",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,20 +169,20 @@
     },
     {
       "attributes": {
-        "OBJECTID": 5,
-        "BEGINTIME": 1739878500000,
-        "ESTIMATEDTIMERESTORATION": null,
-        "CUSTOMERSOUT": 2,
+        "OBJECTID": 11,
+        "BEGINTIME": 1740295920000,
+        "ESTIMATEDTIMERESTORATION": 1740329100000,
+        "CUSTOMERSOUT": 14,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 23072725,
-        "COMMUNITIES": "Boulder",
+        "BATCHID": 23074325,
+        "COMMUNITIES": "Fruita",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11708425.950100001,
-        "y": 4879137.4245999977
+        "x": -12104032.4508,
+        "y": 4744225.3008999974
       }
     }
   ]
