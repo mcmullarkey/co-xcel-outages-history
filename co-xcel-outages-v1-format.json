@@ -79,13 +79,49 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 2,
+        "OBJECTID": 1,
+        "BEGINTIME": 1740432180000,
+        "ESTIMATEDTIMERESTORATION": 1740442500000,
+        "CUSTOMERSOUT": 5,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 24221924,
+        "COMMUNITIES": "Broomfield",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11700025.8871,
+        "y": 4854661.8875999972
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "BEGINTIME": 1740434880000,
+        "ESTIMATEDTIMERESTORATION": 1740446100000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 24221924,
+        "COMMUNITIES": "Littleton",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11700808.256099999,
+        "y": 4803659.8043000028
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
         "BEGINTIME": 1740427620000,
         "ESTIMATEDTIMERESTORATION": 1740438000000,
         "CUSTOMERSOUT": 4,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 24214325,
+        "BATCHID": 24221924,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 6,
         "BEGINTIME": 1739878500000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 24214325,
+        "BATCHID": 24221924,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,38 +151,38 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
-        "BEGINTIME": 1740432420000,
-        "ESTIMATEDTIMERESTORATION": 1740440700000,
+        "OBJECTID": 7,
+        "BEGINTIME": 1740433320000,
+        "ESTIMATEDTIMERESTORATION": 1740439800000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 24214325,
-        "COMMUNITIES": "Englewood",
+        "BATCHID": 24221924,
+        "COMMUNITIES": "Grand Junction",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11687434.5306,
-        "y": 4815604.3980000019
+        "x": -12095807.448800001,
+        "y": 4735585.7956999987
       }
     },
     {
       "attributes": {
-        "OBJECTID": 5,
-        "BEGINTIME": 1740432180000,
-        "ESTIMATEDTIMERESTORATION": 1740442500000,
-        "CUSTOMERSOUT": 5,
+        "OBJECTID": 8,
+        "BEGINTIME": 1740434880000,
+        "ESTIMATEDTIMERESTORATION": 1740446100000,
+        "CUSTOMERSOUT": 19,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 24214325,
-        "COMMUNITIES": "Broomfield",
+        "BATCHID": 24221924,
+        "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11700025.8871,
-        "y": 4854661.8875999972
+        "x": -11700799.839200001,
+        "y": 4803792.5429999977
       }
     }
   ]
