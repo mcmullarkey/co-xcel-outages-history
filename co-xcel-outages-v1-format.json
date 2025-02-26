@@ -80,12 +80,48 @@
     {
       "attributes": {
         "OBJECTID": 1,
+        "BEGINTIME": 1740476040000,
+        "ESTIMATEDTIMERESTORATION": 1740496500000,
+        "CUSTOMERSOUT": 11,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 25212324,
+        "COMMUNITIES": "Arvada",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11701314.285599999,
+        "y": 4839921.242399998
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
+        "BEGINTIME": 1740517500000,
+        "ESTIMATEDTIMERESTORATION": 1740524400000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 25212324,
+        "COMMUNITIES": "Kittredge",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11721760.397700001,
+        "y": 4815697.617899999
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 7,
         "BEGINTIME": 1740469920000,
         "ESTIMATEDTIMERESTORATION": 1740474000000,
         "CUSTOMERSOUT": 11,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 25204725,
+        "BATCHID": 25212324,
         "COMMUNITIES": "Grand Junction",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
+        "OBJECTID": 8,
         "BEGINTIME": 1739878500000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 25204725,
+        "BATCHID": 25212324,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,13 +151,31 @@
     },
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 9,
+        "BEGINTIME": 1740516480000,
+        "ESTIMATEDTIMERESTORATION": 1740524400000,
+        "CUSTOMERSOUT": 533,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 25212324,
+        "COMMUNITIES": "Pierce,  Ault",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11661093.144200001,
+        "y": 4955461.3740999997
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10,
         "BEGINTIME": 1740516300000,
-        "ESTIMATEDTIMERESTORATION": 1740527100000,
+        "ESTIMATEDTIMERESTORATION": 1740520800000,
         "CUSTOMERSOUT": 4671,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 25204725,
+        "BATCHID": 25212324,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -129,24 +183,6 @@
       "geometry": {
         "x": -11689001.275600001,
         "y": 4821670.9311000034
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 4,
-        "BEGINTIME": 1740476040000,
-        "ESTIMATEDTIMERESTORATION": 1740496500000,
-        "CUSTOMERSOUT": 11,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 25204725,
-        "COMMUNITIES": "Arvada",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11701314.285599999,
-        "y": 4839921.242399998
       }
     }
   ]
