@@ -79,13 +79,13 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 1,
+        "OBJECTID": 3,
         "BEGINTIME": 1739878500000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 26054324,
+        "BATCHID": 26062325,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,31 +97,49 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
-        "BEGINTIME": 1740536700000,
-        "ESTIMATEDTIMERESTORATION": 1740555000000,
-        "CUSTOMERSOUT": 404,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "OBJECTID": 4,
+        "BEGINTIME": 1740549300000,
+        "ESTIMATEDTIMERESTORATION": 1740557700000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 26054324,
-        "COMMUNITIES": "Denver,  Lakewood",
+        "BATCHID": 26062325,
+        "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11695476.0013,
-        "y": 4824284.4214000031
+        "x": -11662807.817299999,
+        "y": 4819315.9721999988
       }
     },
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 5,
+        "BEGINTIME": 1740550860000,
+        "ESTIMATEDTIMERESTORATION": 1740562200000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 26062325,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11689570.749400001,
+        "y": 4841689.6792000011
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 6,
         "BEGINTIME": 1740534360000,
         "ESTIMATEDTIMERESTORATION": 1740560400000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 26054324,
+        "BATCHID": 26062325,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,38 +151,20 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
-        "BEGINTIME": 1740548280000,
-        "ESTIMATEDTIMERESTORATION": 1740559500000,
+        "OBJECTID": 7,
+        "BEGINTIME": 1740550740000,
+        "ESTIMATEDTIMERESTORATION": 1740558600000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 26054324,
+        "BATCHID": 26062325,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11689754.3464,
-        "y": 4841656.5754000023
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 5,
-        "BEGINTIME": 1740548280000,
-        "ESTIMATEDTIMERESTORATION": 1740559500000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 26054324,
-        "COMMUNITIES": "Lakewood",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11695360.583000001,
-        "y": 4825053.7078000009
+        "x": -11689563.229800001,
+        "y": 4841753.5935999975
       }
     }
   ]
