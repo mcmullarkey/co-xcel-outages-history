@@ -79,13 +79,85 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 5,
+        "OBJECTID": 1,
+        "BEGINTIME": 1741509120000,
+        "ESTIMATEDTIMERESTORATION": 1741517100000,
+        "CUSTOMERSOUT": 2,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 9091429,
+        "COMMUNITIES": "Littleton",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11697718.907600001,
+        "y": 4801712.2894999981
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
+        "BEGINTIME": 1741510140000,
+        "ESTIMATEDTIMERESTORATION": 1741532400000,
+        "CUSTOMERSOUT": 49,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 9091429,
+        "COMMUNITIES": "Commerce City",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11678655.128600001,
+        "y": 4836673.8998999968
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3,
+        "BEGINTIME": 1741510500000,
+        "ESTIMATEDTIMERESTORATION": 1741521600000,
+        "CUSTOMERSOUT": 5,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 9091429,
+        "COMMUNITIES": "Fruita",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -12103667.5221,
+        "y": 4744812.699500002
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "BEGINTIME": 1741511160000,
+        "ESTIMATEDTIMERESTORATION": 1741522500000,
+        "CUSTOMERSOUT": 33,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 9091429,
+        "COMMUNITIES": "Arvada",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11696183.464499999,
+        "y": 4839033.0518999994
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
         "BEGINTIME": 1741509060000,
         "ESTIMATEDTIMERESTORATION": 1741520700000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 9084628,
+        "BATCHID": 9091429,
         "COMMUNITIES": "Fruita",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,16 +169,34 @@
     },
     {
       "attributes": {
-        "OBJECTID": 6,
-        "BEGINTIME": 1741507860000,
-        "ESTIMATEDTIMERESTORATION": 1741515300000,
-        "CUSTOMERSOUT": 19,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "OBJECTID": 9,
+        "BEGINTIME": 1741511580000,
+        "ESTIMATEDTIMERESTORATION": 1741522500000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 9084628,
-        "COMMUNITIES": "Wheat Ridge",
+        "BATCHID": 9091429,
+        "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11693182.1162,
+        "y": 4825909.2449999973
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 14,
+        "BEGINTIME": 1741507860000,
+        "ESTIMATEDTIMERESTORATION": 1741517100000,
+        "CUSTOMERSOUT": 19,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 9091429,
+        "COMMUNITIES": "Wheat Ridge",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
         "x": -11696602.0703,
@@ -115,13 +205,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 7,
+        "OBJECTID": 15,
         "BEGINTIME": 1741508460000,
         "ESTIMATEDTIMERESTORATION": 1741530600000,
         "CUSTOMERSOUT": 5,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 9084628,
+        "BATCHID": 9091429,
         "COMMUNITIES": "Grand Junction",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,13 +223,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 8,
+        "OBJECTID": 19,
         "BEGINTIME": 1741508940000,
         "ESTIMATEDTIMERESTORATION": 1741520700000,
         "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 9084628,
+        "BATCHID": 9091429,
         "COMMUNITIES": "Fruita",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -147,42 +237,6 @@
       "geometry": {
         "x": -12103782.653200001,
         "y": 4744569.6796000004
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 9,
-        "BEGINTIME": 1741509240000,
-        "ESTIMATEDTIMERESTORATION": 1741516200000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 9084628,
-        "COMMUNITIES": "Greenwood Village",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11676184.286800001,
-        "y": 4810425.6133999974
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 17,
-        "BEGINTIME": 1741509120000,
-        "ESTIMATEDTIMERESTORATION": 1741517100000,
-        "CUSTOMERSOUT": 2,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 9084628,
-        "COMMUNITIES": "Littleton",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11697461.7863,
-        "y": 4801775.9082000032
       }
     }
   ]
