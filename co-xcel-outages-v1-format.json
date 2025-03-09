@@ -79,13 +79,13 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 3,
         "BEGINTIME": 1741507860000,
-        "ESTIMATEDTIMERESTORATION": 1741518900000,
-        "CUSTOMERSOUT": 1,
+        "ESTIMATEDTIMERESTORATION": 1741515300000,
+        "CUSTOMERSOUT": 19,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 9081429,
+        "BATCHID": 9082629,
         "COMMUNITIES": "Wheat Ridge",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -93,6 +93,24 @@
       "geometry": {
         "x": -11696602.0703,
         "y": 4834410.704400003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "BEGINTIME": 1741508460000,
+        "ESTIMATEDTIMERESTORATION": 1741530600000,
+        "CUSTOMERSOUT": 5,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 9082629,
+        "COMMUNITIES": "Grand Junction",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -12085207.7282,
+        "y": 4730840.8112000003
       }
     }
   ]
