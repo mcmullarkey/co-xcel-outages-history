@@ -79,13 +79,31 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 6,
+        "BEGINTIME": 1741851480000,
+        "ESTIMATEDTIMERESTORATION": 1741862700000,
+        "CUSTOMERSOUT": 18,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 13074229,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11685671.006099999,
+        "y": 4840500.1855999976
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 7,
         "BEGINTIME": 1741772220000,
         "ESTIMATEDTIMERESTORATION": 1741879800000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 13072629,
+        "BATCHID": 13074229,
         "COMMUNITIES": "Arvada",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,20 +115,20 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
-        "BEGINTIME": 1741850100000,
-        "ESTIMATEDTIMERESTORATION": 1741860900000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "OBJECTID": 8,
+        "BEGINTIME": 1741851000000,
+        "ESTIMATEDTIMERESTORATION": 1741858200000,
+        "CUSTOMERSOUT": 7,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 13072629,
-        "COMMUNITIES": "Aurora",
+        "BATCHID": 13074229,
+        "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11671021.459100001,
-        "y": 4816732.8388999999
+        "x": -11696300.018199999,
+        "y": 4802919.6361000016
       }
     }
   ]
