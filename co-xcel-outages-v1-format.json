@@ -76,5 +76,42 @@
       "length": 255
     }
   ],
-  "features": []
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 10,
+        "BEGINTIME": 1741932840000,
+        "ESTIMATEDTIMERESTORATION": 1741942800000,
+        "CUSTOMERSOUT": 65,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 14064229,
+        "COMMUNITIES": "La Salle,  Greeley,  Lasalle",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11654716.7193,
+        "y": 4916184.8357999995
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 13,
+        "BEGINTIME": 1741934100000,
+        "ESTIMATEDTIMERESTORATION": 1741945500000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 14064229,
+        "COMMUNITIES": "Boulder",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11714594.8945,
+        "y": 4868085.4205000028
+      }
+    }
+  ]
 }
