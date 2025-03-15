@@ -79,31 +79,49 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 573,
-        "BEGINTIME": 1742011680000,
-        "ESTIMATEDTIMERESTORATION": 1742021100000,
+        "OBJECTID": 575,
+        "BEGINTIME": 1742013420000,
+        "ESTIMATEDTIMERESTORATION": 1742024700000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 15041829,
-        "COMMUNITIES": "Denver",
+        "BATCHID": 15044229,
+        "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11678194.242600001,
-        "y": 4829572.5970000029
+        "x": -11716495.6303,
+        "y": 4866900.4694000036
       }
     },
     {
       "attributes": {
-        "OBJECTID": 585,
+        "OBJECTID": 641,
+        "BEGINTIME": 1742001000000,
+        "ESTIMATEDTIMERESTORATION": 1742018400000,
+        "CUSTOMERSOUT": 308,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 15044229,
+        "COMMUNITIES": "Golden,  Evergreen",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11718384.487199999,
+        "y": 4821962.2752000019
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 786,
         "BEGINTIME": 1741942860000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 6,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 15041829,
+        "BATCHID": 15044229,
         "COMMUNITIES": "Superior",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,13 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 594,
+        "OBJECTID": 795,
         "BEGINTIME": 1741974120000,
         "ESTIMATEDTIMERESTORATION": 1742017500000,
         "CUSTOMERSOUT": 36,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 15041829,
+        "BATCHID": 15044229,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -129,42 +147,6 @@
       "geometry": {
         "x": -11674529.063900001,
         "y": 4830014.5040000007
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 617,
-        "BEGINTIME": 1742011560000,
-        "ESTIMATEDTIMERESTORATION": 1742021100000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 15041829,
-        "COMMUNITIES": "Denver",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11695362.6402,
-        "y": 4815552.7844000012
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 628,
-        "BEGINTIME": 1742001000000,
-        "ESTIMATEDTIMERESTORATION": 1742018400000,
-        "CUSTOMERSOUT": 308,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 15041829,
-        "COMMUNITIES": "Golden,  Evergreen",
-        "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
-      },
-      "geometry": {
-        "x": -11718384.487199999,
-        "y": 4821962.2752000019
       }
     }
   ]
