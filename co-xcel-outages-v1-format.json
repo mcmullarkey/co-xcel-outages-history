@@ -79,13 +79,13 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 582,
+        "OBJECTID": 561,
         "BEGINTIME": 1741959540000,
         "ESTIMATEDTIMERESTORATION": 1741986900000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 14222229,
+        "BATCHID": 14224229,
         "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +97,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 594,
+        "OBJECTID": 574,
         "BEGINTIME": 1741935540000,
         "ESTIMATEDTIMERESTORATION": 1741955400000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 14222229,
+        "BATCHID": 14224229,
         "COMMUNITIES": "Evans",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,13 +115,49 @@
     },
     {
       "attributes": {
-        "OBJECTID": 635,
+        "OBJECTID": 605,
+        "BEGINTIME": 1741983240000,
+        "ESTIMATEDTIMERESTORATION": 1741995900000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 14224229,
+        "COMMUNITIES": "Littleton",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11695429.857099999,
+        "y": 4803853.3674999997
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 644,
+        "BEGINTIME": 1741991700000,
+        "ESTIMATEDTIMERESTORATION": 1742003100000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 14224229,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11695362.6402,
+        "y": 4815552.7844000012
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 659,
         "BEGINTIME": 1741942860000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 6,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 14222229,
+        "BATCHID": 14224229,
         "COMMUNITIES": "Superior",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,13 +169,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 646,
+        "OBJECTID": 670,
         "BEGINTIME": 1741984380000,
         "ESTIMATEDTIMERESTORATION": 1741996800000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 14222229,
+        "BATCHID": 14224229,
         "COMMUNITIES": "Lakewood",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -151,13 +187,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 647,
+        "OBJECTID": 671,
         "BEGINTIME": 1741974120000,
         "ESTIMATEDTIMERESTORATION": 1742017500000,
         "CUSTOMERSOUT": 36,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 14222229,
+        "BATCHID": 14224229,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -169,13 +205,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 648,
+        "OBJECTID": 672,
         "BEGINTIME": 1741962360000,
         "ESTIMATEDTIMERESTORATION": 1742004000000,
         "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 14222229,
+        "BATCHID": 14224229,
         "COMMUNITIES": "Greeley",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -183,42 +219,6 @@
       "geometry": {
         "x": -11657482.914000001,
         "y": 4919138.5471000001
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 649,
-        "BEGINTIME": 1741986480000,
-        "ESTIMATEDTIMERESTORATION": 1741995900000,
-        "CUSTOMERSOUT": 3,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 14222229,
-        "COMMUNITIES": "Sterling",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11492439.078500001,
-        "y": 4957088.3831999972
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 668,
-        "BEGINTIME": 1741983240000,
-        "ESTIMATEDTIMERESTORATION": 1741995900000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 14222229,
-        "COMMUNITIES": "Littleton",
-        "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
-      },
-      "geometry": {
-        "x": -11695429.857099999,
-        "y": 4803853.3674999997
       }
     }
   ]
