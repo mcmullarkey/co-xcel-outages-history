@@ -76,5 +76,42 @@
       "length": 255
     }
   ],
-  "features": []
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 11,
+        "BEGINTIME": 1742164020000,
+        "ESTIMATEDTIMERESTORATION": 1742207400000,
+        "CUSTOMERSOUT": 129,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 17052629,
+        "COMMUNITIES": "Boulder",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11720269.450100001,
+        "y": 4868629.5117999986
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 13,
+        "BEGINTIME": 1741942860000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 6,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 17052629,
+        "COMMUNITIES": "Superior",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11705649.129999999,
+        "y": 4856183.5282000005
+      }
+    }
+  ]
 }
