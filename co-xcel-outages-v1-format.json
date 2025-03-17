@@ -80,15 +80,33 @@
     {
       "attributes": {
         "OBJECTID": 1,
-        "BEGINTIME": 1742152020000,
-        "ESTIMATEDTIMERESTORATION": 1742157900000,
-        "CUSTOMERSOUT": 308,
+        "BEGINTIME": 1742154840000,
+        "ESTIMATEDTIMERESTORATION": 1742164200000,
+        "CUSTOMERSOUT": 11,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 16195428,
-        "COMMUNITIES": "Lakewood",
+        "BATCHID": 16205829,
+        "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11692888.6458,
+        "y": 4821041.6648999974
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
+        "BEGINTIME": 1742152020000,
+        "ESTIMATEDTIMERESTORATION": 1742169600000,
+        "CUSTOMERSOUT": 272,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 16205829,
+        "COMMUNITIES": "Lakewood",
+        "STATES": "CO",
+        "CREWSTATUS": null
       },
       "geometry": {
         "x": -11698260.719599999,
@@ -97,13 +115,31 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
+        "OBJECTID": 3,
+        "BEGINTIME": 1742154960000,
+        "ESTIMATEDTIMERESTORATION": 1742157900000,
+        "CUSTOMERSOUT": 229,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 16205829,
+        "COMMUNITIES": "Boulder",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11711413.5415,
+        "y": 4868641.7101999968
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
         "BEGINTIME": 1741942860000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 6,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 16195428,
+        "BATCHID": 16205829,
         "COMMUNITIES": "Superior",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,56 +151,56 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
-        "BEGINTIME": 1742147760000,
-        "ESTIMATEDTIMERESTORATION": 1742157900000,
+        "OBJECTID": 6,
+        "BEGINTIME": 1742154840000,
+        "ESTIMATEDTIMERESTORATION": 1742162400000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 16195428,
+        "BATCHID": 16205829,
+        "COMMUNITIES": "Thornton",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11680563.493099999,
+        "y": 4849897.2862000018
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 17,
+        "BEGINTIME": 1742152680000,
+        "ESTIMATEDTIMERESTORATION": 1742162400000,
+        "CUSTOMERSOUT": 25,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 16205829,
+        "COMMUNITIES": "Boulder",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11719822.2819,
+        "y": 4868749.3154999986
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 18,
+        "BEGINTIME": 1742158440000,
+        "ESTIMATEDTIMERESTORATION": 1742169600000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 16205829,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11669648.218499999,
-        "y": 4836628.7826000005
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 6,
-        "BEGINTIME": 1742146980000,
-        "ESTIMATEDTIMERESTORATION": 1742158800000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 16195428,
-        "COMMUNITIES": "Dillon",
-        "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
-      },
-      "geometry": {
-        "x": -11795059.9186,
-        "y": 4808972.1115999967
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 7,
-        "BEGINTIME": 1742152680000,
-        "ESTIMATEDTIMERESTORATION": 1742163300000,
-        "CUSTOMERSOUT": 25,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 16195428,
-        "COMMUNITIES": "Boulder",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11719822.2819,
-        "y": 4868749.3154999986
+        "x": -11685649.743000001,
+        "y": 4831450.1877000034
       }
     }
   ]
