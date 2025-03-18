@@ -79,31 +79,31 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 1,
-        "BEGINTIME": 1742261700000,
-        "ESTIMATEDTIMERESTORATION": 1742273100000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "OBJECTID": 4,
+        "BEGINTIME": 1742263620000,
+        "ESTIMATEDTIMERESTORATION": 1742274000000,
+        "CUSTOMERSOUT": 2,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 18014629,
-        "COMMUNITIES": "Aurora",
+        "BATCHID": 18022629,
+        "COMMUNITIES": "Westminster",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11669540.0483,
-        "y": 4828206.2619000003
+        "x": -11692314.397500001,
+        "y": 4850129.0803000033
       }
     },
     {
       "attributes": {
-        "OBJECTID": 2,
+        "OBJECTID": 5,
         "BEGINTIME": 1742230560000,
         "ESTIMATEDTIMERESTORATION": 1742270400000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 18014629,
+        "BATCHID": 18022629,
         "COMMUNITIES": "Broomfield",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 6,
         "BEGINTIME": 1742239740000,
         "ESTIMATEDTIMERESTORATION": 1742274000000,
         "CUSTOMERSOUT": 364,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 18014629,
+        "BATCHID": 18022629,
         "COMMUNITIES": "Longmont,  Niwot,  Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -129,6 +129,42 @@
       "geometry": {
         "x": -11719027.617699999,
         "y": 4881251.1193000004
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 7,
+        "BEGINTIME": 1742263620000,
+        "ESTIMATEDTIMERESTORATION": 1742274000000,
+        "CUSTOMERSOUT": 14,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 18022629,
+        "COMMUNITIES": "Westminster",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11692022.2896,
+        "y": 4850076.5998999998
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
+        "BEGINTIME": 1742264460000,
+        "ESTIMATEDTIMERESTORATION": 1742275800000,
+        "CUSTOMERSOUT": 37,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 18022629,
+        "COMMUNITIES": "Boulder",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11714720.1634,
+        "y": 4863421.3783999979
       }
     }
   ]
