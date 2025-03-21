@@ -79,13 +79,13 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 10,
+        "OBJECTID": 8,
         "BEGINTIME": 1742476620000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 21034629,
+        "BATCHID": 21042229,
         "COMMUNITIES": "Lone Tree",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,31 +97,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 11,
-        "BEGINTIME": 1742520900000,
-        "ESTIMATEDTIMERESTORATION": 1742532300000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 21034629,
-        "COMMUNITIES": "Wellington",
-        "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
-      },
-      "geometry": {
-        "x": -11689175.927000001,
-        "y": 4969395.2325000018
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 13,
+        "OBJECTID": 9,
         "BEGINTIME": 1742467620000,
         "ESTIMATEDTIMERESTORATION": 1742536800000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 21034629,
+        "BATCHID": 21042229,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -129,6 +111,24 @@
       "geometry": {
         "x": -11741577.8029,
         "y": 4866591.2325000018
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10,
+        "BEGINTIME": 1742520900000,
+        "ESTIMATEDTIMERESTORATION": 1742535000000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 21042229,
+        "COMMUNITIES": "Wellington",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11689175.927000001,
+        "y": 4969395.2325000018
       }
     }
   ]
