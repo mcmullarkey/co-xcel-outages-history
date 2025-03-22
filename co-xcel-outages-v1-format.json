@@ -79,13 +79,31 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 9,
+        "OBJECTID": 1,
+        "BEGINTIME": 1742631180000,
+        "ESTIMATEDTIMERESTORATION": 1742642100000,
+        "CUSTOMERSOUT": 34,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 22081829,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11685720.485399999,
+        "y": 4829907.7497999966
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
         "BEGINTIME": 1742476620000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 22074628,
+        "BATCHID": 22081829,
         "COMMUNITIES": "Lone Tree",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 10,
+        "OBJECTID": 3,
         "BEGINTIME": 1742628240000,
         "ESTIMATEDTIMERESTORATION": 1742666400000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 22074628,
+        "BATCHID": 22081829,
         "COMMUNITIES": "Golden",
         "STATES": "CO",
         "CREWSTATUS": null
