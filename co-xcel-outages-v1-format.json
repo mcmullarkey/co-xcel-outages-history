@@ -81,11 +81,11 @@
       "attributes": {
         "OBJECTID": 1,
         "BEGINTIME": 1742859660000,
-        "ESTIMATEDTIMERESTORATION": 1742870700000,
+        "ESTIMATEDTIMERESTORATION": 1742868000000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 24234353,
+        "BATCHID": 25003153,
         "COMMUNITIES": "Englewood",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -103,7 +103,7 @@
         "CUSTOMERSOUT": 10,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 24234353,
+        "BATCHID": 25003153,
         "COMMUNITIES": "Clifton",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -117,18 +117,54 @@
       "attributes": {
         "OBJECTID": 3,
         "BEGINTIME": 1742846760000,
-        "ESTIMATEDTIMERESTORATION": 1742861700000,
-        "CUSTOMERSOUT": 72,
+        "ESTIMATEDTIMERESTORATION": 1742868000000,
+        "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 24234353,
+        "BATCHID": 25003153,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
-        "x": -11658952.7721,
-        "y": 4828155.2185000032
+        "x": -11659574.9067,
+        "y": 4824661.0109999999
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "BEGINTIME": 1742860860000,
+        "ESTIMATEDTIMERESTORATION": 1742869800000,
+        "CUSTOMERSOUT": 16,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 25003153,
+        "COMMUNITIES": "Clifton",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -12073124.477299999,
+        "y": 4733598.3620000035
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "BEGINTIME": 1742862060000,
+        "ESTIMATEDTIMERESTORATION": 1742873400000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 25003153,
+        "COMMUNITIES": "Littleton",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11678201.3982,
+        "y": 4801364.8615000024
       }
     }
   ]
