@@ -80,12 +80,30 @@
     {
       "attributes": {
         "OBJECTID": 1,
+        "BEGINTIME": 1742866260000,
+        "ESTIMATEDTIMERESTORATION": 1742875200000,
+        "CUSTOMERSOUT": 65,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 25032353,
+        "COMMUNITIES": "Berthoud",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11696803.2324,
+        "y": 4908487.8347000033
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
         "BEGINTIME": 1742858220000,
         "ESTIMATEDTIMERESTORATION": 1742868000000,
         "CUSTOMERSOUT": 10,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 25024753,
+        "BATCHID": 25032353,
         "COMMUNITIES": "Clifton",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
+        "OBJECTID": 3,
         "BEGINTIME": 1742866200000,
         "ESTIMATEDTIMERESTORATION": 1742875200000,
         "CUSTOMERSOUT": 1156,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 25024753,
+        "BATCHID": 25032353,
         "COMMUNITIES": "Berthoud",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -116,30 +134,30 @@
     {
       "attributes": {
         "OBJECTID": 4,
-        "BEGINTIME": 1742870220000,
+        "BEGINTIME": 1742871240000,
         "ESTIMATEDTIMERESTORATION": 1742881500000,
-        "CUSTOMERSOUT": 1,
+        "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 25024753,
-        "COMMUNITIES": "Fort Collins",
+        "BATCHID": 25032353,
+        "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11693267.852299999,
-        "y": 4951632.8149000034
+        "x": -11660751.660599999,
+        "y": 4825797.9525000006
       }
     },
     {
       "attributes": {
-        "OBJECTID": 7,
+        "OBJECTID": 5,
         "BEGINTIME": 1742866440000,
         "ESTIMATEDTIMERESTORATION": 1742875200000,
         "CUSTOMERSOUT": 24,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 25024753,
+        "BATCHID": 25032353,
         "COMMUNITIES": "Berthoud",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -151,13 +169,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 8,
+        "OBJECTID": 6,
         "BEGINTIME": 1742866440000,
         "ESTIMATEDTIMERESTORATION": 1742875200000,
         "CUSTOMERSOUT": 15,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 25024753,
+        "BATCHID": 25032353,
         "COMMUNITIES": "Berthoud",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -169,13 +187,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 9,
+        "OBJECTID": 7,
         "BEGINTIME": 1742866380000,
         "ESTIMATEDTIMERESTORATION": 1742875200000,
         "CUSTOMERSOUT": 18,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 25024753,
+        "BATCHID": 25032353,
         "COMMUNITIES": "Berthoud",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -183,78 +201,6 @@
       "geometry": {
         "x": -11696768.9827,
         "y": 4908743.2903999984
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 10,
-        "BEGINTIME": 1742866440000,
-        "ESTIMATEDTIMERESTORATION": 1742875200000,
-        "CUSTOMERSOUT": 398,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 25024753,
-        "COMMUNITIES": "Berthoud",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11697310.2315,
-        "y": 4911447.7507999986
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 13,
-        "BEGINTIME": 1742869020000,
-        "ESTIMATEDTIMERESTORATION": 1742877000000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 25024753,
-        "COMMUNITIES": "Berthoud",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11696851.259,
-        "y": 4910751.9963999987
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 14,
-        "BEGINTIME": 1742860860000,
-        "ESTIMATEDTIMERESTORATION": 1742869800000,
-        "CUSTOMERSOUT": 16,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 25024753,
-        "COMMUNITIES": "Clifton",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -12073124.477299999,
-        "y": 4733598.3620000035
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 15,
-        "BEGINTIME": 1742866260000,
-        "ESTIMATEDTIMERESTORATION": 1742875200000,
-        "CUSTOMERSOUT": 65,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 25024753,
-        "COMMUNITIES": "Berthoud",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11696803.2324,
-        "y": 4908487.8347000033
       }
     }
   ]
