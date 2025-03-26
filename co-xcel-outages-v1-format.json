@@ -85,7 +85,7 @@
         "CUSTOMERSOUT": 3,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 26004753,
+        "BATCHID": 26011953,
         "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -103,7 +103,7 @@
         "CUSTOMERSOUT": 3,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 26004753,
+        "BATCHID": 26011953,
         "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -121,7 +121,7 @@
         "CUSTOMERSOUT": 20,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 26004753,
+        "BATCHID": 26011953,
         "COMMUNITIES": "Gilcrest,  Platteville",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -134,37 +134,73 @@
     {
       "attributes": {
         "OBJECTID": 5,
-        "BEGINTIME": 1742947020000,
-        "ESTIMATEDTIMERESTORATION": null,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "BEGINTIME": 1742947200000,
+        "ESTIMATEDTIMERESTORATION": 1742957100000,
+        "CUSTOMERSOUT": 14,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 26004753,
-        "COMMUNITIES": "Erie",
+        "BATCHID": 26011953,
+        "COMMUNITIES": "Federal Heights",
         "STATES": "CO",
-        "CREWSTATUS": null
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
-        "x": -11699550.924699999,
-        "y": 4867893.7700000033
+        "x": -11688571.569,
+        "y": 4844213.120099999
       }
     },
     {
       "attributes": {
         "OBJECTID": 6,
-        "BEGINTIME": 1742947200000,
-        "ESTIMATEDTIMERESTORATION": 1742956200000,
-        "CUSTOMERSOUT": 14,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "BEGINTIME": 1742950800000,
+        "ESTIMATEDTIMERESTORATION": 1742958900000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 26004753,
-        "COMMUNITIES": "Federal Heights",
+        "BATCHID": 26011953,
+        "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11688571.569,
-        "y": 4844213.120099999
+        "x": -11685890.4135,
+        "y": 4829027.7885999978
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 7,
+        "BEGINTIME": 1742950800000,
+        "ESTIMATEDTIMERESTORATION": 1742961600000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 26011953,
+        "COMMUNITIES": "Aurora",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11664997.1121,
+        "y": 4820323.3883000016
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
+        "BEGINTIME": 1742951520000,
+        "ESTIMATEDTIMERESTORATION": 1742962500000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 26011953,
+        "COMMUNITIES": "Westminster",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11691911.472100001,
+        "y": 4840535.4030999988
       }
     }
   ]
