@@ -79,13 +79,13 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 2,
+        "OBJECTID": 5,
         "BEGINTIME": 1743355320000,
         "ESTIMATEDTIMERESTORATION": 1743429600000,
         "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 31014443,
+        "BATCHID": 31022843,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -93,6 +93,24 @@
       "geometry": {
         "x": -11677966.357099999,
         "y": 4834477.3434000015
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 11,
+        "BEGINTIME": 1743387000000,
+        "ESTIMATEDTIMERESTORATION": 1743395400000,
+        "CUSTOMERSOUT": 151,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 31022843,
+        "COMMUNITIES": "Greeley",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11659416.5425,
+        "y": 4923656.0918999985
       }
     }
   ]
