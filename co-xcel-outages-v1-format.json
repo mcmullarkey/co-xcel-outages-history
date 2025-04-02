@@ -79,20 +79,20 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 3,
-        "BEGINTIME": 1743542040000,
-        "ESTIMATEDTIMERESTORATION": 1743550200000,
-        "CUSTOMERSOUT": 3,
+        "OBJECTID": 1,
+        "BEGINTIME": 1743579240000,
+        "ESTIMATEDTIMERESTORATION": 1743586200000,
+        "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 2072918,
-        "COMMUNITIES": "Westminster,  Denver",
+        "BATCHID": 2074518,
+        "COMMUNITIES": "Cherry Hills Village",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11691831.1362,
-        "y": 4836569.7374000028
+        "x": -11684133.6951,
+        "y": 4812038.1757000014
       }
     },
     {
@@ -103,7 +103,7 @@
         "CUSTOMERSOUT": 25,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 2072918,
+        "BATCHID": 2074518,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
@@ -111,6 +111,96 @@
       "geometry": {
         "x": -11691609.286499999,
         "y": 4836520.4174999967
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "BEGINTIME": 1743579780000,
+        "ESTIMATEDTIMERESTORATION": 1743590700000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 2074518,
+        "COMMUNITIES": "Morrison",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11710572.134300001,
+        "y": 4815426.2685000002
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 6,
+        "BEGINTIME": 1743542040000,
+        "ESTIMATEDTIMERESTORATION": 1743550200000,
+        "CUSTOMERSOUT": 3,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 2074518,
+        "COMMUNITIES": "Denver,  Westminster",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11691831.1362,
+        "y": 4836569.7374000028
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
+        "BEGINTIME": 1743579000000,
+        "ESTIMATEDTIMERESTORATION": 1743586200000,
+        "CUSTOMERSOUT": 14,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 2074518,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11691411.9782,
+        "y": 4836607.7273000032
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10,
+        "BEGINTIME": 1743579540000,
+        "ESTIMATEDTIMERESTORATION": 1743590700000,
+        "CUSTOMERSOUT": 2,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 2074518,
+        "COMMUNITIES": "Lakewood",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11706812.694699999,
+        "y": 4827073.3304999992
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 11,
+        "BEGINTIME": 1743579840000,
+        "ESTIMATEDTIMERESTORATION": 1743590700000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 2074518,
+        "COMMUNITIES": "La Salle",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11647329.7772,
+        "y": 4911390.6318999976
       }
     }
   ]
