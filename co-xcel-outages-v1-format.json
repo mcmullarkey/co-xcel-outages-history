@@ -79,13 +79,13 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 1,
+        "OBJECTID": 4,
         "BEGINTIME": 1743654840000,
-        "ESTIMATEDTIMERESTORATION": 1743665400000,
+        "ESTIMATEDTIMERESTORATION": 1743696000000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 3064918,
+        "BATCHID": 3072518,
         "COMMUNITIES": "Wheat Ridge",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,16 +97,16 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
+        "OBJECTID": 5,
         "BEGINTIME": 1743658620000,
-        "ESTIMATEDTIMERESTORATION": 1743668100000,
+        "ESTIMATEDTIMERESTORATION": 1743669900000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 3064918,
+        "BATCHID": 3072518,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
-        "CREWSTATUS": null
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
         "x": -11729934.380800001,
@@ -115,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 6,
         "BEGINTIME": 1743660120000,
         "ESTIMATEDTIMERESTORATION": 1743667200000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 3064918,
+        "BATCHID": 3072518,
         "COMMUNITIES": "Kersey",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,13 +133,67 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 8,
+        "BEGINTIME": 1743663540000,
+        "ESTIMATEDTIMERESTORATION": 1743674400000,
+        "CUSTOMERSOUT": 36,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 3072518,
+        "COMMUNITIES": "Aurora",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11669703.684599999,
+        "y": 4819874.6273000017
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 9,
+        "BEGINTIME": 1743663660000,
+        "ESTIMATEDTIMERESTORATION": 1743686100000,
+        "CUSTOMERSOUT": 6,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 3072518,
+        "COMMUNITIES": "Grand Junction",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -12095039.0493,
+        "y": 4733920.6013000011
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10,
+        "BEGINTIME": 1743664020000,
+        "ESTIMATEDTIMERESTORATION": 1743671700000,
+        "CUSTOMERSOUT": 59,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 3072518,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11679242.354499999,
+        "y": 4830895.3008999974
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 11,
         "BEGINTIME": 1743661380000,
         "ESTIMATEDTIMERESTORATION": 1743671700000,
         "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 3064918,
+        "BATCHID": 3072518,
         "COMMUNITIES": "Louisville",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -147,6 +201,42 @@
       "geometry": {
         "x": -11701770.0153,
         "y": 4860942.4566999972
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 12,
+        "BEGINTIME": 1743663540000,
+        "ESTIMATEDTIMERESTORATION": 1743673500000,
+        "CUSTOMERSOUT": 9,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 3072518,
+        "COMMUNITIES": "Aurora",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11669866.4626,
+        "y": 4819822.5793000013
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 13,
+        "BEGINTIME": 1743664140000,
+        "ESTIMATEDTIMERESTORATION": 1743674400000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 3072518,
+        "COMMUNITIES": "Englewood",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11673436.703499999,
+        "y": 4810155.6425999999
       }
     }
   ]
