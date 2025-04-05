@@ -79,13 +79,31 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 1,
+        "OBJECTID": 10,
+        "BEGINTIME": 1743833460000,
+        "ESTIMATEDTIMERESTORATION": 1743844500000,
+        "CUSTOMERSOUT": 3,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 5064118,
+        "COMMUNITIES": "Boulder",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11708425.950100001,
+        "y": 4879137.4245999977
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 12,
         "BEGINTIME": 1743792720000,
         "ESTIMATEDTIMERESTORATION": 1743803100000,
         "CUSTOMERSOUT": 16,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 5054518,
+        "BATCHID": 5064118,
         "COMMUNITIES": "Superior",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,20 +115,20 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
-        "BEGINTIME": 1743830700000,
-        "ESTIMATEDTIMERESTORATION": 1743840000000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "OBJECTID": 13,
+        "BEGINTIME": 1743831900000,
+        "ESTIMATEDTIMERESTORATION": 1743842700000,
+        "CUSTOMERSOUT": 24,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 5054518,
+        "BATCHID": 5064118,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11674924.3616,
-        "y": 4825945.8554999977
+        "x": -11689834.4219,
+        "y": 4831507.7644999996
       }
     }
   ]
