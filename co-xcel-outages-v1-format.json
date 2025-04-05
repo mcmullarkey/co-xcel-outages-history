@@ -79,13 +79,13 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 1,
+        "OBJECTID": 2,
         "BEGINTIME": 1743836640000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 3,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 5072918,
+        "BATCHID": 5074518,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +97,31 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
+        "OBJECTID": 3,
+        "BEGINTIME": 1743838740000,
+        "ESTIMATEDTIMERESTORATION": 1743849900000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 5074518,
+        "COMMUNITIES": "Northglenn",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11686898.210000001,
+        "y": 4853443.5930000022
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
         "BEGINTIME": 1743837840000,
-        "ESTIMATEDTIMERESTORATION": 1743849000000,
+        "ESTIMATEDTIMERESTORATION": 1743845400000,
         "CUSTOMERSOUT": 769,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 5072918,
+        "BATCHID": 5074518,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,13 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 5,
         "BEGINTIME": 1743792720000,
         "ESTIMATEDTIMERESTORATION": 1743868800000,
         "CUSTOMERSOUT": 16,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 5072918,
+        "BATCHID": 5074518,
         "COMMUNITIES": "Superior",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,13 +151,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 5,
+        "OBJECTID": 7,
         "BEGINTIME": 1743836460000,
         "ESTIMATEDTIMERESTORATION": 1743842700000,
         "CUSTOMERSOUT": 11,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 5072918,
+        "BATCHID": 5074518,
         "COMMUNITIES": "Fruita",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -151,13 +169,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 6,
+        "OBJECTID": 8,
         "BEGINTIME": 1743837780000,
-        "ESTIMATEDTIMERESTORATION": 1743849000000,
+        "ESTIMATEDTIMERESTORATION": 1743845400000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 5072918,
+        "BATCHID": 5074518,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -170,12 +188,30 @@
     {
       "attributes": {
         "OBJECTID": 9,
+        "BEGINTIME": 1743838920000,
+        "ESTIMATEDTIMERESTORATION": 1743849900000,
+        "CUSTOMERSOUT": 4,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 5074518,
+        "COMMUNITIES": "Morrison",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11710066.984200001,
+        "y": 4815764.7031000033
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 11,
         "BEGINTIME": 1743836700000,
         "ESTIMATEDTIMERESTORATION": 1743844500000,
         "CUSTOMERSOUT": 165,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 5072918,
+        "BATCHID": 5074518,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -187,13 +223,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 10,
+        "OBJECTID": 12,
         "BEGINTIME": 1743837000000,
         "ESTIMATEDTIMERESTORATION": 1743843600000,
         "CUSTOMERSOUT": 7,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 5072918,
+        "BATCHID": 5074518,
         "COMMUNITIES": "Grand Junction",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -201,6 +237,24 @@
       "geometry": {
         "x": -12094945.0211,
         "y": 4733898.8969999999
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 13,
+        "BEGINTIME": 1743838800000,
+        "ESTIMATEDTIMERESTORATION": 1743849900000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 5074518,
+        "COMMUNITIES": "Northglenn",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11687041.0953,
+        "y": 4853257.6599999964
       }
     }
   ]
