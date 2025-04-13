@@ -80,12 +80,30 @@
     {
       "attributes": {
         "OBJECTID": 1,
+        "BEGINTIME": 1744363020000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 174,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 13051318,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11677045.810600001,
+        "y": 4815734.4513000026
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
         "BEGINTIME": 1744381980000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 10,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 13044518,
+        "BATCHID": 13051318,
         "COMMUNITIES": "Nederland",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
+        "OBJECTID": 3,
         "BEGINTIME": 1744514760000,
         "ESTIMATEDTIMERESTORATION": 1744524000000,
         "CUSTOMERSOUT": 345,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 13044518,
+        "BATCHID": 13051318,
         "COMMUNITIES": "Bennett,  Denver,  Aurora,  Watkins",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
@@ -111,24 +129,6 @@
       "geometry": {
         "x": -11635817.138800001,
         "y": 4829978.3549000025
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 3,
-        "BEGINTIME": 1744363020000,
-        "ESTIMATEDTIMERESTORATION": null,
-        "CUSTOMERSOUT": 174,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 13044518,
-        "COMMUNITIES": "Denver",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11677045.810600001,
-        "y": 4815734.4513000026
       }
     }
   ]
