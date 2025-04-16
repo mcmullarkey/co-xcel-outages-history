@@ -80,48 +80,30 @@
     {
       "attributes": {
         "OBJECTID": 1,
-        "BEGINTIME": 1744722720000,
-        "ESTIMATEDTIMERESTORATION": 1744763400000,
-        "CUSTOMERSOUT": 1,
+        "BEGINTIME": 1744775820000,
+        "ESTIMATEDTIMERESTORATION": 1744786800000,
+        "CUSTOMERSOUT": 50,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 16051718,
-        "COMMUNITIES": "Loveland",
+        "BATCHID": 16052518,
+        "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11695936.306299999,
-        "y": 4931643.9157999977
+        "x": -11704384.1599,
+        "y": 4810463.8044999987
       }
     },
     {
       "attributes": {
         "OBJECTID": 2,
-        "BEGINTIME": 1744764360000,
-        "ESTIMATEDTIMERESTORATION": 1744797600000,
-        "CUSTOMERSOUT": 72,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 16051718,
-        "COMMUNITIES": "Denver",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11680885.3946,
-        "y": 4822673.7159999982
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 3,
         "BEGINTIME": 1744762140000,
         "ESTIMATEDTIMERESTORATION": 1744776000000,
         "CUSTOMERSOUT": 8,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 16051718,
+        "BATCHID": 16052518,
         "COMMUNITIES": "Highlands Ranch",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,20 +115,56 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
-        "BEGINTIME": 1744775700000,
-        "ESTIMATEDTIMERESTORATION": 1744785900000,
-        "CUSTOMERSOUT": 63,
+        "OBJECTID": 3,
+        "BEGINTIME": 1744764360000,
+        "ESTIMATEDTIMERESTORATION": 1744797600000,
+        "CUSTOMERSOUT": 72,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 16051718,
+        "BATCHID": 16052518,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11680885.3946,
+        "y": 4822673.7159999982
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "BEGINTIME": 1744775700000,
+        "ESTIMATEDTIMERESTORATION": 1744786800000,
+        "CUSTOMERSOUT": 13,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 16052518,
         "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11704384.1599,
-        "y": 4810463.8044999987
+        "x": -11704400.4849,
+        "y": 4810564.7858999968
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "BEGINTIME": 1744722720000,
+        "ESTIMATEDTIMERESTORATION": 1744763400000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 16052518,
+        "COMMUNITIES": "Loveland",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11695936.306299999,
+        "y": 4931643.9157999977
       }
     }
   ]
