@@ -85,7 +85,7 @@
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 16034518,
+        "BATCHID": 16042518,
         "COMMUNITIES": "Loveland",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -98,30 +98,12 @@
     {
       "attributes": {
         "OBJECTID": 2,
-        "BEGINTIME": 1744710720000,
-        "ESTIMATEDTIMERESTORATION": 1744717500000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 16034518,
-        "COMMUNITIES": "Lakewood",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11705499.1537,
-        "y": 4819401.7806999981
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 3,
         "BEGINTIME": 1744764360000,
         "ESTIMATEDTIMERESTORATION": 1744797600000,
         "CUSTOMERSOUT": 72,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 16034518,
+        "BATCHID": 16042518,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 3,
         "BEGINTIME": 1744762140000,
         "ESTIMATEDTIMERESTORATION": 1744776000000,
         "CUSTOMERSOUT": 8,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 16034518,
+        "BATCHID": 16042518,
         "COMMUNITIES": "Highlands Ranch",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -151,13 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 5,
+        "OBJECTID": 4,
         "BEGINTIME": 1744751460000,
         "ESTIMATEDTIMERESTORATION": 1744767900000,
         "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 16034518,
+        "BATCHID": 16042518,
         "COMMUNITIES": "Longmont",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -169,20 +151,38 @@
     },
     {
       "attributes": {
-        "OBJECTID": 6,
-        "BEGINTIME": 1744703700000,
-        "ESTIMATEDTIMERESTORATION": 1744732800000,
-        "CUSTOMERSOUT": 6,
+        "OBJECTID": 5,
+        "BEGINTIME": 1744775640000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 4,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 16034518,
-        "COMMUNITIES": "Golden",
+        "BATCHID": 16042518,
+        "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11708941.2325,
-        "y": 4836144.6953999996
+        "x": -11676914.234299999,
+        "y": 4812402.9447000027
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 6,
+        "BEGINTIME": 1744775700000,
+        "ESTIMATEDTIMERESTORATION": 1744785900000,
+        "CUSTOMERSOUT": 63,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 16042518,
+        "COMMUNITIES": "Littleton",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11704384.1599,
+        "y": 4810463.8044999987
       }
     }
   ]
