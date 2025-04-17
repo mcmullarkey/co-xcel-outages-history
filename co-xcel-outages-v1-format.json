@@ -85,7 +85,7 @@
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 16195718,
+        "BATCHID": 16210118,
         "COMMUNITIES": "Loveland",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,49 +97,31 @@
     },
     {
       "attributes": {
-        "OBJECTID": 3,
-        "BEGINTIME": 1744829820000,
-        "ESTIMATEDTIMERESTORATION": null,
-        "CUSTOMERSOUT": 1,
+        "OBJECTID": 2,
+        "BEGINTIME": 1744832220000,
+        "ESTIMATEDTIMERESTORATION": 1744843500000,
+        "CUSTOMERSOUT": 24,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 16195718,
-        "COMMUNITIES": "Golden",
+        "BATCHID": 16210118,
+        "COMMUNITIES": "Ward,  Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11714721.418,
-        "y": 4827131.0746999979
+        "x": -11741548.3978,
+        "y": 4882014.3150999993
       }
     },
     {
       "attributes": {
-        "OBJECTID": 4,
-        "BEGINTIME": 1744833060000,
-        "ESTIMATEDTIMERESTORATION": 1744844400000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 16195718,
-        "COMMUNITIES": "Ward",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11741807.1733,
-        "y": 4881435.1281000003
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 5,
+        "OBJECTID": 3,
         "BEGINTIME": 1744816200000,
         "ESTIMATEDTIMERESTORATION": 1744837200000,
         "CUSTOMERSOUT": 10,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 16195718,
+        "BATCHID": 16210118,
         "COMMUNITIES": "Lakewood",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -151,20 +133,38 @@
     },
     {
       "attributes": {
-        "OBJECTID": 6,
-        "BEGINTIME": 1744832220000,
-        "ESTIMATEDTIMERESTORATION": 1744842600000,
+        "OBJECTID": 4,
+        "BEGINTIME": 1744836360000,
+        "ESTIMATEDTIMERESTORATION": 1744845300000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 16195718,
-        "COMMUNITIES": "Ward",
+        "BATCHID": 16210118,
+        "COMMUNITIES": "Wheat Ridge",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11742146.405000001,
-        "y": 4881558.0019999966
+        "x": -11695865.375700001,
+        "y": 4834251.9798000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 6,
+        "BEGINTIME": 1744834800000,
+        "ESTIMATEDTIMERESTORATION": 1744844400000,
+        "CUSTOMERSOUT": 2,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 16210118,
+        "COMMUNITIES": "Golden",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11716674.3092,
+        "y": 4825529.4488999993
       }
     }
   ]
