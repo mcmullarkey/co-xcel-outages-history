@@ -80,12 +80,30 @@
     {
       "attributes": {
         "OBJECTID": 1,
+        "BEGINTIME": 1744944120000,
+        "ESTIMATEDTIMERESTORATION": 1744955100000,
+        "CUSTOMERSOUT": 26,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 18024918,
+        "COMMUNITIES": "Ault",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11658230.9286,
+        "y": 4951197.4351999983
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
         "BEGINTIME": 1744926720000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 11,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 18022518,
+        "BATCHID": 18024918,
         "COMMUNITIES": "Centennial,  Englewood",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -93,24 +111,6 @@
       "geometry": {
         "x": -11672643.241599999,
         "y": 4806275.997299999
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 2,
-        "BEGINTIME": 1744941840000,
-        "ESTIMATEDTIMERESTORATION": 1744949700000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 18022518,
-        "COMMUNITIES": "Denver",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11685340.0833,
-        "y": 4818150.0617000014
       }
     }
   ]
