@@ -81,11 +81,11 @@
       "attributes": {
         "OBJECTID": 1,
         "BEGINTIME": 1744944120000,
-        "ESTIMATEDTIMERESTORATION": 1744955100000,
+        "ESTIMATEDTIMERESTORATION": 1744954200000,
         "CUSTOMERSOUT": 26,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 18024918,
+        "BATCHID": 18032518,
         "COMMUNITIES": "Ault",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -98,12 +98,30 @@
     {
       "attributes": {
         "OBJECTID": 2,
+        "BEGINTIME": 1744945560000,
+        "ESTIMATEDTIMERESTORATION": 1744956000000,
+        "CUSTOMERSOUT": 57,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 18032518,
+        "COMMUNITIES": "Boulder",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11733109.261700001,
+        "y": 4875498.3914000019
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3,
         "BEGINTIME": 1744926720000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 11,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 18024918,
+        "BATCHID": 18032518,
         "COMMUNITIES": "Centennial,  Englewood",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -111,6 +129,24 @@
       "geometry": {
         "x": -11672643.241599999,
         "y": 4806275.997299999
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "BEGINTIME": 1744946340000,
+        "ESTIMATEDTIMERESTORATION": 1744957800000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 18032518,
+        "COMMUNITIES": "Highlands Ranch",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11686227.398800001,
+        "y": 4797998.2541999966
       }
     }
   ]
