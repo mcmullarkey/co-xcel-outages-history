@@ -76,5 +76,42 @@
       "length": 255
     }
   ],
-  "features": []
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 1,
+        "BEGINTIME": 1744979640000,
+        "ESTIMATEDTIMERESTORATION": 1744986600000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 18153318,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11680125.5801,
+        "y": 4815297.9644000009
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 19,
+        "BEGINTIME": 1744990140000,
+        "ESTIMATEDTIMERESTORATION": 1745001000000,
+        "CUSTOMERSOUT": 2,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 18153318,
+        "COMMUNITIES": "Lakewood",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11699738.145199999,
+        "y": 4826201.9692000002
+      }
+    }
+  ]
 }
