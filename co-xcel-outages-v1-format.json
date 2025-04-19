@@ -79,20 +79,56 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 2,
-        "BEGINTIME": 1744997700000,
-        "ESTIMATEDTIMERESTORATION": 1745007300000,
-        "CUSTOMERSOUT": 1,
+        "OBJECTID": 5,
+        "BEGINTIME": 1745008080000,
+        "ESTIMATEDTIMERESTORATION": 1745015400000,
+        "CUSTOMERSOUT": 15,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 18194918,
-        "COMMUNITIES": "Lafayette",
+        "BATCHID": 18205718,
+        "COMMUNITIES": "Lone Tree",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
-        "x": -11699076.3608,
-        "y": 4861192.1141000018
+        "x": -11675973.462099999,
+        "y": 4800761.1821999997
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
+        "BEGINTIME": 1745009520000,
+        "ESTIMATEDTIMERESTORATION": 1745020800000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 18205718,
+        "COMMUNITIES": "Aurora",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11659081.217,
+        "y": 4801545.9591000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 17,
+        "BEGINTIME": 1745009100000,
+        "ESTIMATEDTIMERESTORATION": 1745017200000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 18205718,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11677640.199900001,
+        "y": 4821354.3681999967
       }
     }
   ]
