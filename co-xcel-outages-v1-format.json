@@ -80,12 +80,12 @@
     {
       "attributes": {
         "OBJECTID": 1,
-        "BEGINTIME": 1745019060000,
+        "BEGINTIME": 1745019180000,
         "ESTIMATEDTIMERESTORATION": 1745039700000,
-        "CUSTOMERSOUT": 32,
+        "CUSTOMERSOUT": 13,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 19034518,
+        "BATCHID": 19042118,
         "COMMUNITIES": "Grand Junction",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
@@ -93,6 +93,24 @@
       "geometry": {
         "x": -12082667.3484,
         "y": 4736411.5728999972
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
+        "BEGINTIME": 1745019060000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 3,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 19042118,
+        "COMMUNITIES": "Grand Junction",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -12082498.603599999,
+        "y": 4736231.8888000026
       }
     }
   ]
