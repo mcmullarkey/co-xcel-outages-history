@@ -79,13 +79,13 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 1,
         "BEGINTIME": 1745137200000,
         "ESTIMATEDTIMERESTORATION": 1745164800000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 20152518,
+        "BATCHID": 20154518,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +97,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 2,
         "BEGINTIME": 1745148240000,
         "ESTIMATEDTIMERESTORATION": 1745159400000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 20152518,
+        "BATCHID": 20154518,
         "COMMUNITIES": "Red Cliff",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,20 +115,38 @@
     },
     {
       "attributes": {
-        "OBJECTID": 5,
+        "OBJECTID": 3,
         "BEGINTIME": 1745160060000,
-        "ESTIMATEDTIMERESTORATION": 1745165700000,
+        "ESTIMATEDTIMERESTORATION": 1745169300000,
         "CUSTOMERSOUT": 30,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 20152518,
+        "BATCHID": 20154518,
         "COMMUNITIES": "Centennial",
         "STATES": "CO",
-        "CREWSTATUS": null
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
         "x": -11682431.2037,
         "y": 4807320.7562000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "BEGINTIME": 1745162880000,
+        "ESTIMATEDTIMERESTORATION": 1745172900000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 20154518,
+        "COMMUNITIES": "Lafayette",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11699076.3608,
+        "y": 4861192.1141000018
       }
     }
   ]
