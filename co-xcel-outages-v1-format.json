@@ -79,13 +79,31 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 6,
+        "OBJECTID": 5,
+        "BEGINTIME": 1745098020000,
+        "ESTIMATEDTIMERESTORATION": 1745107200000,
+        "CUSTOMERSOUT": 3,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 19214517,
+        "COMMUNITIES": "Greeley",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11656105.158300001,
+        "y": 4933557.7977000028
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
         "BEGINTIME": 1745093700000,
-        "ESTIMATEDTIMERESTORATION": 1745103600000,
+        "ESTIMATEDTIMERESTORATION": 1745107200000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 19211718,
+        "BATCHID": 19214517,
         "COMMUNITIES": "Broomfield",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 7,
+        "OBJECTID": 9,
         "BEGINTIME": 1745077680000,
-        "ESTIMATEDTIMERESTORATION": 1745099100000,
+        "ESTIMATEDTIMERESTORATION": 1745107200000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 19211718,
+        "BATCHID": 19214517,
         "COMMUNITIES": "Broomfield",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
@@ -111,24 +129,6 @@
       "geometry": {
         "x": -11697828.0263,
         "y": 4857200.4682999998
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 8,
-        "BEGINTIME": 1745068260000,
-        "ESTIMATEDTIMERESTORATION": 1745102700000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 19211718,
-        "COMMUNITIES": "Littleton",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11679851.4758,
-        "y": 4801189.3545000032
       }
     }
   ]
