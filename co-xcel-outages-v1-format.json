@@ -79,31 +79,49 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 3,
-        "BEGINTIME": 1745060400000,
-        "ESTIMATEDTIMERESTORATION": null,
-        "CUSTOMERSOUT": 4,
+        "OBJECTID": 6,
+        "BEGINTIME": 1745093700000,
+        "ESTIMATEDTIMERESTORATION": 1745103600000,
+        "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 19200118,
-        "COMMUNITIES": "Greeley",
+        "BATCHID": 19211718,
+        "COMMUNITIES": "Broomfield",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11653667.540899999,
-        "y": 4928791.4628999978
+        "x": -11695209.873100001,
+        "y": 4859340.6031000018
       }
     },
     {
       "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 7,
+        "BEGINTIME": 1745077680000,
+        "ESTIMATEDTIMERESTORATION": 1745099100000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 19211718,
+        "COMMUNITIES": "Broomfield",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11697828.0263,
+        "y": 4857200.4682999998
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
         "BEGINTIME": 1745068260000,
         "ESTIMATEDTIMERESTORATION": 1745102700000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 19200118,
+        "BATCHID": 19211718,
         "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -111,42 +129,6 @@
       "geometry": {
         "x": -11679851.4758,
         "y": 4801189.3545000032
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 5,
-        "BEGINTIME": 1745092320000,
-        "ESTIMATEDTIMERESTORATION": 1745102700000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 19200118,
-        "COMMUNITIES": "Thornton",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11686321.624,
-        "y": 4848362.8584000021
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 7,
-        "BEGINTIME": 1745077680000,
-        "ESTIMATEDTIMERESTORATION": 1745100900000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 19200118,
-        "COMMUNITIES": "Broomfield",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11697828.0263,
-        "y": 4857200.4682999998
       }
     }
   ]
