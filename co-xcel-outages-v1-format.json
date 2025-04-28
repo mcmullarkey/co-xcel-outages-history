@@ -80,66 +80,30 @@
     {
       "attributes": {
         "OBJECTID": 1,
-        "BEGINTIME": 1745717520000,
-        "ESTIMATEDTIMERESTORATION": 1745845200000,
-        "CUSTOMERSOUT": 0,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 27233228,
-        "COMMUNITIES": "Dumont,  Empire,  Idaho Springs",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11765893.4539,
-        "y": 4823235.4051000029
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 2,
         "BEGINTIME": 1745773980000,
         "ESTIMATEDTIMERESTORATION": 1745798400000,
-        "CUSTOMERSOUT": 10,
+        "CUSTOMERSOUT": 39,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 27233228,
+        "BATCHID": 27235228,
         "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11687232.305399999,
-        "y": 4809086.5371999964
+        "x": -11687349.754099999,
+        "y": 4809128.9394999966
       }
     },
     {
       "attributes": {
-        "OBJECTID": 3,
-        "BEGINTIME": 1745791860000,
-        "ESTIMATEDTIMERESTORATION": 1745799300000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 27233228,
-        "COMMUNITIES": "Lakewood",
-        "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
-      },
-      "geometry": {
-        "x": -11699795.089499999,
-        "y": 4821546.5758000016
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 2,
         "BEGINTIME": 1745570220000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 27233228,
+        "BATCHID": 27235228,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -151,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 10,
+        "OBJECTID": 7,
         "BEGINTIME": 1745777400000,
         "ESTIMATEDTIMERESTORATION": 1745794800000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 27233228,
+        "BATCHID": 27235228,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -169,13 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 11,
+        "OBJECTID": 8,
         "BEGINTIME": 1745582520000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 148,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 27233228,
+        "BATCHID": 27235228,
         "COMMUNITIES": "Greenwood Village",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -187,20 +151,38 @@
     },
     {
       "attributes": {
-        "OBJECTID": 13,
+        "OBJECTID": 10,
         "BEGINTIME": 1745784600000,
-        "ESTIMATEDTIMERESTORATION": 1745802000000,
+        "ESTIMATEDTIMERESTORATION": 1745803800000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 27233228,
+        "BATCHID": 27235228,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
-        "CREWSTATUS": null
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
         "x": -11672076.9059,
         "y": 4823506.503700003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 11,
+        "BEGINTIME": 1745717520000,
+        "ESTIMATEDTIMERESTORATION": 1745845200000,
+        "CUSTOMERSOUT": 0,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 27235228,
+        "COMMUNITIES": "Dumont,  Empire,  Idaho Springs",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11765893.4539,
+        "y": 4823235.4051000029
       }
     }
   ]
