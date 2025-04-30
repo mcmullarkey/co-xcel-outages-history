@@ -79,31 +79,13 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 1,
-        "BEGINTIME": 1745828880000,
-        "ESTIMATEDTIMERESTORATION": null,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 30074828,
-        "COMMUNITIES": "Broomfield",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11704023.3912,
-        "y": 4853804.6216999963
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 2,
         "BEGINTIME": 1745997960000,
-        "ESTIMATEDTIMERESTORATION": 1746005400000,
+        "ESTIMATEDTIMERESTORATION": 1746006300000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30074828,
+        "BATCHID": 30082027,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,13 +97,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 5,
+        "OBJECTID": 4,
         "BEGINTIME": 1745983440000,
         "ESTIMATEDTIMERESTORATION": 1746000000000,
         "CUSTOMERSOUT": 6,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30074828,
+        "BATCHID": 30082027,
         "COMMUNITIES": "Cherry Hills Village",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
@@ -133,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 7,
+        "OBJECTID": 6,
         "BEGINTIME": 1745983440000,
         "ESTIMATEDTIMERESTORATION": 1746001800000,
         "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30074828,
+        "BATCHID": 30082027,
         "COMMUNITIES": "Cherry Hills Village",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
@@ -151,31 +133,67 @@
     },
     {
       "attributes": {
-        "OBJECTID": 9,
-        "BEGINTIME": 1745998620000,
-        "ESTIMATEDTIMERESTORATION": 1746009900000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "OBJECTID": 12,
+        "BEGINTIME": 1746000300000,
+        "ESTIMATEDTIMERESTORATION": 1746026100000,
+        "CUSTOMERSOUT": 64,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30074828,
-        "COMMUNITIES": "Denver",
+        "BATCHID": 30082027,
+        "COMMUNITIES": "Arvada",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11689110.979899999,
-        "y": 4819897.1661000028
+        "x": -11699268.206599999,
+        "y": 4840226.9997000024
       }
     },
     {
       "attributes": {
-        "OBJECTID": 10,
+        "OBJECTID": 13,
+        "BEGINTIME": 1746000540000,
+        "ESTIMATEDTIMERESTORATION": 1746011700000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 30082027,
+        "COMMUNITIES": "Grand Junction",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -12081926.6307,
+        "y": 4734108.2685000002
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 15,
+        "BEGINTIME": 1746000900000,
+        "ESTIMATEDTIMERESTORATION": 1746011700000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 30082027,
+        "COMMUNITIES": "Fruita",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -12101620.7062,
+        "y": 4741144.7805000022
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 16,
         "BEGINTIME": 1745894100000,
         "ESTIMATEDTIMERESTORATION": 1746054900000,
         "CUSTOMERSOUT": 29,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30074828,
+        "BATCHID": 30082027,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -183,6 +201,24 @@
       "geometry": {
         "x": -11687962.4778,
         "y": 4829130.1740000024
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 17,
+        "BEGINTIME": 1745828880000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 30082027,
+        "COMMUNITIES": "Broomfield",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11704023.3912,
+        "y": 4853804.6216999963
       }
     }
   ]
