@@ -81,14 +81,14 @@
       "attributes": {
         "OBJECTID": 1,
         "BEGINTIME": 1745983440000,
-        "ESTIMATEDTIMERESTORATION": 1745999100000,
-        "CUSTOMERSOUT": 8,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "ESTIMATEDTIMERESTORATION": 1746000000000,
+        "CUSTOMERSOUT": 6,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30054428,
+        "BATCHID": 30064828,
         "COMMUNITIES": "Cherry Hills Village",
         "STATES": "CO",
-        "CREWSTATUS": null
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
         "x": -11681228.9967,
@@ -97,13 +97,31 @@
     },
     {
       "attributes": {
-        "OBJECTID": 14,
+        "OBJECTID": 3,
+        "BEGINTIME": 1745983440000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 2,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 30064828,
+        "COMMUNITIES": "Cherry Hills Village",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11681295.032499999,
+        "y": 4813919.0221000016
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
         "BEGINTIME": 1745894100000,
         "ESTIMATEDTIMERESTORATION": 1746054900000,
         "CUSTOMERSOUT": 29,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30054428,
+        "BATCHID": 30064828,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,13 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 15,
+        "OBJECTID": 5,
         "BEGINTIME": 1745828880000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30054428,
+        "BATCHID": 30064828,
         "COMMUNITIES": "Broomfield",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -129,24 +147,6 @@
       "geometry": {
         "x": -11704023.3912,
         "y": 4853804.6216999963
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 17,
-        "BEGINTIME": 1745991300000,
-        "ESTIMATEDTIMERESTORATION": 1746002700000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 30054428,
-        "COMMUNITIES": "Lakewood",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11697610.1974,
-        "y": 4815796.5094000027
       }
     }
   ]
