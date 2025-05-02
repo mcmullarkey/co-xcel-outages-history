@@ -79,13 +79,13 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 12,
         "BEGINTIME": 1746137760000,
         "ESTIMATEDTIMERESTORATION": 1746176400000,
         "CUSTOMERSOUT": 229,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 2064827,
+        "BATCHID": 2072827,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,31 +97,49 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
-        "BEGINTIME": 1746165900000,
-        "ESTIMATEDTIMERESTORATION": 1746174600000,
-        "CUSTOMERSOUT": 60,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "OBJECTID": 13,
+        "BEGINTIME": 1746168780000,
+        "ESTIMATEDTIMERESTORATION": 1746173700000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 2064827,
-        "COMMUNITIES": "Lakewood",
+        "BATCHID": 2072827,
+        "COMMUNITIES": "Edgewater",
         "STATES": "CO",
-        "CREWSTATUS": null
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
-        "x": -11697554.417399999,
-        "y": 4821719.6235999987
+        "x": -11696657.429499999,
+        "y": 4830064.4926000014
       }
     },
     {
       "attributes": {
-        "OBJECTID": 5,
+        "OBJECTID": 14,
+        "BEGINTIME": 1746170520000,
+        "ESTIMATEDTIMERESTORATION": 1746181800000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 2072827,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11676243.8115,
+        "y": 4827464.2128999978
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 16,
         "BEGINTIME": 1746148920000,
         "ESTIMATEDTIMERESTORATION": 1746159300000,
         "CUSTOMERSOUT": 31,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 2064827,
+        "BATCHID": 2072827,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -129,6 +147,42 @@
       "geometry": {
         "x": -11695147.327100001,
         "y": 4817459.9072000012
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 18,
+        "BEGINTIME": 1746170100000,
+        "ESTIMATEDTIMERESTORATION": 1746177300000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 2072827,
+        "COMMUNITIES": "Boulder",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11712613.3619,
+        "y": 4872547.2968000025
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 19,
+        "BEGINTIME": 1746169680000,
+        "ESTIMATEDTIMERESTORATION": 1746176400000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 2072827,
+        "COMMUNITIES": "Littleton",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11696054.1724,
+        "y": 4796535.7998000011
       }
     }
   ]
