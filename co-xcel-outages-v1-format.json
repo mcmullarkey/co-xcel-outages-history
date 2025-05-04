@@ -79,16 +79,34 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 2,
+        "BEGINTIME": 1746368340000,
+        "ESTIMATEDTIMERESTORATION": 1746376200000,
+        "CUSTOMERSOUT": 2,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 4144427,
+        "COMMUNITIES": "Boulder",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11735687.8018,
+        "y": 4869022.5188999996
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
         "BEGINTIME": 1746362880000,
         "ESTIMATEDTIMERESTORATION": 1746369900000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 4142027,
+        "BATCHID": 4144427,
         "COMMUNITIES": "Wheat Ridge",
         "STATES": "CO",
-        "CREWSTATUS": null
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
         "x": -11700298.468499999,
@@ -97,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 5,
         "BEGINTIME": 1746366600000,
         "ESTIMATEDTIMERESTORATION": 1746373500000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 4142027,
+        "BATCHID": 4144427,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,67 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 6,
-        "BEGINTIME": 1746368340000,
-        "ESTIMATEDTIMERESTORATION": 1746379800000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 4142027,
-        "COMMUNITIES": "Denver",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11691435.2707,
-        "y": 4823101.4155000001
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 8,
-        "BEGINTIME": 1746367560000,
-        "ESTIMATEDTIMERESTORATION": 1746373500000,
-        "CUSTOMERSOUT": 326,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 4142027,
-        "COMMUNITIES": "Rifle",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11998164.399,
-        "y": 4798319.2084000036
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 9,
-        "BEGINTIME": 1746368160000,
-        "ESTIMATEDTIMERESTORATION": 1746379800000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 4142027,
-        "COMMUNITIES": "Silverthorne",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11808958.5144,
-        "y": 4810588.0725999996
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 10,
+        "OBJECTID": 7,
         "BEGINTIME": 1746345720000,
         "ESTIMATEDTIMERESTORATION": 1746371700000,
         "CUSTOMERSOUT": 3,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 4142027,
+        "BATCHID": 4144427,
         "COMMUNITIES": "Westminster,  Broomfield",
         "STATES": "CO",
         "CREWSTATUS": null
