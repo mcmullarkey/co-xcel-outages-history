@@ -80,15 +80,33 @@
     {
       "attributes": {
         "OBJECTID": 1,
-        "BEGINTIME": 1746934680000,
-        "ESTIMATEDTIMERESTORATION": 1746943200000,
-        "CUSTOMERSOUT": 69,
+        "BEGINTIME": 1746934500000,
+        "ESTIMATEDTIMERESTORATION": 1746944100000,
+        "CUSTOMERSOUT": 14,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 11042028,
+        "BATCHID": 11044427,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11652519.3649,
+        "y": 4828094.4371000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
+        "BEGINTIME": 1746934680000,
+        "ESTIMATEDTIMERESTORATION": 1746944100000,
+        "CUSTOMERSOUT": 69,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 11044427,
+        "COMMUNITIES": "Aurora",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
         "x": -11652631.522599999,
@@ -97,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
+        "OBJECTID": 3,
         "BEGINTIME": 1746710640000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 7,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 11042028,
+        "BATCHID": 11044427,
         "COMMUNITIES": "Englewood,  Cherry Hills Village",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -111,24 +129,6 @@
       "geometry": {
         "x": -11685570.308699999,
         "y": 4813560.2415999994
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 3,
-        "BEGINTIME": 1746934500000,
-        "ESTIMATEDTIMERESTORATION": 1746944100000,
-        "CUSTOMERSOUT": 14,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 11042028,
-        "COMMUNITIES": "Aurora",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11652519.3649,
-        "y": 4828094.4371000007
       }
     }
   ]
