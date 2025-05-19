@@ -80,12 +80,30 @@
     {
       "attributes": {
         "OBJECTID": 1,
+        "BEGINTIME": 1747604700000,
+        "ESTIMATEDTIMERESTORATION": 1747612800000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 18223427,
+        "COMMUNITIES": "Wheat Ridge",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11697098.283599999,
+        "y": 4833871.0881000012
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
         "BEGINTIME": 1747579680000,
         "ESTIMATEDTIMERESTORATION": 1747608300000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 18215827,
+        "BATCHID": 18223427,
         "COMMUNITIES": "Greeley",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,31 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
-        "BEGINTIME": 1747602600000,
-        "ESTIMATEDTIMERESTORATION": 1747610100000,
-        "CUSTOMERSOUT": 20,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 18215827,
-        "COMMUNITIES": "Windsor",
-        "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
-      },
-      "geometry": {
-        "x": -11678187.5099,
-        "y": 4935093.0604000017
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 3,
         "BEGINTIME": 1747604040000,
         "ESTIMATEDTIMERESTORATION": 1747610100000,
         "CUSTOMERSOUT": 260,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 18215827,
+        "BATCHID": 18223427,
         "COMMUNITIES": "Blanca,  De Beque,  Parachute",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -134,19 +134,37 @@
     {
       "attributes": {
         "OBJECTID": 4,
-        "BEGINTIME": 1747604700000,
+        "BEGINTIME": 1747605600000,
         "ESTIMATEDTIMERESTORATION": 1747615500000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 18215827,
-        "COMMUNITIES": "Wheat Ridge",
+        "BATCHID": 18223427,
+        "COMMUNITIES": "Broomfield",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11697098.283599999,
-        "y": 4833871.0881000012
+        "x": -11695227.6865,
+        "y": 4856555.3997000009
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "BEGINTIME": 1747607280000,
+        "ESTIMATEDTIMERESTORATION": 1747617300000,
+        "CUSTOMERSOUT": 55,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 18223427,
+        "COMMUNITIES": "Westminster",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11700698.2491,
+        "y": 4849781.0582000017
       }
     }
   ]
