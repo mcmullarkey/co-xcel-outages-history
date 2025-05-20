@@ -79,13 +79,31 @@
   "features": [
     {
       "attributes": {
+        "OBJECTID": 1,
+        "BEGINTIME": 1747694700000,
+        "ESTIMATEDTIMERESTORATION": 1747705500000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 19224627,
+        "COMMUNITIES": "Golden",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11708918.5912,
+        "y": 4827223.8246999979
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 2,
         "BEGINTIME": 1747660320000,
         "ESTIMATEDTIMERESTORATION": 1747697400000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 19222627,
+        "BATCHID": 19224627,
         "COMMUNITIES": "Fort Collins",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -103,7 +121,7 @@
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 19222627,
+        "BATCHID": 19224627,
         "COMMUNITIES": "Carbondale",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -121,7 +139,7 @@
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 19222627,
+        "BATCHID": 19224627,
         "COMMUNITIES": "Golden",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -129,6 +147,42 @@
       "geometry": {
         "x": -11709999.1973,
         "y": 4826777.6758000031
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 6,
+        "BEGINTIME": 1747694400000,
+        "ESTIMATEDTIMERESTORATION": 1747705500000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 19224627,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11676798.030099999,
+        "y": 4830786.3928000033
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 7,
+        "BEGINTIME": 1747694460000,
+        "ESTIMATEDTIMERESTORATION": 1747705500000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 19224627,
+        "COMMUNITIES": "Commerce City",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11680451.978799999,
+        "y": 4837938.6322000027
       }
     }
   ]
