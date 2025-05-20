@@ -76,5 +76,42 @@
       "length": 255
     }
   ],
-  "features": []
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 13,
+        "BEGINTIME": 1747713660000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 105,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 20042627,
+        "COMMUNITIES": "Evergreen",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11723965.247099999,
+        "y": 4812684.5974000022
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 14,
+        "BEGINTIME": 1747713960000,
+        "ESTIMATEDTIMERESTORATION": 1747721700000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 20042627,
+        "COMMUNITIES": "Evergreen",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11724226.656500001,
+        "y": 4813106.7062000036
+      }
+    }
+  ]
 }
