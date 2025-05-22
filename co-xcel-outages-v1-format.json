@@ -79,13 +79,31 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 1,
+        "OBJECTID": 8,
+        "BEGINTIME": 1747860540000,
+        "ESTIMATEDTIMERESTORATION": 1747883700000,
+        "CUSTOMERSOUT": 52,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 22003426,
+        "COMMUNITIES": "Arvada,  Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11687102.741799999,
+        "y": 4838275.6169999987
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 9,
         "BEGINTIME": 1747862820000,
         "ESTIMATEDTIMERESTORATION": 1747872900000,
         "CUSTOMERSOUT": 24,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 21234626,
+        "BATCHID": 22003426,
         "COMMUNITIES": "Lakewood",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,31 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
-        "BEGINTIME": 1747861500000,
-        "ESTIMATEDTIMERESTORATION": 1747883700000,
-        "CUSTOMERSOUT": 2,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 21234626,
-        "COMMUNITIES": "Copper Mountain,  Frisco",
-        "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
-      },
-      "geometry": {
-        "x": -11816824.979699999,
-        "y": 4793889.507600002
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 10,
         "BEGINTIME": 1747849020000,
         "ESTIMATEDTIMERESTORATION": 1747883700000,
         "CUSTOMERSOUT": 13,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 21234626,
+        "BATCHID": 22003426,
         "COMMUNITIES": "Lakewood",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -129,24 +129,6 @@
       "geometry": {
         "x": -11696086.897,
         "y": 4821361.7232000008
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 15,
-        "BEGINTIME": 1747860540000,
-        "ESTIMATEDTIMERESTORATION": 1747883700000,
-        "CUSTOMERSOUT": 52,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 21234626,
-        "COMMUNITIES": "Arvada,  Denver",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11687102.741799999,
-        "y": 4838275.6169999987
       }
     }
   ]
