@@ -85,7 +85,7 @@
         "CUSTOMERSOUT": 70,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 23173427,
+        "BATCHID": 23174627,
         "COMMUNITIES": "Thornton",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -98,30 +98,12 @@
     {
       "attributes": {
         "OBJECTID": 3,
-        "BEGINTIME": 1748016240000,
-        "ESTIMATEDTIMERESTORATION": 1748026800000,
-        "CUSTOMERSOUT": 14,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 23173427,
-        "COMMUNITIES": "Denver",
-        "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
-      },
-      "geometry": {
-        "x": -11692100.1086,
-        "y": 4828705.8542999998
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 4,
         "BEGINTIME": 1748018040000,
         "ESTIMATEDTIMERESTORATION": 1748026800000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 23173427,
+        "BATCHID": 23174627,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,13 +115,31 @@
     },
     {
       "attributes": {
+        "OBJECTID": 4,
+        "BEGINTIME": 1748021940000,
+        "ESTIMATEDTIMERESTORATION": 1748029500000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 23174627,
+        "COMMUNITIES": "Merino",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11489719.476500001,
+        "y": 4957538.8753999993
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 5,
         "BEGINTIME": 1748011860000,
         "ESTIMATEDTIMERESTORATION": 1748025900000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 23173427,
+        "BATCHID": 23174627,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -153,11 +153,11 @@
       "attributes": {
         "OBJECTID": 9,
         "BEGINTIME": 1748018640000,
-        "ESTIMATEDTIMERESTORATION": 1748024100000,
+        "ESTIMATEDTIMERESTORATION": 1748036700000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 23173427,
+        "BATCHID": 23174627,
         "COMMUNITIES": "Breckenridge",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -165,6 +165,42 @@
       "geometry": {
         "x": -11804976.7743,
         "y": 4788887.9208000004
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 11,
+        "BEGINTIME": 1748022000000,
+        "ESTIMATEDTIMERESTORATION": 1748030400000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 23174627,
+        "COMMUNITIES": "Aurora",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11667692.5277,
+        "y": 4822290.6994000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 12,
+        "BEGINTIME": 1748021820000,
+        "ESTIMATEDTIMERESTORATION": 1748031300000,
+        "CUSTOMERSOUT": 59,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 23174627,
+        "COMMUNITIES": "Merino",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11505020.4407,
+        "y": 4936494.0913999975
       }
     }
   ]
