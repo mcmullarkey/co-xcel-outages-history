@@ -79,49 +79,31 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 9,
-        "BEGINTIME": 1748031600000,
-        "ESTIMATEDTIMERESTORATION": null,
-        "CUSTOMERSOUT": 1,
+        "OBJECTID": 4,
+        "BEGINTIME": 1748071200000,
+        "ESTIMATEDTIMERESTORATION": 1748082600000,
+        "CUSTOMERSOUT": 11,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 24072626,
+        "COMMUNITIES": "Denver,  Arvada,  Wheat Ridge",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11698179.852600001,
+        "y": 4834765.3633000031
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "BEGINTIME": 1748068620000,
+        "ESTIMATEDTIMERESTORATION": 1748077200000,
+        "CUSTOMERSOUT": 55,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 24064626,
-        "COMMUNITIES": "Littleton",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11700584.8156,
-        "y": 4809361.1535999998
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 10,
-        "BEGINTIME": 1748067600000,
-        "ESTIMATEDTIMERESTORATION": 1748076300000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 24064626,
-        "COMMUNITIES": "Commerce City",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11680451.978799999,
-        "y": 4837938.6322000027
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 11,
-        "BEGINTIME": 1748068620000,
-        "ESTIMATEDTIMERESTORATION": 1748079000000,
-        "CUSTOMERSOUT": 55,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 24064626,
+        "BATCHID": 24072626,
         "COMMUNITIES": "Eaton",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -129,6 +111,24 @@
       "geometry": {
         "x": -11665545.6689,
         "y": 4942479.6999000013
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
+        "BEGINTIME": 1748031600000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 24072626,
+        "COMMUNITIES": "Littleton",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11700584.8156,
+        "y": 4809361.1535999998
       }
     }
   ]
