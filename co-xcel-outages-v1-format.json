@@ -79,16 +79,16 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 1,
+        "OBJECTID": 3,
         "BEGINTIME": 1748068620000,
-        "ESTIMATEDTIMERESTORATION": 1748077200000,
+        "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 55,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 24081827,
+        "BATCHID": 24083426,
         "COMMUNITIES": "Eaton",
         "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
+        "CREWSTATUS": null
       },
       "geometry": {
         "x": -11665545.6689,
@@ -97,13 +97,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 8,
+        "OBJECTID": 4,
         "BEGINTIME": 1748031600000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 24081827,
+        "BATCHID": 24083426,
         "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,16 +115,16 @@
     },
     {
       "attributes": {
-        "OBJECTID": 9,
+        "OBJECTID": 5,
         "BEGINTIME": 1748073360000,
         "ESTIMATEDTIMERESTORATION": 1748080800000,
         "CUSTOMERSOUT": 9,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 24081827,
+        "BATCHID": 24083426,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
-        "CREWSTATUS": null
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
         "x": -11683732.476300001,
@@ -133,13 +133,49 @@
     },
     {
       "attributes": {
-        "OBJECTID": 11,
-        "BEGINTIME": 1748073120000,
-        "ESTIMATEDTIMERESTORATION": 1748077200000,
-        "CUSTOMERSOUT": 1,
+        "OBJECTID": 6,
+        "BEGINTIME": 1748074680000,
+        "ESTIMATEDTIMERESTORATION": 1748100600000,
+        "CUSTOMERSOUT": 5,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 24081827,
+        "BATCHID": 24083426,
+        "COMMUNITIES": "Lakewood",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11699346.099100001,
+        "y": 4823012.1112999991
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
+        "BEGINTIME": 1748074800000,
+        "ESTIMATEDTIMERESTORATION": 1748082600000,
+        "CUSTOMERSOUT": 110,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 24083426,
+        "COMMUNITIES": "Arvada",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11697543.0228,
+        "y": 4837482.7370999977
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10,
+        "BEGINTIME": 1748073120000,
+        "ESTIMATEDTIMERESTORATION": 1748079000000,
+        "CUSTOMERSOUT": 12,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 24083426,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
