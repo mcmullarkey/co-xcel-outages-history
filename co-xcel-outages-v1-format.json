@@ -80,15 +80,33 @@
     {
       "attributes": {
         "OBJECTID": 1,
-        "BEGINTIME": 1748307060000,
-        "ESTIMATEDTIMERESTORATION": 1748313000000,
+        "BEGINTIME": 1748031600000,
+        "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 27014626,
-        "COMMUNITIES": "Thornton",
+        "BATCHID": 27023027,
+        "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11700584.8156,
+        "y": 4809361.1535999998
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10,
+        "BEGINTIME": 1748307060000,
+        "ESTIMATEDTIMERESTORATION": 1748318400000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 27023027,
+        "COMMUNITIES": "Thornton",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
         "x": -11682213.339299999,
@@ -97,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 12,
         "BEGINTIME": 1748298300000,
         "ESTIMATEDTIMERESTORATION": 1748340000000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 27014626,
+        "BATCHID": 27023027,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,56 +133,38 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 13,
         "BEGINTIME": 1748308920000,
-        "ESTIMATEDTIMERESTORATION": 1748316600000,
-        "CUSTOMERSOUT": 1,
+        "ESTIMATEDTIMERESTORATION": 1748318400000,
+        "CUSTOMERSOUT": 16,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 27014626,
+        "BATCHID": 27023027,
         "COMMUNITIES": "Eaton",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11648358.3258,
-        "y": 4941377.8147
+        "x": -11648353.804,
+        "y": 4942249.0680000037
       }
     },
     {
       "attributes": {
-        "OBJECTID": 5,
-        "BEGINTIME": 1748309760000,
-        "ESTIMATEDTIMERESTORATION": 1748321100000,
+        "OBJECTID": 14,
+        "BEGINTIME": 1748312760000,
+        "ESTIMATEDTIMERESTORATION": 1748323800000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 27014626,
-        "COMMUNITIES": "Eaton",
+        "BATCHID": 27023027,
+        "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11647392.7762,
-        "y": 4940528.6821999997
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 6,
-        "BEGINTIME": 1748031600000,
-        "ESTIMATEDTIMERESTORATION": null,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 27014626,
-        "COMMUNITIES": "Littleton",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11700584.8156,
-        "y": 4809361.1535999998
+        "x": -11693446.0792,
+        "y": 4833948.4843000025
       }
     }
   ]
