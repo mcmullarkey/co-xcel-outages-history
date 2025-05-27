@@ -82,28 +82,28 @@
         "OBJECTID": 1,
         "BEGINTIME": 1748298300000,
         "ESTIMATEDTIMERESTORATION": 1748340000000,
-        "CUSTOMERSOUT": 1,
+        "CUSTOMERSOUT": 13,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 27054627,
-        "COMMUNITIES": "Aurora",
+        "BATCHID": 27065027,
+        "COMMUNITIES": "Aurora,  Watkins",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11645419.162900001,
-        "y": 4808814.7747000009
+        "x": -11646306.125399999,
+        "y": 4813523.7040000036
       }
     },
     {
       "attributes": {
         "OBJECTID": 2,
         "BEGINTIME": 1748314080000,
-        "ESTIMATEDTIMERESTORATION": 1748329200000,
+        "ESTIMATEDTIMERESTORATION": 1748334600000,
         "CUSTOMERSOUT": 71,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 27054627,
+        "BATCHID": 27065027,
         "COMMUNITIES": "Greeley",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
@@ -116,30 +116,12 @@
     {
       "attributes": {
         "OBJECTID": 3,
-        "BEGINTIME": 1748308920000,
-        "ESTIMATEDTIMERESTORATION": 1748328300000,
-        "CUSTOMERSOUT": 33,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 27054627,
-        "COMMUNITIES": "Greeley,  Eaton",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11648353.804,
-        "y": 4942249.0680000037
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 4,
         "BEGINTIME": 1748031600000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 27054627,
+        "BATCHID": 27065027,
         "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -147,6 +129,42 @@
       "geometry": {
         "x": -11700584.8156,
         "y": 4809361.1535999998
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "BEGINTIME": 1748328540000,
+        "ESTIMATEDTIMERESTORATION": 1748340000000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 27065027,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11677338.617600001,
+        "y": 4833524.7606000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "BEGINTIME": 1748328540000,
+        "ESTIMATEDTIMERESTORATION": 1748340000000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 27065027,
+        "COMMUNITIES": "Aurora",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11667112.1713,
+        "y": 4828449.6677000001
       }
     }
   ]
