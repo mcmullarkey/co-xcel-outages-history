@@ -79,52 +79,52 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 11,
-        "BEGINTIME": 1748371740000,
+        "OBJECTID": 10,
+        "BEGINTIME": 1748396280000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 6,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 28054627,
-        "COMMUNITIES": "Aurora",
+        "BATCHID": 28065027,
+        "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11656622.2685,
-        "y": 4825980.5034999996
+        "x": -11696638.5363,
+        "y": 4802841.8069999963
       }
     },
     {
       "attributes": {
-        "OBJECTID": 12,
-        "BEGINTIME": 1748383080000,
-        "ESTIMATEDTIMERESTORATION": 1748389500000,
+        "OBJECTID": 13,
+        "BEGINTIME": 1748414460000,
+        "ESTIMATEDTIMERESTORATION": 1748425500000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 28054627,
-        "COMMUNITIES": "Greeley",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11639954.443399999,
-        "y": 4929024.7422000021
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 16,
-        "BEGINTIME": 1748408880000,
-        "ESTIMATEDTIMERESTORATION": 1748419200000,
-        "CUSTOMERSOUT": 18,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 28054627,
-        "COMMUNITIES": "Boulder",
+        "BATCHID": 28065027,
+        "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11692672.441100001,
+        "y": 4831386.373999998
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 15,
+        "BEGINTIME": 1748408880000,
+        "ESTIMATEDTIMERESTORATION": 1748421000000,
+        "CUSTOMERSOUT": 18,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 28065027,
+        "COMMUNITIES": "Boulder",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
         "x": -11716696.6621,
@@ -133,20 +133,38 @@
     },
     {
       "attributes": {
-        "OBJECTID": 19,
-        "BEGINTIME": 1748396280000,
-        "ESTIMATEDTIMERESTORATION": null,
-        "CUSTOMERSOUT": 6,
+        "OBJECTID": 18,
+        "BEGINTIME": 1748414220000,
+        "ESTIMATEDTIMERESTORATION": 1748447100000,
+        "CUSTOMERSOUT": 8,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 28054627,
-        "COMMUNITIES": "Littleton",
+        "BATCHID": 28065027,
+        "COMMUNITIES": "Parachute",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11696638.5363,
-        "y": 4802841.8069999963
+        "x": -12027812.983899999,
+        "y": 4786780.2514000013
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 29,
+        "BEGINTIME": 1748383080000,
+        "ESTIMATEDTIMERESTORATION": 1748416500000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 28065027,
+        "COMMUNITIES": "Greeley",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11639954.443399999,
+        "y": 4929024.7422000021
       }
     }
   ]
