@@ -79,13 +79,13 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 5,
         "BEGINTIME": 1748553360000,
         "ESTIMATEDTIMERESTORATION": 1748577600000,
         "CUSTOMERSOUT": 8,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30005026,
+        "BATCHID": 30012227,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -98,30 +98,12 @@
     {
       "attributes": {
         "OBJECTID": 6,
-        "BEGINTIME": 1748523840000,
-        "ESTIMATEDTIMERESTORATION": 1748577600000,
-        "CUSTOMERSOUT": 3,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 30005026,
-        "COMMUNITIES": "Lasalle,  La Salle",
-        "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
-      },
-      "geometry": {
-        "x": -11658990.1821,
-        "y": 4915639.5725999996
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 10,
         "BEGINTIME": 1748552460000,
         "ESTIMATEDTIMERESTORATION": 1748561400000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 30005026,
+        "BATCHID": 30012227,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 11,
+        "OBJECTID": 7,
         "BEGINTIME": 1748553960000,
         "ESTIMATEDTIMERESTORATION": 1748577600000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30005026,
+        "BATCHID": 30012227,
         "COMMUNITIES": "Centennial",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -151,13 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 12,
+        "OBJECTID": 8,
         "BEGINTIME": 1748548020000,
         "ESTIMATEDTIMERESTORATION": 1748563200000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 30005026,
+        "BATCHID": 30012227,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -165,6 +147,24 @@
       "geometry": {
         "x": -11681116.0308,
         "y": 4832375.8514999971
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 14,
+        "BEGINTIME": 1748523840000,
+        "ESTIMATEDTIMERESTORATION": 1748577600000,
+        "CUSTOMERSOUT": 3,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 30012227,
+        "COMMUNITIES": "Lasalle,  La Salle",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11658990.1821,
+        "y": 4915639.5725999996
       }
     }
   ]
