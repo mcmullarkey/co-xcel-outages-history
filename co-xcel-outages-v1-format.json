@@ -79,13 +79,31 @@
   "features": [
     {
       "attributes": {
+        "OBJECTID": 1,
+        "BEGINTIME": 1749018780000,
+        "ESTIMATEDTIMERESTORATION": 1749027600000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 4064946,
+        "COMMUNITIES": "Palisade",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -12060148.3783,
+        "y": 4736535.7885000035
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 2,
         "BEGINTIME": 1749009780000,
         "ESTIMATEDTIMERESTORATION": 1749029400000,
         "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 4054546,
+        "BATCHID": 4064946,
         "COMMUNITIES": "Lakewood",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -93,6 +111,24 @@
       "geometry": {
         "x": -11700684.3597,
         "y": 4818854.1889000013
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 19,
+        "BEGINTIME": 1749018000000,
+        "ESTIMATEDTIMERESTORATION": 1749027600000,
+        "CUSTOMERSOUT": 35,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 4064946,
+        "COMMUNITIES": "Grand Junction",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -12078722.143300001,
+        "y": 4734310.4433000013
       }
     }
   ]
