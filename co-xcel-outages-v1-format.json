@@ -79,16 +79,16 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 2,
         "BEGINTIME": 1749525000000,
-        "ESTIMATEDTIMERESTORATION": 1749533400000,
+        "ESTIMATEDTIMERESTORATION": 1749534300000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 10034545,
+        "BATCHID": 10042546,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
-        "CREWSTATUS": null
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
         "x": -11670459.809999999,
@@ -97,13 +97,49 @@
     },
     {
       "attributes": {
-        "OBJECTID": 7,
+        "OBJECTID": 4,
+        "BEGINTIME": 1749528300000,
+        "ESTIMATEDTIMERESTORATION": 1749537900000,
+        "CUSTOMERSOUT": 12,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 10042546,
+        "COMMUNITIES": "Grand Junction",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -12080882.058699999,
+        "y": 4733887.8096000031
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "BEGINTIME": 1749528300000,
+        "ESTIMATEDTIMERESTORATION": 1749539700000,
+        "CUSTOMERSOUT": 14,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 10042546,
+        "COMMUNITIES": "Grand Junction",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -12080828.4484,
+        "y": 4733875.3297000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 6,
         "BEGINTIME": 1749501960000,
         "ESTIMATEDTIMERESTORATION": 1749536100000,
         "CUSTOMERSOUT": 14,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 10034545,
+        "BATCHID": 10042546,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,20 +151,20 @@
     },
     {
       "attributes": {
-        "OBJECTID": 8,
-        "BEGINTIME": 1749525360000,
-        "ESTIMATEDTIMERESTORATION": 1749534300000,
+        "OBJECTID": 7,
+        "BEGINTIME": 1749528180000,
+        "ESTIMATEDTIMERESTORATION": 1749536100000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 10034545,
-        "COMMUNITIES": "Grand Junction",
+        "BATCHID": 10042546,
+        "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -12089117.2643,
-        "y": 4733825.0702999979
+        "x": -11693884.884,
+        "y": 4819580.8272999972
       }
     }
   ]
