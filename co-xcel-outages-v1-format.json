@@ -79,16 +79,16 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 2,
+        "OBJECTID": 8,
         "BEGINTIME": 1749709680000,
-        "ESTIMATEDTIMERESTORATION": 1749717900000,
+        "ESTIMATEDTIMERESTORATION": 1749718800000,
         "CUSTOMERSOUT": 13,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 12064946,
+        "BATCHID": 12073345,
         "COMMUNITIES": "Greeley",
         "STATES": "CO",
-        "CREWSTATUS": null
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
         "x": -11655878.5296,
@@ -97,31 +97,31 @@
     },
     {
       "attributes": {
-        "OBJECTID": 3,
-        "BEGINTIME": 1749700620000,
-        "ESTIMATEDTIMERESTORATION": 1749708900000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "OBJECTID": 9,
+        "BEGINTIME": 1749712740000,
+        "ESTIMATEDTIMERESTORATION": 1749717000000,
+        "CUSTOMERSOUT": 15,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 12064946,
-        "COMMUNITIES": "Sterling",
+        "BATCHID": 12073345,
+        "COMMUNITIES": "Greeley",
         "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
+        "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11491025.1339,
-        "y": 4957825.7322999984
+        "x": -11657707.2907,
+        "y": 4926733.9716999978
       }
     },
     {
       "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 10,
         "BEGINTIME": 1749709980000,
-        "ESTIMATEDTIMERESTORATION": 1749719700000,
+        "ESTIMATEDTIMERESTORATION": 1749718800000,
         "CUSTOMERSOUT": 132,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 12064946,
+        "BATCHID": 12073345,
         "COMMUNITIES": "Greeley",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,20 +133,38 @@
     },
     {
       "attributes": {
-        "OBJECTID": 5,
-        "BEGINTIME": 1749705780000,
-        "ESTIMATEDTIMERESTORATION": 1749716100000,
-        "CUSTOMERSOUT": 15,
+        "OBJECTID": 11,
+        "BEGINTIME": 1749711600000,
+        "ESTIMATEDTIMERESTORATION": 1749719700000,
+        "CUSTOMERSOUT": 90,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 12064946,
-        "COMMUNITIES": "Thornton",
+        "BATCHID": 12073345,
+        "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11685092.557799999,
-        "y": 4845789.9768000022
+        "x": -11671453.2908,
+        "y": 4822881.5494000018
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 12,
+        "BEGINTIME": 1749712560000,
+        "ESTIMATEDTIMERESTORATION": 1749723300000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 12073345,
+        "COMMUNITIES": "Commerce City",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11678297.061700001,
+        "y": 4842558.5203000009
       }
     }
   ]
