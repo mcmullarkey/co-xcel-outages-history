@@ -79,13 +79,31 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 5,
+        "OBJECTID": 12,
+        "BEGINTIME": 1749700620000,
+        "ESTIMATEDTIMERESTORATION": 1749708900000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 12042546,
+        "COMMUNITIES": "Sterling",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11491025.1339,
+        "y": 4957825.7322999984
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 13,
         "BEGINTIME": 1749693720000,
-        "ESTIMATEDTIMERESTORATION": 1749704400000,
+        "ESTIMATEDTIMERESTORATION": 1749707100000,
         "CUSTOMERSOUT": 22,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 12034546,
+        "BATCHID": 12042546,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -93,6 +111,24 @@
       "geometry": {
         "x": -11718302.868799999,
         "y": 4865397.5247000009
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 14,
+        "BEGINTIME": 1749700680000,
+        "ESTIMATEDTIMERESTORATION": 1749710700000,
+        "CUSTOMERSOUT": 15,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 12042546,
+        "COMMUNITIES": "Thornton",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11685092.557799999,
+        "y": 4845789.9768000022
       }
     }
   ]
