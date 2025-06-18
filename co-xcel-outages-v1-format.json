@@ -79,13 +79,31 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 5,
+        "OBJECTID": 2,
+        "BEGINTIME": 1750211940000,
+        "ESTIMATEDTIMERESTORATION": 1750222800000,
+        "CUSTOMERSOUT": 78,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 18023315,
+        "COMMUNITIES": "Thornton",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11684373.3738,
+        "y": 4846506.873800002
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 13,
         "BEGINTIME": 1750090560000,
         "ESTIMATEDTIMERESTORATION": 1750118400000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 18022915,
+        "BATCHID": 18023315,
         "COMMUNITIES": "Evans",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 6,
+        "OBJECTID": 14,
         "BEGINTIME": 1750204560000,
         "ESTIMATEDTIMERESTORATION": 1750237200000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 18022915,
+        "BATCHID": 18023315,
         "COMMUNITIES": null,
         "STATES": null,
         "CREWSTATUS": null
@@ -111,24 +129,6 @@
       "geometry": {
         "x": -11654573.830699999,
         "y": 4904082.9023000002
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 8,
-        "BEGINTIME": 1750211940000,
-        "ESTIMATEDTIMERESTORATION": 1750222800000,
-        "CUSTOMERSOUT": 78,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 18022915,
-        "COMMUNITIES": "Thornton",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11684373.3738,
-        "y": 4846506.873800002
       }
     }
   ]
