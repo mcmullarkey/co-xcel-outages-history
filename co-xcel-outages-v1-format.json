@@ -80,66 +80,12 @@
     {
       "attributes": {
         "OBJECTID": 1,
-        "BEGINTIME": 1750299480000,
-        "ESTIMATEDTIMERESTORATION": 1750323600000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 19053315,
-        "COMMUNITIES": "Cherry Hills Village",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11683505.4279,
-        "y": 4814641.3606999964
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 8,
-        "BEGINTIME": 1750090560000,
-        "ESTIMATEDTIMERESTORATION": 1750250700000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 19053315,
-        "COMMUNITIES": "Evans",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11658312.3934,
-        "y": 4920850.5266000032
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 9,
-        "BEGINTIME": 1750308540000,
-        "ESTIMATEDTIMERESTORATION": 1750319100000,
-        "CUSTOMERSOUT": 9,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 19053315,
-        "COMMUNITIES": "Lakewood",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11696765.791200001,
-        "y": 4823278.8210000023
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 10,
         "BEGINTIME": 1750309200000,
         "ESTIMATEDTIMERESTORATION": 1750319100000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 19053315,
+        "BATCHID": 19054515,
         "COMMUNITIES": "Grand Junction",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -151,16 +97,16 @@
     },
     {
       "attributes": {
-        "OBJECTID": 11,
+        "OBJECTID": 2,
         "BEGINTIME": 1750308540000,
-        "ESTIMATEDTIMERESTORATION": 1750319100000,
+        "ESTIMATEDTIMERESTORATION": 1750317300000,
         "CUSTOMERSOUT": 242,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 19053315,
+        "BATCHID": 19054515,
         "COMMUNITIES": "Lakewood",
         "STATES": "CO",
-        "CREWSTATUS": null
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
         "x": -11696792.903099999,
@@ -169,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 12,
+        "OBJECTID": 3,
         "BEGINTIME": 1750310040000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 19053315,
+        "BATCHID": 19054515,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -187,13 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 13,
+        "OBJECTID": 11,
         "BEGINTIME": 1750256160000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 19053315,
+        "BATCHID": 19054515,
         "COMMUNITIES": "Golden",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -201,6 +147,60 @@
       "geometry": {
         "x": -11719642.5254,
         "y": 4821482.4377000034
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 12,
+        "BEGINTIME": 1750299480000,
+        "ESTIMATEDTIMERESTORATION": 1750323600000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 19054515,
+        "COMMUNITIES": "Cherry Hills Village",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11683505.4279,
+        "y": 4814641.3606999964
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 13,
+        "BEGINTIME": 1750090560000,
+        "ESTIMATEDTIMERESTORATION": 1750250700000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 19054515,
+        "COMMUNITIES": "Evans",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11658312.3934,
+        "y": 4920850.5266000032
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 14,
+        "BEGINTIME": 1750308540000,
+        "ESTIMATEDTIMERESTORATION": 1750319100000,
+        "CUSTOMERSOUT": 9,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 19054515,
+        "COMMUNITIES": "Lakewood",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11696765.791200001,
+        "y": 4823278.8210000023
       }
     }
   ]
