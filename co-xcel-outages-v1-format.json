@@ -79,13 +79,49 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 1,
+        "OBJECTID": 87,
+        "BEGINTIME": 1751260260000,
+        "ESTIMATEDTIMERESTORATION": 1751271300000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 30052142,
+        "COMMUNITIES": "Westminster",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11692938.547,
+        "y": 4850966.632600002
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 88,
+        "BEGINTIME": 1751260440000,
+        "ESTIMATEDTIMERESTORATION": 1751271300000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 30052142,
+        "COMMUNITIES": "Thornton",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11687962.4344,
+        "y": 4845667.0720999986
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 89,
         "BEGINTIME": 1751223360000,
         "ESTIMATEDTIMERESTORATION": 1751240700000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 30044942,
+        "BATCHID": 30052142,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
+        "OBJECTID": 90,
         "BEGINTIME": 1751231340000,
         "ESTIMATEDTIMERESTORATION": 1751266800000,
         "CUSTOMERSOUT": 7,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 30044942,
+        "BATCHID": 30052142,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -111,6 +147,42 @@
       "geometry": {
         "x": -11718004.061700001,
         "y": 4863192.6152999997
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 92,
+        "BEGINTIME": 1751259000000,
+        "ESTIMATEDTIMERESTORATION": 1751266800000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 30052142,
+        "COMMUNITIES": "Westminster",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11692999.1994,
+        "y": 4851073.7346000001
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 107,
+        "BEGINTIME": 1751259300000,
+        "ESTIMATEDTIMERESTORATION": 1751267700000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 30052142,
+        "COMMUNITIES": "Grand Junction",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -12084819.574900001,
+        "y": 4730842.5102000013
       }
     }
   ]
