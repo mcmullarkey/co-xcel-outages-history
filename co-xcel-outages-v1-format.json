@@ -79,13 +79,49 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 27,
+        "OBJECTID": 3,
+        "BEGINTIME": 1751598900000,
+        "ESTIMATEDTIMERESTORATION": 1751607000000,
+        "CUSTOMERSOUT": 12,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 4032542,
+        "COMMUNITIES": "Evans",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11658202.850499999,
+        "y": 4920890.0978000015
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "BEGINTIME": 1751598900000,
+        "ESTIMATEDTIMERESTORATION": 1751608800000,
+        "CUSTOMERSOUT": 58,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 4032542,
+        "COMMUNITIES": "Evans",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11658411.526700001,
+        "y": 4920144.5957999974
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
         "BEGINTIME": 1751589420000,
         "ESTIMATEDTIMERESTORATION": 1751598900000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 4025342,
+        "BATCHID": 4032542,
         "COMMUNITIES": "Windsor",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
@@ -93,24 +129,6 @@
       "geometry": {
         "x": -11678758.806,
         "y": 4938639.0399999991
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 40,
-        "BEGINTIME": 1751587200000,
-        "ESTIMATEDTIMERESTORATION": 1751599800000,
-        "CUSTOMERSOUT": 3,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 4025342,
-        "COMMUNITIES": "Greenwood Village",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11683903.8059,
-        "y": 4809505.8874000013
       }
     }
   ]
