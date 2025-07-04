@@ -79,13 +79,31 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 4,
-        "BEGINTIME": 1751646840000,
-        "ESTIMATEDTIMERESTORATION": 1751658300000,
-        "CUSTOMERSOUT": 1001,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "OBJECTID": 3,
+        "BEGINTIME": 1751645220000,
+        "ESTIMATEDTIMERESTORATION": 1751652000000,
+        "CUSTOMERSOUT": 12,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 4164942,
+        "BATCHID": 4172142,
+        "COMMUNITIES": "Lakewood",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11698530.5591,
+        "y": 4829728.565700002
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "BEGINTIME": 1751646840000,
+        "ESTIMATEDTIMERESTORATION": 1751657400000,
+        "CUSTOMERSOUT": 1001,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 4172142,
         "COMMUNITIES": "Silverthorne",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,38 +115,38 @@
     },
     {
       "attributes": {
-        "OBJECTID": 5,
-        "BEGINTIME": 1751646840000,
-        "ESTIMATEDTIMERESTORATION": 1751658300000,
+        "OBJECTID": 6,
+        "BEGINTIME": 1751649600000,
+        "ESTIMATEDTIMERESTORATION": 1751661000000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 4164942,
-        "COMMUNITIES": "Greeley",
+        "BATCHID": 4172142,
+        "COMMUNITIES": "Greenwood Village",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11666246.644400001,
-        "y": 4936428.2093999982
+        "x": -11675831.2359,
+        "y": 4811033.9962000027
       }
     },
     {
       "attributes": {
-        "OBJECTID": 9,
-        "BEGINTIME": 1751645220000,
-        "ESTIMATEDTIMERESTORATION": 1751652000000,
-        "CUSTOMERSOUT": 12,
+        "OBJECTID": 8,
+        "BEGINTIME": 1751646840000,
+        "ESTIMATEDTIMERESTORATION": 1751652900000,
+        "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 4164942,
-        "COMMUNITIES": "Lakewood",
+        "BATCHID": 4172142,
+        "COMMUNITIES": "Greeley",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
-        "x": -11698530.5591,
-        "y": 4829728.565700002
+        "x": -11666246.644400001,
+        "y": 4936428.2093999982
       }
     }
   ]
