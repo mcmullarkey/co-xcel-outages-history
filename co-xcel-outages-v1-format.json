@@ -79,13 +79,49 @@
   "features": [
     {
       "attributes": {
+        "OBJECTID": 1,
+        "BEGINTIME": 1751584020000,
+        "ESTIMATEDTIMERESTORATION": 1751592600000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 3232542,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11685148.721799999,
+        "y": 4827028.1538999975
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 2,
+        "BEGINTIME": 1751584440000,
+        "ESTIMATEDTIMERESTORATION": 1751594400000,
+        "CUSTOMERSOUT": 10,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 3232542,
+        "COMMUNITIES": "Boulder",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11719124.1395,
+        "y": 4869088.5892999992
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
         "BEGINTIME": 1751564820000,
         "ESTIMATEDTIMERESTORATION": 1751594400000,
         "CUSTOMERSOUT": 10,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 3224542,
+        "BATCHID": 3232542,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,74 +133,20 @@
     },
     {
       "attributes": {
-        "OBJECTID": 6,
-        "BEGINTIME": 1751576580000,
-        "ESTIMATEDTIMERESTORATION": 1751588100000,
-        "CUSTOMERSOUT": 14,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 3224542,
-        "COMMUNITIES": "Greenwood Village",
-        "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
-      },
-      "geometry": {
-        "x": -11683994.984299999,
-        "y": 4809454.3470999971
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 7,
-        "BEGINTIME": 1751582460000,
-        "ESTIMATEDTIMERESTORATION": 1751593500000,
-        "CUSTOMERSOUT": 2,
+        "BEGINTIME": 1751584920000,
+        "ESTIMATEDTIMERESTORATION": 1751596200000,
+        "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 3224542,
-        "COMMUNITIES": "Boulder",
+        "BATCHID": 3232542,
+        "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11738093.8145,
-        "y": 4873987.0196999982
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 8,
-        "BEGINTIME": 1751582280000,
-        "ESTIMATEDTIMERESTORATION": 1751592600000,
-        "CUSTOMERSOUT": 8,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-        "TIMESTAMP": null,
-        "BATCHID": 3224542,
-        "COMMUNITIES": "Erie",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11694586.612,
-        "y": 4870637.0945999995
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 10,
-        "BEGINTIME": 1751557560000,
-        "ESTIMATEDTIMERESTORATION": 1751580900000,
-        "CUSTOMERSOUT": 78,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 3224542,
-        "COMMUNITIES": "Aurora",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11671452.128600001,
-        "y": 4823408.2637000009
+        "x": -11688138.603,
+        "y": 4825030.8491000012
       }
     }
   ]
