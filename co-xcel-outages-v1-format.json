@@ -81,11 +81,11 @@
       "attributes": {
         "OBJECTID": 1,
         "BEGINTIME": 1751663400000,
-        "ESTIMATEDTIMERESTORATION": 1751671800000,
+        "ESTIMATEDTIMERESTORATION": 1751670000000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 4212542,
+        "BATCHID": 4215742,
         "COMMUNITIES": "Broomfield",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +97,31 @@
     },
     {
       "attributes": {
-        "OBJECTID": 9,
+        "OBJECTID": 7,
+        "BEGINTIME": 1751665800000,
+        "ESTIMATEDTIMERESTORATION": 1751677200000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 4215742,
+        "COMMUNITIES": "Aurora",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11667764.806299999,
+        "y": 4815197.7837999985
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
         "BEGINTIME": 1751646840000,
         "ESTIMATEDTIMERESTORATION": 1751686200000,
         "CUSTOMERSOUT": 997,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 4212542,
+        "BATCHID": 4215742,
         "COMMUNITIES": "Silverthorne",
         "STATES": "CO",
         "CREWSTATUS": null
