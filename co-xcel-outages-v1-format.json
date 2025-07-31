@@ -80,30 +80,48 @@
     {
       "attributes": {
         "OBJECTID": 1,
-        "BEGINTIME": 1753924320000,
-        "ESTIMATEDTIMERESTORATION": 1753932600000,
-        "CUSTOMERSOUT": 26,
+        "BEGINTIME": 1753926420000,
+        "ESTIMATEDTIMERESTORATION": 1753934400000,
+        "CUSTOMERSOUT": 39,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 31014645,
-        "COMMUNITIES": "Denver",
+        "BATCHID": 31023445,
+        "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11689214.745200001,
-        "y": 4836332.0518999994
+        "x": -11698749.969799999,
+        "y": 4806211.6928000003
       }
     },
     {
       "attributes": {
         "OBJECTID": 2,
+        "BEGINTIME": 1753926420000,
+        "ESTIMATEDTIMERESTORATION": 1753934400000,
+        "CUSTOMERSOUT": 5,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 31023445,
+        "COMMUNITIES": "Littleton",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11698705.0034,
+        "y": 4806104.0053000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3,
         "BEGINTIME": 1753900260000,
         "ESTIMATEDTIMERESTORATION": 1753929000000,
         "CUSTOMERSOUT": 9,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 31014645,
+        "BATCHID": 31023445,
         "COMMUNITIES": "Grand Junction",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
@@ -115,13 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 4,
         "BEGINTIME": 1753925400000,
         "ESTIMATEDTIMERESTORATION": 1753935300000,
         "CUSTOMERSOUT": 49,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 31014645,
+        "BATCHID": 31023445,
         "COMMUNITIES": "Grand Junction",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,20 +151,92 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
-        "BEGINTIME": 1753925580000,
+        "OBJECTID": 5,
+        "BEGINTIME": 1753925760000,
         "ESTIMATEDTIMERESTORATION": 1753934400000,
-        "CUSTOMERSOUT": 5,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 31014645,
-        "COMMUNITIES": "Grand Junction",
+        "BATCHID": 31023445,
+        "COMMUNITIES": null,
+        "STATES": null,
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11667268.9069,
+        "y": 4817449.2449999973
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 6,
+        "BEGINTIME": 1753927380000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 101,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 31023445,
+        "COMMUNITIES": "Evergreen",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -12074177.74,
-        "y": 4734344.0252000019
+        "x": -11729036.609200001,
+        "y": 4821317.2132999972
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 7,
+        "BEGINTIME": 1753928880000,
+        "ESTIMATEDTIMERESTORATION": 1753939800000,
+        "CUSTOMERSOUT": 58,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 31023445,
+        "COMMUNITIES": "Westminster",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11698925.699900001,
+        "y": 4846162.1806000024
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
+        "BEGINTIME": 1753929000000,
+        "ESTIMATEDTIMERESTORATION": 1753939800000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 31023445,
+        "COMMUNITIES": "Westminster",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11698927.2951,
+        "y": 4845854.2845000029
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 9,
+        "BEGINTIME": 1753924320000,
+        "ESTIMATEDTIMERESTORATION": 1753933500000,
+        "CUSTOMERSOUT": 26,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 31023445,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11689214.745200001,
+        "y": 4836332.0518999994
       }
     }
   ]
