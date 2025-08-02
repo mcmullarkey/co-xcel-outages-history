@@ -79,31 +79,49 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 11,
-        "BEGINTIME": 1754112900000,
-        "ESTIMATEDTIMERESTORATION": 1754124300000,
-        "CUSTOMERSOUT": 2,
+        "OBJECTID": 1,
+        "BEGINTIME": 1754116500000,
+        "ESTIMATEDTIMERESTORATION": 1754127900000,
+        "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 2054633,
-        "COMMUNITIES": "Boulder",
+        "BATCHID": 2065033,
+        "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11703364.770500001,
-        "y": 4868705.8577999994
+        "x": -11685340.0833,
+        "y": 4818150.0617000014
       }
     },
     {
       "attributes": {
-        "OBJECTID": 13,
+        "OBJECTID": 2,
+        "BEGINTIME": 1754116140000,
+        "ESTIMATEDTIMERESTORATION": 1754125200000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 2065033,
+        "COMMUNITIES": "Littleton",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11693415.274900001,
+        "y": 4811402.0165000036
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3,
         "BEGINTIME": 1753991520000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 2054633,
+        "BATCHID": 2065033,
         "COMMUNITIES": "Westminster",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -111,6 +129,24 @@
       "geometry": {
         "x": -11700696.027100001,
         "y": 4850725.5357000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 20,
+        "BEGINTIME": 1754112900000,
+        "ESTIMATEDTIMERESTORATION": 1754123400000,
+        "CUSTOMERSOUT": 2,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 2065033,
+        "COMMUNITIES": "Boulder",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11703364.770500001,
+        "y": 4868705.8577999994
       }
     }
   ]
