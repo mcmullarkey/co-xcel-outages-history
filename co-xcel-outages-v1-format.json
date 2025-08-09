@@ -85,7 +85,7 @@
         "CUSTOMERSOUT": 9,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 8224105,
+        "BATCHID": 8232505,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -101,12 +101,12 @@
         "BEGINTIME": 1754683200000,
         "ESTIMATEDTIMERESTORATION": 1754697600000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 8224105,
+        "BATCHID": 8232505,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
-        "CREWSTATUS": null
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
         "x": -11655377.4739,
@@ -116,48 +116,12 @@
     {
       "attributes": {
         "OBJECTID": 3,
-        "BEGINTIME": 1754687340000,
-        "ESTIMATEDTIMERESTORATION": 1754706600000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 8224105,
-        "COMMUNITIES": "Breckenridge",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11804103.5374,
-        "y": 4787962.2871000022
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 4,
-        "BEGINTIME": 1754690160000,
-        "ESTIMATEDTIMERESTORATION": 1754697600000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 8224105,
-        "COMMUNITIES": "Boulder",
-        "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
-      },
-      "geometry": {
-        "x": -11707368.280299999,
-        "y": 4864836.4214000031
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 5,
         "BEGINTIME": 1754684460000,
         "ESTIMATEDTIMERESTORATION": 1754700300000,
         "CUSTOMERSOUT": 36,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 8224105,
+        "BATCHID": 8232505,
         "COMMUNITIES": "Westminster",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -169,13 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 6,
+        "OBJECTID": 4,
         "BEGINTIME": 1754685240000,
         "ESTIMATEDTIMERESTORATION": 1754697600000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 8224105,
+        "BATCHID": 8232505,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -187,31 +151,31 @@
     },
     {
       "attributes": {
-        "OBJECTID": 7,
-        "BEGINTIME": 1754690580000,
-        "ESTIMATEDTIMERESTORATION": 1754698500000,
-        "CUSTOMERSOUT": 22,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "OBJECTID": 5,
+        "BEGINTIME": 1754695080000,
+        "ESTIMATEDTIMERESTORATION": 1754706600000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 8224105,
-        "COMMUNITIES": "Denver",
+        "BATCHID": 8232505,
+        "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11684906.856800001,
-        "y": 4827962.6433999985
+        "x": -11695138.279100001,
+        "y": 4808065.735799998
       }
     },
     {
       "attributes": {
-        "OBJECTID": 8,
+        "OBJECTID": 6,
         "BEGINTIME": 1754691540000,
         "ESTIMATEDTIMERESTORATION": 1754701200000,
         "CUSTOMERSOUT": 20,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 8224105,
+        "BATCHID": 8232505,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -219,6 +183,24 @@
       "geometry": {
         "x": -11717507.2851,
         "y": 4865873.3209000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 7,
+        "BEGINTIME": 1754687340000,
+        "ESTIMATEDTIMERESTORATION": 1754706600000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 8232505,
+        "COMMUNITIES": "Breckenridge",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11804103.5374,
+        "y": 4787962.2871000022
       }
     }
   ]
