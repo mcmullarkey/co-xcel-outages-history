@@ -79,31 +79,49 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 119,
-        "BEGINTIME": 1754683200000,
-        "ESTIMATEDTIMERESTORATION": 1754733600000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "OBJECTID": 1,
+        "BEGINTIME": 1754720220000,
+        "ESTIMATEDTIMERESTORATION": 1754728200000,
+        "CUSTOMERSOUT": 102,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 9054505,
-        "COMMUNITIES": "Aurora",
+        "BATCHID": 9064905,
+        "COMMUNITIES": "Centennial",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11655377.4739,
-        "y": 4819239.2043000013
+        "x": -11679907.433899999,
+        "y": 4808634.9166999981
       }
     },
     {
       "attributes": {
-        "OBJECTID": 120,
+        "OBJECTID": 2,
+        "BEGINTIME": 1754720520000,
+        "ESTIMATEDTIMERESTORATION": 1754727300000,
+        "CUSTOMERSOUT": 24,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 9064905,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11692573.605999999,
+        "y": 4825098.6656000018
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3,
         "BEGINTIME": 1754685240000,
         "ESTIMATEDTIMERESTORATION": 1754733600000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 9054505,
+        "BATCHID": 9064905,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,13 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 121,
+        "OBJECTID": 4,
         "BEGINTIME": 1754704440000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 9054505,
+        "BATCHID": 9064905,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -129,6 +147,42 @@
       "geometry": {
         "x": -11673283.3298,
         "y": 4818022.6336999983
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "BEGINTIME": 1754719500000,
+        "ESTIMATEDTIMERESTORATION": 1754725500000,
+        "CUSTOMERSOUT": 634,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 9064905,
+        "COMMUNITIES": "Milliken,  Johnstown",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11675976.3564,
+        "y": 4914531.5850000009
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 6,
+        "BEGINTIME": 1754721660000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 2,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 9064905,
+        "COMMUNITIES": "Greenwood Village",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11677342.284400001,
+        "y": 4809853.6226999983
       }
     }
   ]
