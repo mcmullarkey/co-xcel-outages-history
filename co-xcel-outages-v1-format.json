@@ -80,30 +80,66 @@
     {
       "attributes": {
         "OBJECTID": 1,
-        "BEGINTIME": 1754889300000,
-        "ESTIMATEDTIMERESTORATION": 1754900100000,
-        "CUSTOMERSOUT": 12,
+        "BEGINTIME": 1754893020000,
+        "ESTIMATEDTIMERESTORATION": 1754901000000,
+        "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 11054505,
-        "COMMUNITIES": "Arvada",
+        "BATCHID": 11065705,
+        "COMMUNITIES": "Platteville",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11705906.2958,
-        "y": 4839806.2771999985
+        "x": -11668604.2042,
+        "y": 4897147.5175999999
       }
     },
     {
       "attributes": {
-        "OBJECTID": 20,
+        "OBJECTID": 2,
+        "BEGINTIME": 1754895000000,
+        "ESTIMATEDTIMERESTORATION": 1754906400000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 11065705,
+        "COMMUNITIES": "Northglenn",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11684777.5425,
+        "y": 4854231.9848000035
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3,
+        "BEGINTIME": 1754895000000,
+        "ESTIMATEDTIMERESTORATION": 1754906400000,
+        "CUSTOMERSOUT": 2,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 11065705,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11686346.269000001,
+        "y": 4835321.6490999982
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
         "BEGINTIME": 1754864820000,
         "ESTIMATEDTIMERESTORATION": 1754967600000,
         "CUSTOMERSOUT": 3,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 11054505,
+        "BATCHID": 11065705,
         "COMMUNITIES": "Fort Collins",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -111,6 +147,24 @@
       "geometry": {
         "x": -11687951.8969,
         "y": 4952842.0282000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 6,
+        "BEGINTIME": 1754889300000,
+        "ESTIMATEDTIMERESTORATION": 1754905500000,
+        "CUSTOMERSOUT": 12,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 11065705,
+        "COMMUNITIES": "Arvada",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11705906.2958,
+        "y": 4839806.2771999985
       }
     }
   ]
