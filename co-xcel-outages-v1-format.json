@@ -79,13 +79,13 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 14,
+        "OBJECTID": 3,
         "BEGINTIME": 1754959320000,
         "ESTIMATEDTIMERESTORATION": 1754982000000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 12034905,
+        "BATCHID": 12042505,
         "COMMUNITIES": "Breckenridge",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
@@ -93,6 +93,42 @@
       "geometry": {
         "x": -11806337.1986,
         "y": 4790845.8535000011
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "BEGINTIME": 1754971440000,
+        "ESTIMATEDTIMERESTORATION": 1754979300000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 12042505,
+        "COMMUNITIES": "Leadville",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11834600.604,
+        "y": 4759384.3435999975
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "BEGINTIME": 1754971440000,
+        "ESTIMATEDTIMERESTORATION": 1754979300000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 12042505,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11688068.5964,
+        "y": 4827634.0556000024
       }
     }
   ]
