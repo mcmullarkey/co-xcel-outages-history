@@ -79,13 +79,49 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 5,
+        "OBJECTID": 1,
+        "BEGINTIME": 1755215100000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 154,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 15003705,
+        "COMMUNITIES": "Idaho Springs,  Empire",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11766489.3149,
+        "y": 4831287.5177000016
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
+        "BEGINTIME": 1755217980000,
+        "ESTIMATEDTIMERESTORATION": 1755229500000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 15003705,
+        "COMMUNITIES": "Evergreen",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11725949.8544,
+        "y": 4815767.2145999968
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 13,
         "BEGINTIME": 1755210900000,
         "ESTIMATEDTIMERESTORATION": 1755220500000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 14234905,
+        "BATCHID": 15003705,
         "COMMUNITIES": "Lakewood",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
@@ -97,49 +133,31 @@
     },
     {
       "attributes": {
-        "OBJECTID": 6,
-        "BEGINTIME": 1755202740000,
-        "ESTIMATEDTIMERESTORATION": 1755216000000,
-        "CUSTOMERSOUT": 204,
+        "OBJECTID": 14,
+        "BEGINTIME": 1755216480000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 14234905,
-        "COMMUNITIES": "Evergreen",
+        "BATCHID": 15003705,
+        "COMMUNITIES": "Empire",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11725326.616599999,
-        "y": 4813627.9746000022
+        "x": -11765604.779100001,
+        "y": 4831311.2075000033
       }
     },
     {
       "attributes": {
-        "OBJECTID": 7,
-        "BEGINTIME": 1755209100000,
-        "ESTIMATEDTIMERESTORATION": 1755215100000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 14234905,
-        "COMMUNITIES": "Denver",
-        "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
-      },
-      "geometry": {
-        "x": -11684864.400699999,
-        "y": 4844144.5861999989
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 8,
+        "OBJECTID": 15,
         "BEGINTIME": 1755215220000,
-        "ESTIMATEDTIMERESTORATION": 1755226800000,
+        "ESTIMATEDTIMERESTORATION": 1755224100000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 14234905,
+        "BATCHID": 15003705,
         "COMMUNITIES": "De Beque",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -147,24 +165,6 @@
       "geometry": {
         "x": -12046431.6218,
         "y": 4769174.8285999969
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 10,
-        "BEGINTIME": 1755215100000,
-        "ESTIMATEDTIMERESTORATION": null,
-        "CUSTOMERSOUT": 154,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 14234905,
-        "COMMUNITIES": "Idaho Springs,  Empire",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11766489.3149,
-        "y": 4831287.5177000016
       }
     }
   ]
