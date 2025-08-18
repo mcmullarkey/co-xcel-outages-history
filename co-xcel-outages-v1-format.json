@@ -76,5 +76,42 @@
       "length": 255
     }
   ],
-  "features": []
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 33,
+        "BEGINTIME": 1755463500000,
+        "ESTIMATEDTIMERESTORATION": 1755473400000,
+        "CUSTOMERSOUT": 5,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 18012505,
+        "COMMUNITIES": "Greenwood Village",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11679107.685800001,
+        "y": 4811074.1203999966
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 35,
+        "BEGINTIME": 1755474000000,
+        "ESTIMATEDTIMERESTORATION": 1755481500000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 18012505,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11681806.9652,
+        "y": 4829895.1441999972
+      }
+    }
+  ]
 }
