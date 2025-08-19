@@ -79,13 +79,49 @@
   "features": [
     {
       "attributes": {
+        "OBJECTID": 1,
+        "BEGINTIME": 1755523260000,
+        "ESTIMATEDTIMERESTORATION": 1755584100000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 19022905,
+        "COMMUNITIES": "Centennial",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11678680.1788,
+        "y": 4803029.1955000013
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "BEGINTIME": 1755570120000,
+        "ESTIMATEDTIMERESTORATION": 1755581400000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 19022905,
+        "COMMUNITIES": "Nederland",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11745484.239799999,
+        "y": 4860403.4065999985
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 7,
         "BEGINTIME": 1755544260000,
         "ESTIMATEDTIMERESTORATION": 1755576000000,
         "CUSTOMERSOUT": 16,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 19022505,
+        "BATCHID": 19022905,
         "COMMUNITIES": "Westminster",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -101,9 +137,9 @@
         "BEGINTIME": 1755567360000,
         "ESTIMATEDTIMERESTORATION": 1755577800000,
         "CUSTOMERSOUT": 20,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 19022505,
+        "BATCHID": 19022905,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -111,24 +147,6 @@
       "geometry": {
         "x": -11678320.016899999,
         "y": 4821486.0168000013
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 9,
-        "BEGINTIME": 1755523260000,
-        "ESTIMATEDTIMERESTORATION": 1755584100000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 19022505,
-        "COMMUNITIES": "Centennial",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11678680.1788,
-        "y": 4803029.1955000013
       }
     }
   ]
