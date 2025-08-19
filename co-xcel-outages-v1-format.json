@@ -79,13 +79,31 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 1,
+        "OBJECTID": 13,
+        "BEGINTIME": 1755567360000,
+        "ESTIMATEDTIMERESTORATION": 1755590400000,
+        "CUSTOMERSOUT": 20,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 19034506,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11678320.016899999,
+        "y": 4821486.0168000013
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 14,
         "BEGINTIME": 1755523260000,
         "ESTIMATEDTIMERESTORATION": 1755584100000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 19032505,
+        "BATCHID": 19034506,
         "COMMUNITIES": "Centennial",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 16,
         "BEGINTIME": 1755572280000,
-        "ESTIMATEDTIMERESTORATION": 1755579600000,
+        "ESTIMATEDTIMERESTORATION": 1755577800000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 19032505,
+        "BATCHID": 19034506,
         "COMMUNITIES": "Greeley",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -111,42 +129,6 @@
       "geometry": {
         "x": -11669775.5836,
         "y": 4919126.6909999996
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 5,
-        "BEGINTIME": 1755544260000,
-        "ESTIMATEDTIMERESTORATION": 1755576000000,
-        "CUSTOMERSOUT": 16,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 19032505,
-        "COMMUNITIES": "Westminster",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11693227.883000001,
-        "y": 4842548.4170000032
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 6,
-        "BEGINTIME": 1755567360000,
-        "ESTIMATEDTIMERESTORATION": 1755577800000,
-        "CUSTOMERSOUT": 20,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 19032505,
-        "COMMUNITIES": "Denver",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11678320.016899999,
-        "y": 4821486.0168000013
       }
     }
   ]
