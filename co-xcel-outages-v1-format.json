@@ -79,13 +79,31 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 16,
+        "OBJECTID": 1,
+        "BEGINTIME": 1755666480000,
+        "ESTIMATEDTIMERESTORATION": 1755677700000,
+        "CUSTOMERSOUT": 242,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 20051705,
+        "COMMUNITIES": "Fort Collins",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11703345.6993,
+        "y": 4953044.9060000032
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
         "BEGINTIME": 1755651360000,
         "ESTIMATEDTIMERESTORATION": 1755668700000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 20044905,
+        "BATCHID": 20051705,
         "COMMUNITIES": "Eaton",
         "STATES": "CO",
         "CREWSTATUS": null
