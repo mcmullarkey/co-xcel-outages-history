@@ -80,30 +80,12 @@
     {
       "attributes": {
         "OBJECTID": 1,
-        "BEGINTIME": 1755715560000,
-        "ESTIMATEDTIMERESTORATION": 1755756000000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 21051705,
-        "COMMUNITIES": "Lafayette,  Niwot,  Boulder,  Longmont,  Broomfield",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11708634.5362,
-        "y": 4879113.9552000016
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 2,
         "BEGINTIME": 1755736080000,
         "ESTIMATEDTIMERESTORATION": 1755761400000,
         "CUSTOMERSOUT": 8,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 21051705,
+        "BATCHID": 21052505,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,13 +97,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 2,
         "BEGINTIME": 1755738180000,
         "ESTIMATEDTIMERESTORATION": 1755761400000,
         "CUSTOMERSOUT": 11,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 21051705,
+        "BATCHID": 21052505,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 3,
         "BEGINTIME": 1755746820000,
         "ESTIMATEDTIMERESTORATION": 1755757800000,
         "CUSTOMERSOUT": 9,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 21051705,
+        "BATCHID": 21052505,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -157,7 +139,7 @@
         "CUSTOMERSOUT": 27,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 21051705,
+        "BATCHID": 21052505,
         "COMMUNITIES": "Centennial",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -165,6 +147,42 @@
       "geometry": {
         "x": -11676799.3103,
         "y": 4804158.7849999964
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 16,
+        "BEGINTIME": 1755753300000,
+        "ESTIMATEDTIMERESTORATION": 1755764100000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 21052505,
+        "COMMUNITIES": "Pierce",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11658941.607900001,
+        "y": 4957788.9161999971
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 17,
+        "BEGINTIME": 1755715560000,
+        "ESTIMATEDTIMERESTORATION": 1755756000000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 21052505,
+        "COMMUNITIES": "Lafayette,  Niwot,  Broomfield,  Boulder,  Longmont",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11708634.5362,
+        "y": 4879113.9552000016
       }
     }
   ]
