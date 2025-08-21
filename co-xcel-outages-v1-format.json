@@ -85,7 +85,7 @@
         "CUSTOMERSOUT": 14,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 20234505,
+        "BATCHID": 21004105,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -103,7 +103,7 @@
         "CUSTOMERSOUT": 27,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 20234505,
+        "BATCHID": 21004105,
         "COMMUNITIES": "Centennial",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -121,7 +121,7 @@
         "CUSTOMERSOUT": 3,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 20234505,
+        "BATCHID": 21004105,
         "COMMUNITIES": "Gill",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -139,7 +139,7 @@
         "CUSTOMERSOUT": 8,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 20234505,
+        "BATCHID": 21004105,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -155,9 +155,9 @@
         "BEGINTIME": 1755715560000,
         "ESTIMATEDTIMERESTORATION": 1755745200000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 20234505,
+        "BATCHID": 21004105,
         "COMMUNITIES": "Lafayette,  Niwot,  Boulder,  Longmont,  Broomfield",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -170,12 +170,30 @@
     {
       "attributes": {
         "OBJECTID": 6,
+        "BEGINTIME": 1755736080000,
+        "ESTIMATEDTIMERESTORATION": 1755747000000,
+        "CUSTOMERSOUT": 8,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 21004105,
+        "COMMUNITIES": "Aurora",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11665600.2366,
+        "y": 4818205.8769999966
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
         "BEGINTIME": 1755726420000,
-        "ESTIMATEDTIMERESTORATION": 1755736200000,
+        "ESTIMATEDTIMERESTORATION": 1755741600000,
         "CUSTOMERSOUT": 6,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 20234505,
+        "BATCHID": 21004105,
         "COMMUNITIES": "Arvada",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -187,13 +205,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 7,
+        "OBJECTID": 9,
         "BEGINTIME": 1755726540000,
-        "ESTIMATEDTIMERESTORATION": 1755735300000,
+        "ESTIMATEDTIMERESTORATION": 1755741600000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 20234505,
+        "BATCHID": 21004105,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -201,6 +219,24 @@
       "geometry": {
         "x": -11685079.472199999,
         "y": 4842297.9818999991
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 11,
+        "BEGINTIME": 1755733980000,
+        "ESTIMATEDTIMERESTORATION": 1755744300000,
+        "CUSTOMERSOUT": 11,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 21004105,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11687026.9454,
+        "y": 4824743.4804999977
       }
     }
   ]
