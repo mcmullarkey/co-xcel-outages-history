@@ -85,7 +85,7 @@
         "CUSTOMERSOUT": 3,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 22034505,
+        "BATCHID": 22042505,
         "COMMUNITIES": "Englewood",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -99,14 +99,14 @@
       "attributes": {
         "OBJECTID": 2,
         "BEGINTIME": 1755804600000,
-        "ESTIMATEDTIMERESTORATION": 1755853200000,
+        "ESTIMATEDTIMERESTORATION": 1755854100000,
         "CUSTOMERSOUT": 53,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 22034505,
+        "BATCHID": 22042505,
         "COMMUNITIES": "Rifle",
         "STATES": "CO",
-        "CREWSTATUS": null
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
         "x": -11998299.2281,
@@ -116,12 +116,48 @@
     {
       "attributes": {
         "OBJECTID": 3,
+        "BEGINTIME": 1755836280000,
+        "ESTIMATEDTIMERESTORATION": 1755847800000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 22042505,
+        "COMMUNITIES": "Englewood",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11689775.949099999,
+        "y": 4817281.4626000002
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "BEGINTIME": 1755836280000,
+        "ESTIMATEDTIMERESTORATION": 1755847800000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 22042505,
+        "COMMUNITIES": "Boulder",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11718908.233100001,
+        "y": 4869378.4917000011
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
         "BEGINTIME": 1755827760000,
         "ESTIMATEDTIMERESTORATION": 1755849600000,
         "CUSTOMERSOUT": 73,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 22034505,
+        "BATCHID": 22042505,
         "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,13 +169,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 6,
         "BEGINTIME": 1755807720000,
         "ESTIMATEDTIMERESTORATION": 1755837000000,
         "CUSTOMERSOUT": 21,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 22034505,
+        "BATCHID": 22042505,
         "COMMUNITIES": "Greeley",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
@@ -147,6 +183,42 @@
       "geometry": {
         "x": -11655975.388700001,
         "y": 4928789.4095999971
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 18,
+        "BEGINTIME": 1755835080000,
+        "ESTIMATEDTIMERESTORATION": 1755843300000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 22042505,
+        "COMMUNITIES": "Arvada",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11696478.375399999,
+        "y": 4842828.5661000013
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 19,
+        "BEGINTIME": 1755835560000,
+        "ESTIMATEDTIMERESTORATION": 1755844200000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 22042505,
+        "COMMUNITIES": "Aurora",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11673526.057500001,
+        "y": 4825452.7952999994
       }
     }
   ]
