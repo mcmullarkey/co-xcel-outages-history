@@ -80,12 +80,30 @@
     {
       "attributes": {
         "OBJECTID": 1,
+        "BEGINTIME": 1755881160000,
+        "ESTIMATEDTIMERESTORATION": 1755935100000,
+        "CUSTOMERSOUT": 7,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 23053305,
+        "COMMUNITIES": "Westminster",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11696918.1175,
+        "y": 4849911.5754000023
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
         "BEGINTIME": 1755918960000,
-        "ESTIMATEDTIMERESTORATION": 1755939600000,
+        "ESTIMATEDTIMERESTORATION": 1755929700000,
         "CUSTOMERSOUT": 22,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 23054505,
+        "BATCHID": 23053305,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,31 +115,31 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
-        "BEGINTIME": 1755927540000,
-        "ESTIMATEDTIMERESTORATION": 1755938700000,
+        "OBJECTID": 3,
+        "BEGINTIME": 1755926700000,
+        "ESTIMATEDTIMERESTORATION": 1755937800000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 23054505,
-        "COMMUNITIES": "Westminster",
+        "BATCHID": 23053305,
+        "COMMUNITIES": "Windsor",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11693985.527899999,
-        "y": 4843159.6313000023
+        "x": -11679058.1965,
+        "y": 4938932.6424999982
       }
     },
     {
       "attributes": {
-        "OBJECTID": 16,
+        "OBJECTID": 18,
         "BEGINTIME": 1755918840000,
-        "ESTIMATEDTIMERESTORATION": 1755939600000,
+        "ESTIMATEDTIMERESTORATION": 1755936900000,
         "CUSTOMERSOUT": 22,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 23054505,
+        "BATCHID": 23053305,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -129,24 +147,6 @@
       "geometry": {
         "x": -11672672.710099999,
         "y": 4822114.0768000036
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 17,
-        "BEGINTIME": 1755881160000,
-        "ESTIMATEDTIMERESTORATION": 1755935100000,
-        "CUSTOMERSOUT": 7,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 23054505,
-        "COMMUNITIES": "Westminster",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11696918.1175,
-        "y": 4849911.5754000023
       }
     }
   ]
