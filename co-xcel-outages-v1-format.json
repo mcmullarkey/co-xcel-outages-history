@@ -79,13 +79,13 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 8,
+        "OBJECTID": 1,
         "BEGINTIME": 1755999420000,
-        "ESTIMATEDTIMERESTORATION": 1756022400000,
+        "ESTIMATEDTIMERESTORATION": 1756032300000,
         "CUSTOMERSOUT": 11,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 24054311,
+        "BATCHID": 24063911,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,20 +97,38 @@
     },
     {
       "attributes": {
-        "OBJECTID": 9,
-        "BEGINTIME": 1756007940000,
-        "ESTIMATEDTIMERESTORATION": 1756017000000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "OBJECTID": 3,
+        "BEGINTIME": 1756014660000,
+        "ESTIMATEDTIMERESTORATION": 1756032300000,
+        "CUSTOMERSOUT": 46,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 24054311,
-        "COMMUNITIES": "Westminster",
+        "BATCHID": 24063911,
+        "COMMUNITIES": "Fort Collins",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11697320.281399999,
-        "y": 4846296.5226000026
+        "x": -11694850.5438,
+        "y": 4955255.5500999987
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "BEGINTIME": 1756015260000,
+        "ESTIMATEDTIMERESTORATION": 1756032300000,
+        "CUSTOMERSOUT": 21,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 24063911,
+        "COMMUNITIES": "Pierce,  Ault",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11652537.831700001,
+        "y": 4959300.1966999993
       }
     }
   ]
