@@ -80,12 +80,48 @@
     {
       "attributes": {
         "OBJECTID": 1,
+        "BEGINTIME": 1756191840000,
+        "ESTIMATEDTIMERESTORATION": 1756197000000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 26073111,
+        "COMMUNITIES": "Littleton",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11701264.6415,
+        "y": 4808612.6489000022
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
+        "BEGINTIME": 1756172700000,
+        "ESTIMATEDTIMERESTORATION": 1756197000000,
+        "CUSTOMERSOUT": 2,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 26073111,
+        "COMMUNITIES": "Englewood,  Centennial",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11671626.567400001,
+        "y": 4806893.992899999
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3,
         "BEGINTIME": 1756190580000,
         "ESTIMATEDTIMERESTORATION": 1756219500000,
         "CUSTOMERSOUT": 26,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 26065511,
+        "BATCHID": 26073111,
         "COMMUNITIES": "Boulder,  Eldorado Springs",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,31 +133,49 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
-        "BEGINTIME": 1756186620000,
-        "ESTIMATEDTIMERESTORATION": 1756196100000,
+        "OBJECTID": 4,
+        "BEGINTIME": 1756192920000,
+        "ESTIMATEDTIMERESTORATION": 1756203300000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 26065511,
-        "COMMUNITIES": "Golden",
+        "BATCHID": 26073111,
+        "COMMUNITIES": "Northglenn",
         "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
+        "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11711814.769299999,
-        "y": 4837721.2775999978
+        "x": -11686302.577300001,
+        "y": 4853098.3400000036
       }
     },
     {
       "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 5,
+        "BEGINTIME": 1756193100000,
+        "ESTIMATEDTIMERESTORATION": 1756204200000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 26073111,
+        "COMMUNITIES": "Evergreen",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11728386.1939,
+        "y": 4814930.2431000024
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 7,
         "BEGINTIME": 1756189380000,
         "ESTIMATEDTIMERESTORATION": 1756197900000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 26065511,
+        "BATCHID": 26073111,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -129,24 +183,6 @@
       "geometry": {
         "x": -11685981.3827,
         "y": 4835247.4786000028
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 5,
-        "BEGINTIME": 1756172700000,
-        "ESTIMATEDTIMERESTORATION": 1756197000000,
-        "CUSTOMERSOUT": 2,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 26065511,
-        "COMMUNITIES": "Englewood,  Centennial",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11671626.567400001,
-        "y": 4806893.992899999
       }
     }
   ]
