@@ -79,13 +79,31 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 15,
+        "OBJECTID": 1,
+        "BEGINTIME": 1756432620000,
+        "ESTIMATEDTIMERESTORATION": 1756444500000,
+        "CUSTOMERSOUT": 20,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 29043910,
+        "COMMUNITIES": "Windsor",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11671878.103799999,
+        "y": 4935877.0097000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 17,
         "BEGINTIME": 1756374000000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 29042310,
+        "BATCHID": 29043910,
         "COMMUNITIES": "Grand Junction",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -93,24 +111,6 @@
       "geometry": {
         "x": -12081844.3345,
         "y": 4739018.7621999979
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 16,
-        "BEGINTIME": 1756432620000,
-        "ESTIMATEDTIMERESTORATION": 1756444500000,
-        "CUSTOMERSOUT": 20,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 29042310,
-        "COMMUNITIES": "Windsor",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11671878.103799999,
-        "y": 4935877.0097000003
       }
     }
   ]
