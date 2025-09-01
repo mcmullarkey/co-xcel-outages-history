@@ -79,20 +79,38 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 14,
+        "OBJECTID": 16,
         "BEGINTIME": 1756743540000,
         "ESTIMATEDTIMERESTORATION": 1756752300000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 1171910,
+        "BATCHID": 1173110,
         "COMMUNITIES": "Lakewood",
         "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
+        "CREWSTATUS": null
       },
       "geometry": {
         "x": -11697463.123199999,
         "y": 4828854.8991999999
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 17,
+        "BEGINTIME": 1756746900000,
+        "ESTIMATEDTIMERESTORATION": 1756755000000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 1173110,
+        "COMMUNITIES": "Arvada",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11695821.3355,
+        "y": 4839975.8535000011
       }
     }
   ]
