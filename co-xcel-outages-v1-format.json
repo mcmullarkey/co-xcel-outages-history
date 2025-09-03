@@ -79,20 +79,56 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 3,
-        "BEGINTIME": 1756881180000,
-        "ESTIMATEDTIMERESTORATION": 1756889100000,
+        "OBJECTID": 10,
+        "BEGINTIME": 1756884060000,
+        "ESTIMATEDTIMERESTORATION": 1756894500000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 3064711,
+        "BATCHID": 3072710,
+        "COMMUNITIES": "Arvada",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11698510.960200001,
+        "y": 4835997.6132000014
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 12,
+        "BEGINTIME": 1756883340000,
+        "ESTIMATEDTIMERESTORATION": 1756892700000,
+        "CUSTOMERSOUT": 106,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 3072710,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11688431.517999999,
-        "y": 4826751.0583999977
+        "x": -11688257.548999999,
+        "y": 4827775.4860000014
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 13,
+        "BEGINTIME": 1756884180000,
+        "ESTIMATEDTIMERESTORATION": 1756920600000,
+        "CUSTOMERSOUT": 12,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 3072710,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11680166.5746,
+        "y": 4829725.6582999974
       }
     }
   ]
