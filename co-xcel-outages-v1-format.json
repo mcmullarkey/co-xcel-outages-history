@@ -85,7 +85,7 @@
         "CUSTOMERSOUT": 13,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 2205110,
+        "BATCHID": 2212710,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,20 +97,20 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
-        "BEGINTIME": 1756821180000,
-        "ESTIMATEDTIMERESTORATION": 1756857600000,
-        "CUSTOMERSOUT": 2,
+        "OBJECTID": 3,
+        "BEGINTIME": 1756847520000,
+        "ESTIMATEDTIMERESTORATION": 1756852200000,
+        "CUSTOMERSOUT": 1878,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 2205110,
-        "COMMUNITIES": "Jamestown",
+        "BATCHID": 2212710,
+        "COMMUNITIES": "Aurora,  Centennial",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11731783.838399999,
-        "y": 4882526.4205000028
+        "x": -11665148.840599999,
+        "y": 4811536.3451000005
       }
     },
     {
@@ -121,7 +121,7 @@
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 2205110,
+        "BATCHID": 2212710,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -137,9 +137,9 @@
         "BEGINTIME": 1756843740000,
         "ESTIMATEDTIMERESTORATION": 1756852200000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 2205110,
+        "BATCHID": 2212710,
         "COMMUNITIES": "Centennial",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -153,11 +153,11 @@
       "attributes": {
         "OBJECTID": 8,
         "BEGINTIME": 1756833960000,
-        "ESTIMATEDTIMERESTORATION": 1756847700000,
+        "ESTIMATEDTIMERESTORATION": 1756851300000,
         "CUSTOMERSOUT": 12,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 2205110,
+        "BATCHID": 2212710,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -165,6 +165,42 @@
       "geometry": {
         "x": -11677941.068599999,
         "y": 4831472.182099998
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 9,
+        "BEGINTIME": 1756821180000,
+        "ESTIMATEDTIMERESTORATION": 1756857600000,
+        "CUSTOMERSOUT": 2,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 2212710,
+        "COMMUNITIES": "Jamestown",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11731783.838399999,
+        "y": 4882526.4205000028
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10,
+        "BEGINTIME": 1756848360000,
+        "ESTIMATEDTIMERESTORATION": 1756859400000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 2212710,
+        "COMMUNITIES": "Aurora",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11664670.429499999,
+        "y": 4811958.1120000035
       }
     }
   ]
