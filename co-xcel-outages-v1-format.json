@@ -79,13 +79,31 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 1,
+        "OBJECTID": 4,
+        "BEGINTIME": 1756923960000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 3205110,
+        "COMMUNITIES": "Grand Junction",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -12078655.688900001,
+        "y": 4732871.121799998
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
         "BEGINTIME": 1756918200000,
         "ESTIMATEDTIMERESTORATION": 1756926900000,
         "CUSTOMERSOUT": 8,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 3205510,
+        "BATCHID": 3205110,
         "COMMUNITIES": "Milliken",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
+        "OBJECTID": 6,
         "BEGINTIME": 1756923660000,
         "ESTIMATEDTIMERESTORATION": 1756932300000,
         "CUSTOMERSOUT": 195,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 3205510,
+        "BATCHID": 3205110,
         "COMMUNITIES": "Thornton,  Denver",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
@@ -116,12 +134,48 @@
     {
       "attributes": {
         "OBJECTID": 7,
+        "BEGINTIME": 1756932360000,
+        "ESTIMATEDTIMERESTORATION": 1756944000000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 3205110,
+        "COMMUNITIES": "Broomfield",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11704784.7709,
+        "y": 4855111.1658999994
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
+        "BEGINTIME": 1756913820000,
+        "ESTIMATEDTIMERESTORATION": 1756937700000,
+        "CUSTOMERSOUT": 764,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 3205110,
+        "COMMUNITIES": "Arvada,  Thornton",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11684579.358199999,
+        "y": 4846507.3857999966
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 9,
         "BEGINTIME": 1756932420000,
         "ESTIMATEDTIMERESTORATION": 1756944000000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 3205510,
+        "BATCHID": 3205110,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -129,24 +183,6 @@
       "geometry": {
         "x": -11662534.605799999,
         "y": 4813170.6344000027
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 9,
-        "BEGINTIME": 1756923960000,
-        "ESTIMATEDTIMERESTORATION": null,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 3205510,
-        "COMMUNITIES": "Grand Junction",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -12078655.688900001,
-        "y": 4732871.121799998
       }
     }
   ]
