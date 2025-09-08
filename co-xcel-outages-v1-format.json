@@ -79,13 +79,31 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 1,
+        "BEGINTIME": 1757352420000,
+        "ESTIMATEDTIMERESTORATION": 1757363400000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 8173141,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11682561.6702,
+        "y": 4827430.7149000019
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
         "BEGINTIME": 1757349300000,
         "ESTIMATEDTIMERESTORATION": 1757355300000,
         "CUSTOMERSOUT": 12,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 8172741,
+        "BATCHID": 8173141,
         "COMMUNITIES": "Gilcrest",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 5,
         "BEGINTIME": 1757328780000,
         "ESTIMATEDTIMERESTORATION": 1757361600000,
         "CUSTOMERSOUT": 105,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 8172741,
+        "BATCHID": 8173141,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
@@ -115,13 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 5,
+        "OBJECTID": 6,
         "BEGINTIME": 1757319540000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 4,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 8172741,
+        "BATCHID": 8173141,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,13 +151,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 6,
+        "OBJECTID": 7,
         "BEGINTIME": 1757319420000,
         "ESTIMATEDTIMERESTORATION": 1757326500000,
         "CUSTOMERSOUT": 17,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 8172741,
+        "BATCHID": 8173141,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -151,31 +169,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 7,
-        "BEGINTIME": 1757347560000,
-        "ESTIMATEDTIMERESTORATION": 1757355300000,
-        "CUSTOMERSOUT": 28,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 8172741,
-        "COMMUNITIES": "Denver",
-        "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
-      },
-      "geometry": {
-        "x": -11686133.033199999,
-        "y": 4826526.7928000018
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 8,
         "BEGINTIME": 1757319540000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 3,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 8172741,
+        "BATCHID": 8173141,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
