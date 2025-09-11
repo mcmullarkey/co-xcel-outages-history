@@ -79,13 +79,49 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 1,
+        "OBJECTID": 2,
+        "BEGINTIME": 1757548920000,
+        "ESTIMATEDTIMERESTORATION": 1757556000000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 11011941,
+        "COMMUNITIES": "Broomfield",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11696680.1976,
+        "y": 4856472.317900002
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3,
+        "BEGINTIME": 1757530500000,
+        "ESTIMATEDTIMERESTORATION": 1757559600000,
+        "CUSTOMERSOUT": 241,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 11011941,
+        "COMMUNITIES": "Lakewood",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11697587.9201,
+        "y": 4819416.3747999966
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 12,
         "BEGINTIME": 1757504160000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 11005141,
+        "BATCHID": 11011941,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,85 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
-        "BEGINTIME": 1757475480000,
-        "ESTIMATEDTIMERESTORATION": 1757559600000,
-        "CUSTOMERSOUT": 0,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 11005141,
-        "COMMUNITIES": null,
-        "STATES": null,
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11706222.4242,
-        "y": 4819324.6317000017
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 3,
-        "BEGINTIME": 1757539800000,
-        "ESTIMATEDTIMERESTORATION": 1757556000000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 11005141,
-        "COMMUNITIES": "Denver",
-        "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
-      },
-      "geometry": {
-        "x": -11677801.8302,
-        "y": 4831082.4400999993
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 4,
-        "BEGINTIME": 1757523660000,
-        "ESTIMATEDTIMERESTORATION": 1757552400000,
-        "CUSTOMERSOUT": 15,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 11005141,
-        "COMMUNITIES": "Golden",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11713047.5614,
-        "y": 4831130.6687999964
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 5,
-        "BEGINTIME": 1757543220000,
-        "ESTIMATEDTIMERESTORATION": 1757559600000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 11005141,
-        "COMMUNITIES": "Aurora",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11674664.058800001,
-        "y": 4829794.3523999974
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 6,
+        "OBJECTID": 13,
         "BEGINTIME": 1757549880000,
         "ESTIMATEDTIMERESTORATION": 1757557800000,
         "CUSTOMERSOUT": 9,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 11005141,
+        "BATCHID": 11011941,
         "COMMUNITIES": "Littleton",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -183,42 +147,6 @@
       "geometry": {
         "x": -11697316.1459,
         "y": 4806332.5090999976
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 8,
-        "BEGINTIME": 1757548920000,
-        "ESTIMATEDTIMERESTORATION": 1757556000000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 11005141,
-        "COMMUNITIES": "Broomfield",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11696680.1976,
-        "y": 4856472.317900002
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 9,
-        "BEGINTIME": 1757530500000,
-        "ESTIMATEDTIMERESTORATION": 1757559600000,
-        "CUSTOMERSOUT": 241,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 11005141,
-        "COMMUNITIES": "Lakewood",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11697587.9201,
-        "y": 4819416.3747999966
       }
     }
   ]
