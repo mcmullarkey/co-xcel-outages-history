@@ -79,13 +79,31 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 8,
+        "OBJECTID": 1,
+        "BEGINTIME": 1758784920000,
+        "ESTIMATEDTIMERESTORATION": 1758796200000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 25072903,
+        "COMMUNITIES": "Superior",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11706640.1195,
+        "y": 4855923.1900999993
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
         "BEGINTIME": 1758102840000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 25064902,
+        "BATCHID": 25072903,
         "COMMUNITIES": "Denver",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,13 +115,31 @@
     },
     {
       "attributes": {
-        "OBJECTID": 9,
+        "OBJECTID": 3,
+        "BEGINTIME": 1758744780000,
+        "ESTIMATEDTIMERESTORATION": 1758788100000,
+        "CUSTOMERSOUT": 12,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 25072903,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11685117.4243,
+        "y": 4842190.3205000013
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
         "BEGINTIME": 1758779220000,
-        "ESTIMATEDTIMERESTORATION": 1758787200000,
+        "ESTIMATEDTIMERESTORATION": 1758799800000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 25064902,
+        "BATCHID": 25072903,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,20 +151,38 @@
     },
     {
       "attributes": {
-        "OBJECTID": 11,
-        "BEGINTIME": 1758744780000,
-        "ESTIMATEDTIMERESTORATION": 1758785400000,
-        "CUSTOMERSOUT": 12,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "OBJECTID": 6,
+        "BEGINTIME": 1758785220000,
+        "ESTIMATEDTIMERESTORATION": 1758796200000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 25064902,
-        "COMMUNITIES": "Denver",
+        "BATCHID": 25072903,
+        "COMMUNITIES": "Arvada",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11685117.4243,
-        "y": 4842190.3205000013
+        "x": -11696399.2718,
+        "y": 4840311.3562999964
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 7,
+        "BEGINTIME": 1758784920000,
+        "ESTIMATEDTIMERESTORATION": 1758789000000,
+        "CUSTOMERSOUT": 7,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 25072903,
+        "COMMUNITIES": "Breckenridge",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11805348.300799999,
+        "y": 4777461.8924999982
       }
     }
   ]
