@@ -79,34 +79,16 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 7,
-        "BEGINTIME": 1758858120000,
-        "ESTIMATEDTIMERESTORATION": 1758868200000,
-        "CUSTOMERSOUT": 9,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 26194902,
-        "COMMUNITIES": "Nederland",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11745484.239799999,
-        "y": 4860403.4065999985
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 8,
+        "OBJECTID": 1,
         "BEGINTIME": 1758912720000,
         "ESTIMATEDTIMERESTORATION": 1758920400000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 26194902,
+        "BATCHID": 26205524,
         "COMMUNITIES": "Arvada",
         "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
+        "CREWSTATUS": null
       },
       "geometry": {
         "x": -11703531.966800001,
@@ -115,16 +97,16 @@
     },
     {
       "attributes": {
-        "OBJECTID": 9,
+        "OBJECTID": 2,
         "BEGINTIME": 1758913860000,
-        "ESTIMATEDTIMERESTORATION": 1758922200000,
+        "ESTIMATEDTIMERESTORATION": 1758925800000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 26194902,
+        "BATCHID": 26205524,
         "COMMUNITIES": "Northglenn",
         "STATES": "CO",
-        "CREWSTATUS": null
+        "CREWSTATUS": "Crew Onsite"
       },
       "geometry": {
         "x": -11689892.6041,
@@ -133,20 +115,74 @@
     },
     {
       "attributes": {
-        "OBJECTID": 10,
-        "BEGINTIME": 1758901740000,
-        "ESTIMATEDTIMERESTORATION": 1758931200000,
-        "CUSTOMERSOUT": 2,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "OBJECTID": 3,
+        "BEGINTIME": 1758918180000,
+        "ESTIMATEDTIMERESTORATION": 1758926700000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 26194902,
-        "COMMUNITIES": "Golden",
+        "BATCHID": 26205524,
+        "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11708464.303100001,
-        "y": 4825894.2796000019
+        "x": -11718908.233100001,
+        "y": 4869378.4917000011
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "BEGINTIME": 1758917340000,
+        "ESTIMATEDTIMERESTORATION": 1758924900000,
+        "CUSTOMERSOUT": 59,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 26205524,
+        "COMMUNITIES": "Aurora",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11668159.6677,
+        "y": 4819826.2705999985
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "BEGINTIME": 1758920040000,
+        "ESTIMATEDTIMERESTORATION": 1758931200000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 26205524,
+        "COMMUNITIES": "Thornton",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11681811.7531,
+        "y": 4846442.3241000026
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 6,
+        "BEGINTIME": 1758858120000,
+        "ESTIMATEDTIMERESTORATION": 1758868200000,
+        "CUSTOMERSOUT": 9,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 26205524,
+        "COMMUNITIES": "Nederland",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11745484.239799999,
+        "y": 4860403.4065999985
       }
     }
   ]
