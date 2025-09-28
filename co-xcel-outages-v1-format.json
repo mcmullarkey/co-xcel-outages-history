@@ -79,34 +79,34 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 1,
-        "BEGINTIME": 1758995280000,
-        "ESTIMATEDTIMERESTORATION": null,
-        "CUSTOMERSOUT": 4,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "OBJECTID": 3,
+        "BEGINTIME": 1759009020000,
+        "ESTIMATEDTIMERESTORATION": 1759020300000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 27212137,
-        "COMMUNITIES": "Wheat Ridge",
+        "BATCHID": 27214537,
+        "COMMUNITIES": "Nederland",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11697216.568300001,
-        "y": 4832758.6616000012
+        "x": -11745484.239799999,
+        "y": 4860403.4065999985
       }
     },
     {
       "attributes": {
-        "OBJECTID": 2,
+        "OBJECTID": 4,
         "BEGINTIME": 1758997740000,
         "ESTIMATEDTIMERESTORATION": 1759022100000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 27212137,
+        "BATCHID": 27214537,
         "COMMUNITIES": "Idaho Springs",
         "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
+        "CREWSTATUS": null
       },
       "geometry": {
         "x": -11759875.527800001,
@@ -115,13 +115,31 @@
     },
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 5,
+        "BEGINTIME": 1759008720000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 91,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 27214537,
+        "COMMUNITIES": "Idaho Springs",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11746040.0057,
+        "y": 4828697.5847999975
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 6,
         "BEGINTIME": 1758944760000,
         "ESTIMATEDTIMERESTORATION": 1758983400000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 27212137,
+        "BATCHID": 27214537,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,20 +151,20 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
-        "BEGINTIME": 1759000620000,
-        "ESTIMATEDTIMERESTORATION": 1759015800000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "OBJECTID": 7,
+        "BEGINTIME": 1759008300000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 103,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 27212137,
-        "COMMUNITIES": "Greeley",
+        "BATCHID": 27214537,
+        "COMMUNITIES": "Idaho Springs",
         "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
+        "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11655862.940400001,
-        "y": 4923750.9601000026
+        "x": -11745606.554299999,
+        "y": 4828733.6206
       }
     }
   ]
