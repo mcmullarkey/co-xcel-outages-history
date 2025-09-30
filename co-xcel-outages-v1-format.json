@@ -80,12 +80,30 @@
     {
       "attributes": {
         "OBJECTID": 1,
+        "BEGINTIME": 1759229040000,
+        "ESTIMATEDTIMERESTORATION": 1759238100000,
+        "CUSTOMERSOUT": 2,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 30154023,
+        "COMMUNITIES": "Boulder",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11721577.763599999,
+        "y": 4867927.7911000028
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 30,
         "BEGINTIME": 1759243740000,
         "ESTIMATEDTIMERESTORATION": 1759254300000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30154423,
+        "BATCHID": 30154023,
         "COMMUNITIES": "Aurora",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -97,139 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 2,
-        "BEGINTIME": 1759212420000,
-        "ESTIMATEDTIMERESTORATION": 1759224600000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 30154423,
-        "COMMUNITIES": "Evergreen",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11718593.2234,
-        "y": 4813396.4679000005
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 3,
-        "BEGINTIME": 1759235220000,
-        "ESTIMATEDTIMERESTORATION": 1759242600000,
-        "CUSTOMERSOUT": 17,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 30154423,
-        "COMMUNITIES": "Denver",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11691410.7871,
-        "y": 4823753.8392999992
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 4,
-        "BEGINTIME": 1759240620000,
-        "ESTIMATEDTIMERESTORATION": 1759251600000,
-        "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 30154423,
-        "COMMUNITIES": "Lafayette",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11696720.103500001,
-        "y": 4864224.0965000018
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 5,
-        "BEGINTIME": 1759222380000,
-        "ESTIMATEDTIMERESTORATION": 1759247100000,
-        "CUSTOMERSOUT": 2,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 30154423,
-        "COMMUNITIES": "Golden",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11707945.7557,
-        "y": 4826020.2723999992
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 6,
-        "BEGINTIME": 1759241460000,
-        "ESTIMATEDTIMERESTORATION": 1759259700000,
-        "CUSTOMERSOUT": 4,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 30154423,
-        "COMMUNITIES": "Lafayette",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11698792.3135,
-        "y": 4866504.3942999989
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 7,
-        "BEGINTIME": 1759227240000,
-        "ESTIMATEDTIMERESTORATION": null,
-        "CUSTOMERSOUT": 3,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 30154423,
-        "COMMUNITIES": "Jamestown",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11731101.316300001,
-        "y": 4882404.3702000007
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 8,
-        "BEGINTIME": 1759246440000,
-        "ESTIMATEDTIMERESTORATION": 1759257900000,
-        "CUSTOMERSOUT": 8,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 30154423,
-        "COMMUNITIES": "Boulder",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11712047.715300001,
-        "y": 4872076.5967999995
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 9,
+        "OBJECTID": 31,
         "BEGINTIME": 1759244280000,
         "ESTIMATEDTIMERESTORATION": 1759275000000,
         "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30154423,
+        "BATCHID": 30154023,
         "COMMUNITIES": "Breckenridge",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -241,13 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 10,
+        "OBJECTID": 32,
         "BEGINTIME": 1759233780000,
         "ESTIMATEDTIMERESTORATION": 1759250700000,
         "CUSTOMERSOUT": 127,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30154423,
+        "BATCHID": 30154023,
         "COMMUNITIES": "Alma,  Fairplay",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -259,13 +151,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 11,
+        "OBJECTID": 33,
         "BEGINTIME": 1759234380000,
         "ESTIMATEDTIMERESTORATION": 1759249800000,
         "CUSTOMERSOUT": 2,
         "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30154423,
+        "BATCHID": 30154023,
         "COMMUNITIES": "Westminster",
         "STATES": "CO",
         "CREWSTATUS": "Crew Onsite"
@@ -277,13 +169,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 12,
+        "OBJECTID": 34,
         "BEGINTIME": 1759225800000,
         "ESTIMATEDTIMERESTORATION": 1759239000000,
         "CUSTOMERSOUT": 14,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30154423,
+        "BATCHID": 30154023,
         "COMMUNITIES": "Grand Junction",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -295,13 +187,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 13,
+        "OBJECTID": 35,
         "BEGINTIME": 1759245480000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 5,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30154423,
+        "BATCHID": 30154023,
         "COMMUNITIES": "Parachute",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -313,13 +205,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 14,
+        "OBJECTID": 36,
         "BEGINTIME": 1759239840000,
         "ESTIMATEDTIMERESTORATION": 1759249800000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30154423,
+        "BATCHID": 30154023,
         "COMMUNITIES": "Golden",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -331,13 +223,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 15,
+        "OBJECTID": 37,
         "BEGINTIME": 1759227120000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30154423,
+        "BATCHID": 30154023,
         "COMMUNITIES": "Jamestown",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -349,13 +241,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 16,
+        "OBJECTID": 38,
         "BEGINTIME": 1759227180000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 5,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30154423,
+        "BATCHID": 30154023,
         "COMMUNITIES": "Jamestown",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -367,13 +259,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 17,
+        "OBJECTID": 39,
         "BEGINTIME": 1759227180000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30154423,
+        "BATCHID": 30154023,
         "COMMUNITIES": "Jamestown",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -385,38 +277,164 @@
     },
     {
       "attributes": {
-        "OBJECTID": 18,
-        "BEGINTIME": 1759246800000,
-        "ESTIMATEDTIMERESTORATION": 1759257900000,
+        "OBJECTID": 40,
+        "BEGINTIME": 1759212420000,
+        "ESTIMATEDTIMERESTORATION": 1759224600000,
         "CUSTOMERSOUT": 1,
-        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 30154423,
+        "BATCHID": 30154023,
+        "COMMUNITIES": "Evergreen",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11718593.2234,
+        "y": 4813396.4679000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 41,
+        "BEGINTIME": 1759235220000,
+        "ESTIMATEDTIMERESTORATION": 1759242600000,
+        "CUSTOMERSOUT": 17,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 30154023,
+        "COMMUNITIES": "Denver",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11691410.7871,
+        "y": 4823753.8392999992
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 42,
+        "BEGINTIME": 1759240620000,
+        "ESTIMATEDTIMERESTORATION": 1759251600000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 30154023,
+        "COMMUNITIES": "Lafayette",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11696720.103500001,
+        "y": 4864224.0965000018
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 43,
+        "BEGINTIME": 1759222380000,
+        "ESTIMATEDTIMERESTORATION": 1759247100000,
+        "CUSTOMERSOUT": 2,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 30154023,
         "COMMUNITIES": "Golden",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11708175.172899999,
-        "y": 4825096.1330000013
+        "x": -11707945.7557,
+        "y": 4826020.2723999992
       }
     },
     {
       "attributes": {
-        "OBJECTID": 23,
-        "BEGINTIME": 1759229040000,
-        "ESTIMATEDTIMERESTORATION": 1759238100000,
-        "CUSTOMERSOUT": 2,
+        "OBJECTID": 44,
+        "BEGINTIME": 1759241460000,
+        "ESTIMATEDTIMERESTORATION": 1759259700000,
+        "CUSTOMERSOUT": 4,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 30154023,
+        "COMMUNITIES": "Lafayette",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11698792.3135,
+        "y": 4866504.3942999989
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 45,
+        "BEGINTIME": 1759227240000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 3,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 30154023,
+        "COMMUNITIES": "Jamestown",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11731101.316300001,
+        "y": 4882404.3702000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 46,
+        "BEGINTIME": 1759246440000,
+        "ESTIMATEDTIMERESTORATION": 1759256100000,
+        "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
         "TIMESTAMP": null,
-        "BATCHID": 30154423,
+        "BATCHID": 30154023,
         "COMMUNITIES": "Boulder",
         "STATES": "CO",
         "CREWSTATUS": null
       },
       "geometry": {
-        "x": -11721577.763599999,
-        "y": 4867927.7911000028
+        "x": -11711463.343600001,
+        "y": 4872302.1403999999
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 47,
+        "BEGINTIME": 1759246440000,
+        "ESTIMATEDTIMERESTORATION": 1759253400000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 30154023,
+        "COMMUNITIES": "Windsor",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11677131.2728,
+        "y": 4934772.5345000029
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 48,
+        "BEGINTIME": 1759246500000,
+        "ESTIMATEDTIMERESTORATION": 1759253400000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 30154023,
+        "COMMUNITIES": "Indian Hills",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11717081.8276,
+        "y": 4812021.6873999983
       }
     }
   ]
