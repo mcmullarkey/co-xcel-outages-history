@@ -80,30 +80,12 @@
     {
       "attributes": {
         "OBJECTID": 1,
-        "BEGINTIME": 1759448400000,
-        "ESTIMATEDTIMERESTORATION": 1759458600000,
-        "CUSTOMERSOUT": 13,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 3011624,
-        "COMMUNITIES": "Littleton",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11703030.9957,
-        "y": 4810383.0829000026
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 2,
         "BEGINTIME": 1759399320000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 3011624,
+        "BATCHID": 3012824,
         "COMMUNITIES": "Windsor",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -115,13 +97,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 3,
+        "OBJECTID": 2,
         "BEGINTIME": 1759443660000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 37,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 3011624,
+        "BATCHID": 3012824,
         "COMMUNITIES": "Dillon,  Montezuma,  Keystone",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -133,13 +115,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 4,
+        "OBJECTID": 3,
         "BEGINTIME": 1759444380000,
         "ESTIMATEDTIMERESTORATION": null,
         "CUSTOMERSOUT": 49,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 3011624,
+        "BATCHID": 3012824,
         "COMMUNITIES": "Dillon,  Keystone",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -151,49 +133,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 5,
-        "BEGINTIME": 1759442520000,
-        "ESTIMATEDTIMERESTORATION": null,
-        "CUSTOMERSOUT": 439,
-        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 3011624,
-        "COMMUNITIES": "Keystone,  Montezuma,  Dillon",
-        "STATES": "CO",
-        "CREWSTATUS": null
-      },
-      "geometry": {
-        "x": -11793219.732900001,
-        "y": 4809053.927199997
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 6,
-        "BEGINTIME": 1759448400000,
-        "ESTIMATEDTIMERESTORATION": 1759458600000,
-        "CUSTOMERSOUT": 65,
-        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-        "TIMESTAMP": null,
-        "BATCHID": 3011624,
-        "COMMUNITIES": "Littleton",
-        "STATES": "CO",
-        "CREWSTATUS": "Crew Onsite"
-      },
-      "geometry": {
-        "x": -11702827.352299999,
-        "y": 4810074.2052000016
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 7,
+        "OBJECTID": 4,
         "BEGINTIME": 1759419360000,
         "ESTIMATEDTIMERESTORATION": 1759445100000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 3011624,
+        "BATCHID": 3012824,
         "COMMUNITIES": "Westminster",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -205,13 +151,13 @@
     },
     {
       "attributes": {
-        "OBJECTID": 8,
+        "OBJECTID": 5,
         "BEGINTIME": 1759427520000,
         "ESTIMATEDTIMERESTORATION": 1759434300000,
         "CUSTOMERSOUT": 1,
         "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
         "TIMESTAMP": null,
-        "BATCHID": 3011624,
+        "BATCHID": 3012824,
         "COMMUNITIES": "Grand Junction",
         "STATES": "CO",
         "CREWSTATUS": null
@@ -219,6 +165,78 @@
       "geometry": {
         "x": -12084515.017099999,
         "y": 4729554.9411000013
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 9,
+        "BEGINTIME": 1759442520000,
+        "ESTIMATEDTIMERESTORATION": null,
+        "CUSTOMERSOUT": 439,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 3012824,
+        "COMMUNITIES": "Keystone,  Montezuma,  Dillon",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11793219.732900001,
+        "y": 4809053.927199997
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10,
+        "BEGINTIME": 1759448400000,
+        "ESTIMATEDTIMERESTORATION": 1759458600000,
+        "CUSTOMERSOUT": 65,
+        "EVENTSTATUS": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 3012824,
+        "COMMUNITIES": "Littleton",
+        "STATES": "CO",
+        "CREWSTATUS": "Crew Onsite"
+      },
+      "geometry": {
+        "x": -11702827.352299999,
+        "y": 4810074.2052000016
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 11,
+        "BEGINTIME": 1759448400000,
+        "ESTIMATEDTIMERESTORATION": 1759458600000,
+        "CUSTOMERSOUT": 13,
+        "EVENTSTATUS": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+        "TIMESTAMP": null,
+        "BATCHID": 3012824,
+        "COMMUNITIES": "Littleton",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11703030.9957,
+        "y": 4810383.0829000026
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 12,
+        "BEGINTIME": 1759454220000,
+        "ESTIMATEDTIMERESTORATION": 1759462200000,
+        "CUSTOMERSOUT": 1,
+        "EVENTSTATUS": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+        "TIMESTAMP": null,
+        "BATCHID": 3012824,
+        "COMMUNITIES": "Highlands Ranch",
+        "STATES": "CO",
+        "CREWSTATUS": null
+      },
+      "geometry": {
+        "x": -11689143.169,
+        "y": 4799538.3770999983
       }
     }
   ]
