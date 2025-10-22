@@ -169,6 +169,62 @@
   },
   {
     "attributes": {
+      "objectid": 8587,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1761130200000,
+      "etr": 1761134400000,
+      "ticket": "22105224",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4921410.0211,-11655058.7595",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{EE6BD4B2-4A0E-4E16-9E7E-F154B8124FF5}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Evans",
+      "xcelarea": "Evans"
+    },
+    "geometry": {
+      "x": -11655058.759500001,
+      "y": 4921410.0210999995
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 8588,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1761130080000,
+      "etr": 1761134400000,
+      "ticket": "22105224",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4916963.9802,-11634685.7621",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{70081936-9F08-4FFC-BE39-EF1FF474FBEA}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Kersey",
+      "xcelarea": "Kersey"
+    },
+    "geometry": {
+      "x": -11634685.7621,
+      "y": 4916963.9802000001
+    }
+  },
+  {
+    "attributes": {
       "objectid": 8571,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
@@ -421,34 +477,6 @@
   },
   {
     "attributes": {
-      "objectid": 8319,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 16,
-      "off_": 1761117240000,
-      "etr": 1761124500000,
-      "ticket": "22105224",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4834191.537799999,-11699837.6637",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{03519AFB-D013-4E1B-9B40-E00C839C0C35}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Wheat Ridge",
-      "xcelarea": "Wheat Ridge"
-    },
-    "geometry": {
-      "x": -11699837.663699999,
-      "y": 4834191.5377999991
-    }
-  },
-  {
-    "attributes": {
       "objectid": 8534,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
@@ -561,30 +589,30 @@
   },
   {
     "attributes": {
-      "objectid": 8411,
+      "objectid": 8319,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 13,
-      "off_": 1761122100000,
-      "etr": 1761149700000,
+      "customers": 16,
+      "off_": 1761117240000,
+      "etr": 1761124500000,
       "ticket": "22105224",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4825620.055100001,-11708323.121",
+      "latlong": "4834191.537799999,-11699837.6637",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{F2F7C670-5191-4CAC-91DA-B31CE2EA0B6A}",
+      "globalid": "{03519AFB-D013-4E1B-9B40-E00C839C0C35}",
       "county": "JEFFERSON",
       "cause": "Outage",
-      "city": "Golden",
-      "xcelarea": "Golden"
+      "city": "Wheat Ridge",
+      "xcelarea": "Wheat Ridge"
     },
     "geometry": {
-      "x": -11708323.120999999,
-      "y": 4825620.0551000014
+      "x": -11699837.663699999,
+      "y": 4834191.5377999991
     }
   },
   {
@@ -669,6 +697,34 @@
     "geometry": {
       "x": -11704301.559700001,
       "y": 4866063.6084999964
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 8411,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 13,
+      "off_": 1761122100000,
+      "etr": 1761149700000,
+      "ticket": "22105224",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825620.055100001,-11708323.121",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F2F7C670-5191-4CAC-91DA-B31CE2EA0B6A}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "geometry": {
+      "x": -11708323.120999999,
+      "y": 4825620.0551000014
     }
   },
   {
