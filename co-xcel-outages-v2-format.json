@@ -7,7 +7,7 @@
       "customers": 184,
       "off_": 1761164760000,
       "etr": 1761179400000,
-      "ticket": "23004824",
+      "ticket": "23012424",
       "outageimpact": "Medium",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -32,10 +32,10 @@
       "objectid": 8935,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
+      "customers": 6,
       "off_": 1761168720000,
       "etr": 1761179400000,
-      "ticket": "23004824",
+      "ticket": "23012424",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -57,41 +57,13 @@
   },
   {
     "attributes": {
-      "objectid": 8960,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 196,
-      "off_": 1761172680000,
-      "etr": 1761181200000,
-      "ticket": "23004824",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4841398.675700001,-11690263.5841",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{6A2BFD40-7A1D-494E-AE41-68D6A88F6EC6}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Denver,  Westminster",
-      "xcelarea": "Denver,  Westminster"
-    },
-    "geometry": {
-      "x": -11690263.584100001,
-      "y": 4841398.6757000014
-    }
-  },
-  {
-    "attributes": {
       "objectid": 8881,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1,
       "off_": 1761152280000,
       "etr": 1761163200000,
-      "ticket": "23004824",
+      "ticket": "23012424",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -119,7 +91,7 @@
       "customers": 1,
       "off_": 1761158160000,
       "etr": 1761179400000,
-      "ticket": "23004824",
+      "ticket": "23012424",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -141,13 +113,41 @@
   },
   {
     "attributes": {
+      "objectid": 8960,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 196,
+      "off_": 1761172680000,
+      "etr": 1761199200000,
+      "ticket": "23012424",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4841398.675700001,-11690263.5841",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6A2BFD40-7A1D-494E-AE41-68D6A88F6EC6}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Denver,  Westminster",
+      "xcelarea": "Denver,  Westminster"
+    },
+    "geometry": {
+      "x": -11690263.584100001,
+      "y": 4841398.6757000014
+    }
+  },
+  {
+    "attributes": {
       "objectid": 8932,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 2,
       "off_": 1761168600000,
       "etr": null,
-      "ticket": "23004824",
+      "ticket": "23012424",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -165,34 +165,6 @@
     "geometry": {
       "x": -11700542.500799999,
       "y": 4854936.0578999966
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 8970,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1761180000000,
-      "etr": 1761191100000,
-      "ticket": "23004824",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4833753.880900003,-11685363.2523",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{2396A5C0-9B90-44EE-ACA5-BD22BDB94C2B}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "geometry": {
-      "x": -11685363.2523,
-      "y": 4833753.880900003
     }
   }
 ]
