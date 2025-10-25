@@ -7,7 +7,7 @@
       "customers": 2,
       "off_": 1761373560000,
       "etr": 1761384600000,
-      "ticket": "25072424",
+      "ticket": "25074824",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -35,7 +35,7 @@
       "customers": 8,
       "off_": 1761375840000,
       "etr": 1761412500000,
-      "ticket": "25072424",
+      "ticket": "25074824",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -57,86 +57,58 @@
   },
   {
     "attributes": {
-      "objectid": 10346,
+      "objectid": 10352,
       "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1761376320000,
-      "etr": 1761383700000,
-      "ticket": "25072424",
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 11,
+      "off_": 1761378360000,
+      "etr": null,
+      "ticket": "25074824",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4832975.360600002,-11675024.6427",
+      "latlong": "4884572.215999998,-11732922.3718",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{19A8023D-F227-42F3-AEDB-DD8510542FB6}",
+      "globalid": "{28B67311-0F45-4C48-8BCA-1CD376636589}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Jamestown",
+      "xcelarea": "Jamestown"
+    },
+    "geometry": {
+      "x": -11732922.3718,
+      "y": 4884572.2159999982
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 10350,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1761377580000,
+      "etr": 1761384600000,
+      "ticket": "25074824",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828027.156099997,-11675721.4726",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0E71DDC0-6B80-4745-9317-477F9CABC372}",
       "county": "DENVER",
       "cause": "Outage",
       "city": "Denver",
       "xcelarea": "Denver"
     },
     "geometry": {
-      "x": -11675024.6427,
-      "y": 4832975.3606000021
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 10343,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1761376020000,
-      "etr": 1761383700000,
-      "ticket": "25072424",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4813119.5537,-11698040.0053",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{65F45AA5-AF7F-463E-8511-E1E3B48E4354}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "geometry": {
-      "x": -11698040.0053,
-      "y": 4813119.5537
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 10338,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1761374640000,
-      "etr": 1761383700000,
-      "ticket": "25072424",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4825145.510799997,-11706515.2168",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{98B53DFB-8B8B-4223-B57D-28C613B8DDFD}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Golden",
-      "xcelarea": "Golden"
-    },
-    "geometry": {
-      "x": -11706515.216800001,
-      "y": 4825145.5107999966
+      "x": -11675721.4726,
+      "y": 4828027.1560999975
     }
   }
 ]
