@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
+      "objectid": 10625,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 15,
+      "off_": 1761426300000,
+      "etr": 1761458400000,
+      "ticket": "26074823",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4826019.544399999,-11706257.707",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{85D53AF1-051A-40A5-A76D-ADAF7D8CF70B}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "geometry": {
+      "x": -11706257.707,
+      "y": 4826019.5443999991
+    }
+  },
+  {
+    "attributes": {
       "objectid": 10683,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 122,
       "off_": 1761457260000,
       "etr": 1761468300000,
-      "ticket": "26072424",
+      "ticket": "26074823",
       "outageimpact": "Medium",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -35,7 +63,7 @@
       "customers": 1,
       "off_": 1761461100000,
       "etr": 1761480000000,
-      "ticket": "26072424",
+      "ticket": "26074823",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -53,34 +81,6 @@
     "geometry": {
       "x": -11685275.695,
       "y": 4804336.2431999967
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 10625,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 15,
-      "off_": 1761426300000,
-      "etr": 1761458400000,
-      "ticket": "26072424",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4826019.544399999,-11706257.707",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{85D53AF1-051A-40A5-A76D-ADAF7D8CF70B}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Golden",
-      "xcelarea": "Golden"
-    },
-    "geometry": {
-      "x": -11706257.707,
-      "y": 4826019.5443999991
     }
   }
 ]
