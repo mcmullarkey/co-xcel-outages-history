@@ -71,7 +71,7 @@
       "datastatus": null,
       "latlong": "4850783.695699997,-11684836.7912",
       "states": "CO",
-      "crewstatus": "<NA>",
+      "crewstatus": null,
       "globalid": "{34777685-FFF4-41DA-9A7B-819235D158EE}",
       "county": "ADAMS",
       "cause": "Outage",
@@ -141,34 +141,6 @@
   },
   {
     "attributes": {
-      "objectid": 15497,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 10,
-      "off_": 1762079940000,
-      "etr": 1762090200000,
-      "ticket": "2124804",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4731115.624499999,-12083468.4168",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{CEFEA63F-222D-4BFA-B990-CDFA93C8309F}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "geometry": {
-      "x": -12083468.4168,
-      "y": 4731115.624499999
-    }
-  },
-  {
-    "attributes": {
       "objectid": 15203,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
@@ -221,6 +193,34 @@
     "geometry": {
       "x": -11744161.3156,
       "y": 4828435.1616000012
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 15497,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 10,
+      "off_": 1762079940000,
+      "etr": 1762090200000,
+      "ticket": "2124804",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4731115.624499999,-12083468.4168",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{CEFEA63F-222D-4BFA-B990-CDFA93C8309F}",
+      "county": "MESA",
+      "cause": "Outage",
+      "city": "Grand Junction",
+      "xcelarea": "Grand Junction"
+    },
+    "geometry": {
+      "x": -12083468.4168,
+      "y": 4731115.624499999
     }
   }
 ]
