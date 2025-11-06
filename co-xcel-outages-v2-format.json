@@ -7,7 +7,7 @@
       "customers": 1,
       "off_": 1762407000000,
       "etr": 1762414200000,
-      "ticket": "6064804",
+      "ticket": "6072404",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -35,7 +35,7 @@
       "customers": 1,
       "off_": 1762387080000,
       "etr": 1762398000000,
-      "ticket": "6064804",
+      "ticket": "6072404",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -63,7 +63,7 @@
       "customers": 551,
       "off_": 1762408440000,
       "etr": 1762418700000,
-      "ticket": "6064804",
+      "ticket": "6072404",
       "outageimpact": "Medium",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -75,8 +75,8 @@
       "globalid": "{E515482A-07BF-4796-A4BE-28F082A3D9F5}",
       "county": "BOULDER, LARIMER",
       "cause": "Outage",
-      "city": "Lyons,  Raymond,  Riverside,  Ward,  Jamestown,  Boulder",
-      "xcelarea": "Lyons,  Raymond,  Riverside,  Ward,  Jamestown,  Boulder"
+      "city": "Lyons,  Raymond,  Riverside,  Boulder,  Ward,  Jamestown",
+      "xcelarea": "Lyons,  Raymond,  Riverside,  Boulder,  Ward,  Jamestown"
     },
     "geometry": {
       "x": -11736854.1996,
@@ -91,7 +91,7 @@
       "customers": 171,
       "off_": 1762376460000,
       "etr": 1762401600000,
-      "ticket": "6064804",
+      "ticket": "6072404",
       "outageimpact": "Medium",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -113,30 +113,58 @@
   },
   {
     "attributes": {
-      "objectid": 17803,
+      "objectid": 17823,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
+      "customers": 11,
       "off_": 1762409220000,
       "etr": 1762419600000,
-      "ticket": "6064804",
+      "ticket": "6072404",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4872588.725400001,-11730098.2297",
+      "latlong": "4872807.412600003,-11729527.4134",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{0FB2D6AC-A89A-4F77-B205-F3F8CDD85B10}",
+      "globalid": "{2240C579-E751-4B2E-B185-F52BC4FA8906}",
       "county": "BOULDER",
       "cause": "Outage",
       "city": "Boulder",
       "xcelarea": "Boulder"
     },
     "geometry": {
-      "x": -11730098.229699999,
-      "y": 4872588.7254000008
+      "x": -11729527.4134,
+      "y": 4872807.4126000032
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 17824,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1762412940000,
+      "etr": 1762438500000,
+      "ticket": "6072404",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4836484.215800002,-11710662.469999999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B6A23F23-50D7-4639-AE59-2D386D3DE889}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "geometry": {
+      "x": -11710662.469999999,
+      "y": 4836484.2158000022
     }
   }
 ]
