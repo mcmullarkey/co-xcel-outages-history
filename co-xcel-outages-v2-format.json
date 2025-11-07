@@ -7,7 +7,7 @@
       "customers": 11,
       "off_": 1762457940000,
       "etr": 1762516800000,
-      "ticket": "7062804",
+      "ticket": "7064804",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -35,7 +35,7 @@
       "customers": 13,
       "off_": 1762478340000,
       "etr": 1762509600000,
-      "ticket": "7062804",
+      "ticket": "7064804",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -63,7 +63,7 @@
       "customers": 19,
       "off_": 1762480500000,
       "etr": 1762509600000,
-      "ticket": "7062804",
+      "ticket": "7064804",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -85,41 +85,13 @@
   },
   {
     "attributes": {
-      "objectid": 18644,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 9,
-      "off_": 1762496220000,
-      "etr": 1762507800000,
-      "ticket": "7062804",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4796256.469800003,-11672236.0995",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{C95545DA-EB14-4BB6-A0A4-1123B68C1E36}",
-      "county": "DOUGLAS",
-      "cause": "Outage",
-      "city": "Lone Tree",
-      "xcelarea": "Lone Tree"
-    },
-    "geometry": {
-      "x": -11672236.0995,
-      "y": 4796256.4698000029
-    }
-  },
-  {
-    "attributes": {
       "objectid": 18567,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
       "customers": 265,
       "off_": 1762459980000,
       "etr": 1762509600000,
-      "ticket": "7062804",
+      "ticket": "7064804",
       "outageimpact": "Medium",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -147,7 +119,7 @@
       "customers": 1,
       "off_": 1762495500000,
       "etr": null,
-      "ticket": "7062804",
+      "ticket": "7064804",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -169,30 +141,30 @@
   },
   {
     "attributes": {
-      "objectid": 18576,
+      "objectid": 18644,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1762459980000,
-      "etr": 1762509600000,
-      "ticket": "7062804",
+      "customers": 9,
+      "off_": 1762496220000,
+      "etr": 1762506900000,
+      "ticket": "7064804",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4884842.8816,-11742580.0924",
+      "latlong": "4796256.469800003,-11672236.0995",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{B81B84EB-A983-4093-BB69-AEB865221C24}",
-      "county": "BOULDER",
+      "globalid": "{C95545DA-EB14-4BB6-A0A4-1123B68C1E36}",
+      "county": "DOUGLAS",
       "cause": "Outage",
-      "city": "Ward",
-      "xcelarea": "Ward"
+      "city": "Lone Tree",
+      "xcelarea": "Lone Tree"
     },
     "geometry": {
-      "x": -11742580.092399999,
-      "y": 4884842.8816
+      "x": -11672236.0995,
+      "y": 4796256.4698000029
     }
   },
   {
@@ -203,7 +175,7 @@
       "customers": 69,
       "off_": 1762469460000,
       "etr": 1762490700000,
-      "ticket": "7062804",
+      "ticket": "7064804",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -231,7 +203,7 @@
       "customers": 54,
       "off_": 1762459980000,
       "etr": 1762509600000,
-      "ticket": "7062804",
+      "ticket": "7064804",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -249,6 +221,34 @@
     "geometry": {
       "x": -11742575.4782,
       "y": 4884854.6996000037
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 18576,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1762459980000,
+      "etr": 1762509600000,
+      "ticket": "7064804",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4884842.8816,-11742580.0924",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B81B84EB-A983-4093-BB69-AEB865221C24}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Ward",
+      "xcelarea": "Ward"
+    },
+    "geometry": {
+      "x": -11742580.092399999,
+      "y": 4884842.8816
     }
   }
 ]
