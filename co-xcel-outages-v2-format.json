@@ -7,7 +7,7 @@
       "customers": 3,
       "off_": 1762821180000,
       "etr": null,
-      "ticket": "11015204",
+      "ticket": "11022404",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -35,7 +35,7 @@
       "customers": 1,
       "off_": 1762807680000,
       "etr": null,
-      "ticket": "11015204",
+      "ticket": "11022404",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -57,30 +57,30 @@
   },
   {
     "attributes": {
-      "objectid": 20474,
+      "objectid": 20626,
       "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 22,
-      "off_": 1762791900000,
-      "etr": 1762829100000,
-      "ticket": "11015204",
-      "outageimpact": "Small",
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 472,
+      "off_": 1762826520000,
+      "etr": 1762839000000,
+      "ticket": "11022404",
+      "outageimpact": "Medium",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4834560.431500003,-11679813.6695",
+      "latlong": "4830720.799400002,-11750365.998",
       "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{29C8582D-6BFC-4E1D-8F4C-12B8BC871E87}",
-      "county": "DENVER",
+      "crewstatus": null,
+      "globalid": "{C7E92995-4CD9-428B-BD4B-B534FB9A49D1}",
+      "county": "CLEAR CREEK",
       "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
+      "city": "Idaho Springs",
+      "xcelarea": "Idaho Springs"
     },
     "geometry": {
-      "x": -11679813.669500001,
-      "y": 4834560.4315000027
+      "x": -11750365.998,
+      "y": 4830720.7994000018
     }
   },
   {
@@ -91,7 +91,7 @@
       "customers": 229,
       "off_": 1762807680000,
       "etr": 1762831800000,
-      "ticket": "11015204",
+      "ticket": "11022404",
       "outageimpact": "Medium",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -113,41 +113,13 @@
   },
   {
     "attributes": {
-      "objectid": 20285,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 2,
-      "off_": 1762774200000,
-      "etr": null,
-      "ticket": "11015204",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4815755.579700001,-11636162.6511",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{8EB71A8D-CF69-40EF-9D2E-8B0921525571}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Watkins",
-      "xcelarea": "Watkins"
-    },
-    "geometry": {
-      "x": -11636162.6511,
-      "y": 4815755.5797000006
-    }
-  },
-  {
-    "attributes": {
       "objectid": 20581,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 177,
       "off_": 1762809900000,
       "etr": null,
-      "ticket": "11015204",
+      "ticket": "11022404",
       "outageimpact": "Medium",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -165,6 +137,34 @@
     "geometry": {
       "x": -11744023.617899999,
       "y": 4828625.577200003
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 20285,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1762774200000,
+      "etr": null,
+      "ticket": "11022404",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4815755.579700001,-11636162.6511",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8EB71A8D-CF69-40EF-9D2E-8B0921525571}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Watkins",
+      "xcelarea": "Watkins"
+    },
+    "geometry": {
+      "x": -11636162.6511,
+      "y": 4815755.5797000006
     }
   }
 ]
