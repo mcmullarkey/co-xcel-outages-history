@@ -7,7 +7,7 @@
       "customers": 3,
       "off_": 1762821180000,
       "etr": null,
-      "ticket": "11013204",
+      "ticket": "11015204",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -35,7 +35,7 @@
       "customers": 1,
       "off_": 1762807680000,
       "etr": null,
-      "ticket": "11013204",
+      "ticket": "11015204",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -57,41 +57,13 @@
   },
   {
     "attributes": {
-      "objectid": 20547,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 229,
-      "off_": 1762807680000,
-      "etr": 1762816500000,
-      "ticket": "11013204",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4864422.441100001,-11716834.2675",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{3421785B-7181-4A2A-B0D4-66FD6DE842AE}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "geometry": {
-      "x": -11716834.2675,
-      "y": 4864422.4411000013
-    }
-  },
-  {
-    "attributes": {
       "objectid": 20474,
       "boundary": null,
       "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 22,
       "off_": 1762791900000,
       "etr": 1762829100000,
-      "ticket": "11013204",
+      "ticket": "11015204",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -113,30 +85,30 @@
   },
   {
     "attributes": {
-      "objectid": 20581,
+      "objectid": 20547,
       "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 177,
-      "off_": 1762809900000,
-      "etr": null,
-      "ticket": "11013204",
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 229,
+      "off_": 1762807680000,
+      "etr": 1762831800000,
+      "ticket": "11015204",
       "outageimpact": "Medium",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4828625.577200003,-11744023.617899999",
+      "latlong": "4864422.441100001,-11716834.2675",
       "states": "CO",
-      "crewstatus": null,
-      "globalid": "{F9F39524-C9A1-4951-910B-6B056E2EA5D7}",
-      "county": "CLEAR CREEK",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{3421785B-7181-4A2A-B0D4-66FD6DE842AE}",
+      "county": "BOULDER",
       "cause": "Outage",
-      "city": "Idaho Springs",
-      "xcelarea": "Idaho Springs"
+      "city": "Boulder",
+      "xcelarea": "Boulder"
     },
     "geometry": {
-      "x": -11744023.617899999,
-      "y": 4828625.577200003
+      "x": -11716834.2675,
+      "y": 4864422.4411000013
     }
   },
   {
@@ -147,7 +119,7 @@
       "customers": 2,
       "off_": 1762774200000,
       "etr": null,
-      "ticket": "11013204",
+      "ticket": "11015204",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -165,6 +137,34 @@
     "geometry": {
       "x": -11636162.6511,
       "y": 4815755.5797000006
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 20581,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 177,
+      "off_": 1762809900000,
+      "etr": null,
+      "ticket": "11015204",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828625.577200003,-11744023.617899999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F9F39524-C9A1-4951-910B-6B056E2EA5D7}",
+      "county": "CLEAR CREEK",
+      "cause": "Outage",
+      "city": "Idaho Springs",
+      "xcelarea": "Idaho Springs"
+    },
+    "geometry": {
+      "x": -11744023.617899999,
+      "y": 4828625.577200003
     }
   }
 ]
