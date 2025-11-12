@@ -1,41 +1,41 @@
 [
   {
     "attributes": {
-      "objectid": 21345,
+      "objectid": 21354,
       "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 30,
-      "off_": 1762890780000,
-      "etr": 1762897500000,
-      "ticket": "11214804",
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1762898940000,
+      "etr": 1762907400000,
+      "ticket": "11222404",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4819952.370700002,-11721403.1701",
+      "latlong": "4813335.683700003,-11659277.3641",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{D94017E1-A08B-478F-B691-00720BF82155}",
-      "county": "JEFFERSON",
+      "globalid": "{49E2A10E-48B9-4297-A233-C4E2FBCE64C2}",
+      "county": "ARAPAHOE",
       "cause": "Outage",
-      "city": "Golden",
-      "xcelarea": "Golden"
+      "city": "Aurora",
+      "xcelarea": "Aurora"
     },
     "geometry": {
-      "x": -11721403.1701,
-      "y": 4819952.3707000017
+      "x": -11659277.3641,
+      "y": 4813335.6837000027
     }
   },
   {
     "attributes": {
       "objectid": 21352,
       "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 41,
       "off_": 1762896000000,
       "etr": 1762906500000,
-      "ticket": "11214804",
+      "ticket": "11222404",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -53,6 +53,34 @@
     "geometry": {
       "x": -11686264.0173,
       "y": 4802072.759300001
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 21345,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 30,
+      "off_": 1762890780000,
+      "etr": 1762897500000,
+      "ticket": "11222404",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4819952.370700002,-11721403.1701",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D94017E1-A08B-478F-B691-00720BF82155}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "geometry": {
+      "x": -11721403.1701,
+      "y": 4819952.3707000017
     }
   }
 ]
