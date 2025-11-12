@@ -1,30 +1,30 @@
 [
   {
     "attributes": {
-      "objectid": 21361,
+      "objectid": 21372,
       "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 7,
-      "off_": 1762906680000,
-      "etr": null,
-      "ticket": "12024804",
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1762917720000,
+      "etr": 1762929000000,
+      "ticket": "12032804",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4801437.832400002,-11698754.1555",
+      "latlong": "4821134.9428,-11701790.0305",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{08FAE936-2A80-422D-A522-ECFBBC137E83}",
+      "globalid": "{10AFCE5C-C962-41DF-A3E2-C51349ED0481}",
       "county": "JEFFERSON",
       "cause": "Outage",
-      "city": "Littleton",
-      "xcelarea": "Littleton"
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
     },
     "geometry": {
-      "x": -11698754.1555,
-      "y": 4801437.8324000016
+      "x": -11701790.0305,
+      "y": 4821134.9428000003
     }
   },
   {
@@ -35,7 +35,7 @@
       "customers": 25,
       "off_": 1762896000000,
       "etr": 1762932600000,
-      "ticket": "12024804",
+      "ticket": "12032804",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -53,6 +53,34 @@
     "geometry": {
       "x": -11686098.556499999,
       "y": 4802147.2195999995
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 21371,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 146,
+      "off_": 1762916640000,
+      "etr": 1762927200000,
+      "ticket": "12032804",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4818035.982000001,-11677477.181400001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{2C4ABF52-526F-4F98-A2A6-8C21E540EA1D}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11677477.181400001,
+      "y": 4818035.9820000008
     }
   }
 ]
