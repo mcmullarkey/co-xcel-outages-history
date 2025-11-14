@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
+      "objectid": 22586,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 3,
+      "off_": 1763102400000,
+      "etr": 1763113500000,
+      "ticket": "14064804",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4804104.324600004,-11982944.9875",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1CD77643-E534-439C-B09F-3135319ACB71}",
+      "county": "GARFIELD",
+      "cause": "Outage",
+      "city": "Silt",
+      "xcelarea": "Silt"
+    },
+    "geometry": {
+      "x": -11982944.987500001,
+      "y": 4804104.3246000037
+    }
+  },
+  {
+    "attributes": {
       "objectid": 22557,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 24,
       "off_": 1763080800000,
       "etr": 1763100900000,
-      "ticket": "14063204",
+      "ticket": "14064804",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -25,62 +53,6 @@
     "geometry": {
       "x": -11683907.586300001,
       "y": 4839940.8756000027
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 22579,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1763101740000,
-      "etr": 1763112600000,
-      "ticket": "14063204",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4829501.1941,-11694735.73",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{A17210D4-7933-4DE1-BEB1-3EBA4E20CF51}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Edgewater",
-      "xcelarea": "Edgewater"
-    },
-    "geometry": {
-      "x": -11694735.73,
-      "y": 4829501.1941
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 22565,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1763099400000,
-      "etr": 1763107200000,
-      "ticket": "14063204",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4848097.043200001,-11686555.201299999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{0F1C4CEB-8692-4ED8-98A6-220CF92BBC81}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Thornton",
-      "xcelarea": "Thornton"
-    },
-    "geometry": {
-      "x": -11686555.201299999,
-      "y": 4848097.0432000011
     }
   }
 ]
