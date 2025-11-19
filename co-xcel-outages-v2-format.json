@@ -7,7 +7,7 @@
       "customers": 13,
       "off_": 1763534880000,
       "etr": 1763557200000,
-      "ticket": "19072404",
+      "ticket": "19074804",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -34,8 +34,8 @@
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1,
       "off_": 1763536080000,
-      "etr": 1763542800000,
-      "ticket": "19072404",
+      "etr": 1763543700000,
+      "ticket": "19074804",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -57,30 +57,58 @@
   },
   {
     "attributes": {
-      "objectid": 25193,
+      "objectid": 25198,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
       "customers": 1,
-      "off_": 1763536680000,
+      "off_": 1763537760000,
       "etr": 1763548200000,
-      "ticket": "19072404",
+      "ticket": "19074804",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4824120.201200001,-11685480.6943",
+      "latlong": "4842192.2761999965,-11680194.383299999",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{FAF3049D-6D18-4014-8AF4-6B2905F2C1BA}",
-      "county": "DENVER",
+      "globalid": "{3B1674D6-7006-4595-9A70-A59071C61BFC}",
+      "county": "ADAMS",
       "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
+      "city": "Commerce City",
+      "xcelarea": "Commerce City"
     },
     "geometry": {
-      "x": -11685480.6943,
-      "y": 4824120.2012000009
+      "x": -11680194.383299999,
+      "y": 4842192.2761999965
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 25199,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1763537820000,
+      "etr": null,
+      "ticket": "19074804",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4864428.680100001,-11717663.618900001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D769055C-1FE3-46EC-8E08-25B7DD868D54}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "geometry": {
+      "x": -11717663.618900001,
+      "y": 4864428.6801000014
     }
   }
 ]
