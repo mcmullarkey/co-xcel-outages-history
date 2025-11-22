@@ -7,7 +7,7 @@
       "customers": 3,
       "off_": 1763796660000,
       "etr": 1763804700000,
-      "ticket": "22074804",
+      "ticket": "22082004",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -29,41 +29,41 @@
   },
   {
     "attributes": {
-      "objectid": 26948,
+      "objectid": 26955,
       "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 2,
-      "off_": 1763797140000,
-      "etr": 1763804700000,
-      "ticket": "22074804",
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 15,
+      "off_": 1763798820000,
+      "etr": 1763831700000,
+      "ticket": "22082004",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4854999.629299998,-11701527.901",
+      "latlong": "4841467.3125,-11679064.417",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{597B5555-6541-4B71-859E-C5C47396C647}",
-      "county": "BROOMFIELD",
+      "globalid": "{37DB23CD-FE4E-4C9F-98CA-CB38401A8FCA}",
+      "county": "ADAMS",
       "cause": "Outage",
-      "city": "Broomfield",
-      "xcelarea": "Broomfield"
+      "city": "Commerce City",
+      "xcelarea": "Commerce City"
     },
     "geometry": {
-      "x": -11701527.901000001,
-      "y": 4854999.6292999983
+      "x": -11679064.416999999,
+      "y": 4841467.3125
     }
   },
   {
     "attributes": {
       "objectid": 26944,
       "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 61,
       "off_": 1763796600000,
       "etr": 1763803800000,
-      "ticket": "22074804",
+      "ticket": "22082004",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -71,7 +71,7 @@
       "datastatus": null,
       "latlong": "4826663.930299997,-11679825.4004",
       "states": "CO",
-      "crewstatus": null,
+      "crewstatus": "Crew Onsite",
       "globalid": "{486721F6-2D1E-4152-AF60-25B6DC90D4B6}",
       "county": "DENVER",
       "cause": "Outage",
@@ -81,6 +81,62 @@
     "geometry": {
       "x": -11679825.4004,
       "y": 4826663.9302999973
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 26956,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 43,
+      "off_": 1763799000000,
+      "etr": 1763806500000,
+      "ticket": "22082004",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4821439.7863000035,-11691015.7733",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8A33B35E-3D6B-4997-8E66-CDB6B5DB8934}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11691015.7733,
+      "y": 4821439.7863000035
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 26957,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1763799360000,
+      "etr": null,
+      "ticket": "22082004",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4868914.089400001,-11715119.6435",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E086E1B0-9878-4A67-BD16-2A14CF010420}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "geometry": {
+      "x": -11715119.6435,
+      "y": 4868914.0894000009
     }
   }
 ]
