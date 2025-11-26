@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
+      "objectid": 29609,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1764141360000,
+      "etr": 1764153000000,
+      "ticket": "26072404",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4817149.684299998,-11682457.6766",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{16C69985-A2FD-4E63-94B1-4B51009E3050}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11682457.6766,
+      "y": 4817149.684299998
+    }
+  },
+  {
+    "attributes": {
       "objectid": 29535,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
       "customers": 14,
       "off_": 1764138540000,
       "etr": 1764148500000,
-      "ticket": "26064804",
+      "ticket": "26072404",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -25,34 +53,6 @@
     "geometry": {
       "x": -12094387.864799999,
       "y": 4731703.0578000024
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 29536,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1764138720000,
-      "etr": null,
-      "ticket": "26064804",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4730739.141500004,-12085158.2311",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{315AE5A4-BF56-438A-A00C-36DF8B3D2F92}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "geometry": {
-      "x": -12085158.2311,
-      "y": 4730739.1415000036
     }
   }
 ]
