@@ -6,8 +6,8 @@
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
       "customers": 37,
       "off_": 1764337380000,
-      "etr": 1764344700000,
-      "ticket": "28144804",
+      "etr": 1764353700000,
+      "ticket": "28152404",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -29,69 +29,13 @@
   },
   {
     "attributes": {
-      "objectid": 31586,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1764340500000,
-      "etr": 1764351900000,
-      "ticket": "28144804",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4861538.685599998,-11703814.2831",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{13BDCC1B-5267-43BF-AB31-1788DBDB4E19}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Louisville",
-      "xcelarea": "Louisville"
-    },
-    "geometry": {
-      "x": -11703814.2831,
-      "y": 4861538.6855999976
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 30649,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1764243840000,
-      "etr": 1764345600000,
-      "ticket": "28144804",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4866870.791299999,-11712027.047699999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{D1667CB9-58C8-4207-83A3-E62CE9F6E13C}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "geometry": {
-      "x": -11712027.047699999,
-      "y": 4866870.7912999988
-    }
-  },
-  {
-    "attributes": {
       "objectid": 31373,
       "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 24,
       "off_": 1764328200000,
-      "etr": 1764334800000,
-      "ticket": "28144804",
+      "etr": 1764345600000,
+      "ticket": "28152404",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -99,7 +43,7 @@
       "datastatus": null,
       "latlong": "4827620.789899997,-11673097.0155",
       "states": "CO",
-      "crewstatus": null,
+      "crewstatus": "Crew Onsite",
       "globalid": "{F0FFFA66-6162-470B-97D6-C21057EBA64F}",
       "county": "ARAPAHOE",
       "cause": "Outage",
@@ -109,6 +53,62 @@
     "geometry": {
       "x": -11673097.0155,
       "y": 4827620.7898999974
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 31629,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1764343140000,
+      "etr": 1764354600000,
+      "ticket": "28152404",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4835185.335600004,-11690317.7845",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{94A8AE9F-ACEC-487C-9F06-FCFFD1B1D6EF}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11690317.784499999,
+      "y": 4835185.3356000036
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 31628,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1764343080000,
+      "etr": 1764354600000,
+      "ticket": "28152404",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4831597.635700002,-11686981.4581",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F0CFE9A5-EBAA-432A-8AE4-83AFFF6A9E12}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11686981.4581,
+      "y": 4831597.6357000023
     }
   }
 ]
