@@ -7,7 +7,7 @@
       "customers": 393,
       "off_": 1764571500000,
       "etr": 1764576900000,
-      "ticket": "1074804",
+      "ticket": "1082404",
       "outageimpact": "Medium",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -19,8 +19,8 @@
       "globalid": "{5DE232E2-19A9-4882-85FA-1AE9C7F2D792}",
       "county": "WELD",
       "cause": "Outage",
-      "city": "Gill,  Eaton,  Galeton,  Greeley",
-      "xcelarea": "Gill,  Eaton,  Galeton,  Greeley"
+      "city": "Gill,  Galeton,  Greeley,  Eaton",
+      "xcelarea": "Gill,  Galeton,  Greeley,  Eaton"
     },
     "geometry": {
       "x": -11648501.719799999,
@@ -29,13 +29,41 @@
   },
   {
     "attributes": {
-      "objectid": 32737,
+      "objectid": 32777,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1,
+      "off_": 1764576240000,
+      "etr": 1764580500000,
+      "ticket": "1082404",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4931610.815499999,-11653748.7028",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{9ED00332-C2D0-4E0E-825C-A25345C033C3}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley",
+      "xcelarea": "Greeley"
+    },
+    "geometry": {
+      "x": -11653748.7028,
+      "y": 4931610.8154999986
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 32737,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
       "off_": 1764574140000,
       "etr": 1764577800000,
-      "ticket": "1074804",
+      "ticket": "1082404",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -43,7 +71,7 @@
       "datastatus": null,
       "latlong": "4925833.240000002,-11657528.6785",
       "states": "CO",
-      "crewstatus": null,
+      "crewstatus": "Crew Onsite",
       "globalid": "{577165FD-1708-4CFD-9663-738744736D47}",
       "county": "WELD",
       "cause": "Outage",
