@@ -1,13 +1,69 @@
 [
   {
     "attributes": {
+      "objectid": 35101,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1764907680000,
+      "etr": 1764918000000,
+      "ticket": "5042004",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4826262.785400003,-11701846.0621",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{3F52E3ED-713B-49E3-85D0-E5E1EFE31601}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "geometry": {
+      "x": -11701846.062100001,
+      "y": 4826262.7854000032
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 35106,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1764907980000,
+      "etr": 1764918900000,
+      "ticket": "5042004",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4866607.9639,-11718717.5885",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{2BC5F44D-AA34-4683-8FE9-70BE08B5C355}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "geometry": {
+      "x": -11718717.588500001,
+      "y": 4866607.9638999999
+    }
+  },
+  {
+    "attributes": {
       "objectid": 35093,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1495,
       "off_": 1764903900000,
       "etr": 1764914400000,
-      "ticket": "5034804",
+      "ticket": "5042004",
       "outageimpact": "Large",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -25,34 +81,6 @@
     "geometry": {
       "x": -11692420.719900001,
       "y": 4855626.7487000003
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 35095,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1764905580000,
-      "etr": 1764917100000,
-      "ticket": "5034804",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4833716.394400001,-11677779.3092",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{5AE82236-64A4-47CD-B679-3ADB19BDBB3B}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "geometry": {
-      "x": -11677779.3092,
-      "y": 4833716.3944000006
     }
   }
 ]
