@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
+      "objectid": 35061,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1764879960000,
+      "etr": 1764891000000,
+      "ticket": "4203204",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4823705.1022000015,-11680421.872499999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{895CEB24-B58C-4BAB-9202-65C133309DAE}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11680421.872499999,
+      "y": 4823705.1022000015
+    }
+  },
+  {
+    "attributes": {
       "objectid": 34997,
       "boundary": null,
       "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1,
       "off_": 1764861960000,
       "etr": 1764879300000,
-      "ticket": "4190404",
+      "ticket": "4203204",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -29,30 +57,58 @@
   },
   {
     "attributes": {
-      "objectid": 35035,
+      "objectid": 35057,
       "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1,
-      "off_": 1764872460000,
-      "etr": 1764881100000,
-      "ticket": "4190404",
+      "off_": 1764879240000,
+      "etr": 1764887400000,
+      "ticket": "4203204",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4866607.9639,-11718717.5885",
+      "latlong": "4821079.750500001,-11684174.4558",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{029266B7-88CD-4B86-96A4-C4ED335C01E0}",
-      "county": "BOULDER",
+      "globalid": "{49986ECC-9F30-4BF5-8B6B-5D61D54D2054}",
+      "county": "DENVER",
       "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
+      "city": "Denver",
+      "xcelarea": "Denver"
     },
     "geometry": {
-      "x": -11718717.588500001,
-      "y": 4866607.9638999999
+      "x": -11684174.455800001,
+      "y": 4821079.750500001
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 35059,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 10,
+      "off_": 1764877380000,
+      "etr": 1764888300000,
+      "ticket": "4203204",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4829482.8945999965,-11696173.887699999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{53F36949-7DA6-4552-9515-C8377BE4A8E1}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Edgewater",
+      "xcelarea": "Edgewater"
+    },
+    "geometry": {
+      "x": -11696173.887699999,
+      "y": 4829482.8945999965
     }
   }
 ]
