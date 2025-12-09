@@ -1,69 +1,13 @@
 [
   {
     "attributes": {
-      "objectid": 36693,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1765233360000,
-      "etr": 1765242000000,
-      "ticket": "8224649",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4834141.1316,-11692920.4531",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{F0703E20-1E5C-4FDF-BBFE-16751201D4AB}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "geometry": {
-      "x": -11692920.4531,
-      "y": 4834141.1316
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 36694,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 105,
-      "off_": 1765233480000,
-      "etr": 1765243800000,
-      "ticket": "8224649",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4870715.437700003,-11714565.0342",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{D1B4FA79-DA64-409A-B447-9F5EA7D62619}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "geometry": {
-      "x": -11714565.0342,
-      "y": 4870715.4377000034
-    }
-  },
-  {
-    "attributes": {
       "objectid": 36602,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1,
       "off_": 1765205580000,
       "etr": null,
-      "ticket": "8224649",
+      "ticket": "8234250",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -91,7 +35,7 @@
       "customers": 1,
       "off_": 1765216680000,
       "etr": 1765236600000,
-      "ticket": "8224649",
+      "ticket": "8234250",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -109,6 +53,34 @@
     "geometry": {
       "x": -11687049.103599999,
       "y": 4830233.3095000014
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 36697,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 168,
+      "off_": 1765233480000,
+      "etr": 1765242900000,
+      "ticket": "8234250",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4870181.896899998,-11714534.875500001",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{27952AD8-7DE9-4F59-8091-B99ACA5602A7}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "geometry": {
+      "x": -11714534.875500001,
+      "y": 4870181.8968999982
     }
   }
 ]
