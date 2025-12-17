@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
-      "objectid": 41779,
+      "objectid": 41784,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 48,
-      "off_": 1765950240000,
-      "etr": 1765961100000,
-      "ticket": "17055735",
+      "customers": 7,
+      "off_": 1765952220000,
+      "etr": 1765960200000,
+      "ticket": "17063335",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4838328.455499999,-11699488.1494",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{4FBE672C-0626-427D-B76F-7EEDF519250E}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "geometry": {
+      "x": -11699488.1494,
+      "y": 4838328.4554999992
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 41779,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 32,
+      "off_": 1765950420000,
+      "etr": 1765958400000,
+      "ticket": "17063335",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -15,7 +43,7 @@
       "datastatus": null,
       "latlong": "4844299.8464,-11688524.3529",
       "states": "CO",
-      "crewstatus": null,
+      "crewstatus": "Crew Onsite",
       "globalid": "{12111F19-1419-4A21-B26C-10760BEE496D}",
       "county": "ADAMS",
       "cause": "Outage",
@@ -25,6 +53,34 @@
     "geometry": {
       "x": -11688524.3529,
       "y": 4844299.8464000002
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 41781,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 16,
+      "off_": 1765950240000,
+      "etr": 1765960200000,
+      "ticket": "17063335",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4844307.241499998,-11688585.056499999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{EDB16DC9-066F-4085-A963-E7C13095C105}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Federal Heights",
+      "xcelarea": "Federal Heights"
+    },
+    "geometry": {
+      "x": -11688585.056499999,
+      "y": 4844307.2414999977
     }
   }
 ]
