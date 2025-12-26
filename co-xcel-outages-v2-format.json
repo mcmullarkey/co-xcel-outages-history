@@ -1,30 +1,30 @@
 [
   {
     "attributes": {
-      "objectid": 51955,
+      "objectid": 52017,
       "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 7,
-      "off_": 1766747880000,
-      "etr": 1766754900000,
-      "ticket": "26134535",
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1766758500000,
+      "etr": 1766769300000,
+      "ticket": "26141735",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4831156.5288999975,-11670621.929",
+      "latlong": "4821871.1206,-11676859.696600001",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{864D0D92-F6CC-4BD3-8831-BCB9896EA7BA}",
-      "county": "ADAMS",
+      "globalid": "{CE18A865-4C95-4D8E-812D-84CBCD1E208B}",
+      "county": "ARAPAHOE",
       "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
+      "city": "Denver",
+      "xcelarea": "Denver"
     },
     "geometry": {
-      "x": -11670621.929,
-      "y": 4831156.5288999975
+      "x": -11676859.696600001,
+      "y": 4821871.1206
     }
   },
   {
@@ -35,7 +35,7 @@
       "customers": 2,
       "off_": 1766744040000,
       "etr": 1766768400000,
-      "ticket": "26134535",
+      "ticket": "26141735",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -63,7 +63,7 @@
       "customers": 1,
       "off_": 1766753040000,
       "etr": 1766761200000,
-      "ticket": "26134535",
+      "ticket": "26141735",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -85,13 +85,41 @@
   },
   {
     "attributes": {
+      "objectid": 51955,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 7,
+      "off_": 1766747880000,
+      "etr": 1766763900000,
+      "ticket": "26141735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4831156.5288999975,-11670621.929",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{864D0D92-F6CC-4BD3-8831-BCB9896EA7BA}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "geometry": {
+      "x": -11670621.929,
+      "y": 4831156.5288999975
+    }
+  },
+  {
+    "attributes": {
       "objectid": 52000,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
       "customers": 2,
       "off_": 1766755260000,
       "etr": 1766762100000,
-      "ticket": "26134535",
+      "ticket": "26141735",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -119,7 +147,7 @@
       "customers": 1,
       "off_": 1766482200000,
       "etr": 1766745000000,
-      "ticket": "26134535",
+      "ticket": "26141735",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -147,7 +175,7 @@
       "customers": 1,
       "off_": 1766754960000,
       "etr": 1766765700000,
-      "ticket": "26134535",
+      "ticket": "26141735",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -165,34 +193,6 @@
     "geometry": {
       "x": -11745181.711300001,
       "y": 4876750.0775000006
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 52003,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 26,
-      "off_": 1766755740000,
-      "etr": 1766760300000,
-      "ticket": "26134535",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4927267.926799998,-11657509.1086",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{F4A578C1-F25E-4EAC-BC32-6FEF8FAA3EE4}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "Greeley",
-      "xcelarea": "Greeley"
-    },
-    "geometry": {
-      "x": -11657509.1086,
-      "y": 4927267.9267999977
     }
   }
 ]
