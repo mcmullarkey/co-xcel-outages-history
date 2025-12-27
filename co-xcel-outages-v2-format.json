@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
+      "objectid": 52130,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1766802000000,
+      "etr": 1766813400000,
+      "ticket": "27022535",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4827928.828100003,-11676366.6637",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{BFDEF278-69B5-47D3-A153-298AEFC810C9}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11676366.663699999,
+      "y": 4827928.8281000033
+    }
+  },
+  {
+    "attributes": {
       "objectid": 51924,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
       "customers": 2,
       "off_": 1766744040000,
       "etr": 1766828700000,
-      "ticket": "27014935",
+      "ticket": "27022535",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -25,6 +53,34 @@
     "geometry": {
       "x": -11698620.497499999,
       "y": 4845351.4038999975
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 52129,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1766801640000,
+      "etr": 1766812500000,
+      "ticket": "27022535",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4844929.148100004,-11683121.6328",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{425F678E-25C7-450E-AE4C-E6B90E6A231A}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11683121.6328,
+      "y": 4844929.1481000036
     }
   }
 ]
