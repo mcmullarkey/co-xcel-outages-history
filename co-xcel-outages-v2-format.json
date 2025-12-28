@@ -3,11 +3,11 @@
     "attributes": {
       "objectid": 52829,
       "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 5,
       "off_": 1766924100000,
       "etr": 1766934900000,
-      "ticket": "28121735",
+      "ticket": "28122935",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -29,13 +29,41 @@
   },
   {
     "attributes": {
+      "objectid": 52834,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1766924220000,
+      "etr": 1766935800000,
+      "ticket": "28122935",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4864888.102300003,-11744312.8126",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{9E73873D-1C70-4F3E-8F22-25A40CA94E46}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Nederland",
+      "xcelarea": "Nederland"
+    },
+    "geometry": {
+      "x": -11744312.8126,
+      "y": 4864888.1023000032
+    }
+  },
+  {
+    "attributes": {
       "objectid": 52785,
       "boundary": null,
       "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 2,
       "off_": 1766921280000,
       "etr": 1766929500000,
-      "ticket": "28121735",
+      "ticket": "28122935",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -57,69 +85,13 @@
   },
   {
     "attributes": {
-      "objectid": 52660,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 106,
-      "off_": 1766917560000,
-      "etr": 1766929500000,
-      "ticket": "28121735",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4927004.231899999,-11657745.2027",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{64AEC23C-B3B1-4371-97DA-565F1BB06E73}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "Greeley",
-      "xcelarea": "Greeley"
-    },
-    "geometry": {
-      "x": -11657745.2027,
-      "y": 4927004.2318999991
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 52822,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 170,
-      "off_": 1766923380000,
-      "etr": 1766931300000,
-      "ticket": "28121735",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4872508.538199998,-11746042.599399999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{C1F88C29-7B89-4DC9-AAB0-A810CAAE4A8C}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Ward,  Jamestown,  Boulder",
-      "xcelarea": "Ward,  Jamestown,  Boulder"
-    },
-    "geometry": {
-      "x": -11746042.599399999,
-      "y": 4872508.5381999984
-    }
-  },
-  {
-    "attributes": {
       "objectid": 52823,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 177,
       "off_": 1766923500000,
       "etr": 1766929500000,
-      "ticket": "28121735",
+      "ticket": "28122935",
       "outageimpact": "Medium",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -141,13 +113,41 @@
   },
   {
     "attributes": {
+      "objectid": 52822,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 170,
+      "off_": 1766923380000,
+      "etr": 1766931300000,
+      "ticket": "28122935",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4872508.538199998,-11746042.599399999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C1F88C29-7B89-4DC9-AAB0-A810CAAE4A8C}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Ward,  Jamestown,  Boulder",
+      "xcelarea": "Ward,  Jamestown,  Boulder"
+    },
+    "geometry": {
+      "x": -11746042.599399999,
+      "y": 4872508.5381999984
+    }
+  },
+  {
+    "attributes": {
       "objectid": 52824,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1,
       "off_": 1766923740000,
       "etr": 1766931300000,
-      "ticket": "28121735",
+      "ticket": "28122935",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -165,6 +165,34 @@
     "geometry": {
       "x": -11744103.2369,
       "y": 4864719.1017000005
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 52845,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1766924760000,
+      "etr": 1766935800000,
+      "ticket": "28122935",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4927094.9065999985,-11657854.1667",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C01218DE-560B-4FA5-A6C8-FD8F5AC5DA93}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley",
+      "xcelarea": "Greeley"
+    },
+    "geometry": {
+      "x": -11657854.1667,
+      "y": 4927094.9065999985
     }
   }
 ]
