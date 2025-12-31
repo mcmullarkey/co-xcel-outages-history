@@ -1,41 +1,41 @@
 [
   {
     "attributes": {
-      "objectid": 54497,
+      "objectid": 54503,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
       "customers": 1,
-      "off_": 1767127140000,
-      "etr": 1767138300000,
-      "ticket": "30204135",
+      "off_": 1767128460000,
+      "etr": 1767137400000,
+      "ticket": "30211735",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4807434.285999998,-11684519.7066",
+      "latlong": "4827708.732699998,-11686311.570799999",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{CF4F7F4B-31C8-466C-AB02-3CCEC709BC60}",
-      "county": "ARAPAHOE",
+      "globalid": "{91D5068D-33AD-4A71-978B-B33A768D8076}",
+      "county": "DENVER",
       "cause": "Outage",
-      "city": "Centennial",
-      "xcelarea": "Centennial"
+      "city": "Denver",
+      "xcelarea": "Denver"
     },
     "geometry": {
-      "x": -11684519.706599999,
-      "y": 4807434.2859999985
+      "x": -11686311.570799999,
+      "y": 4827708.7326999977
     }
   },
   {
     "attributes": {
       "objectid": 54477,
       "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 15,
       "off_": 1767120600000,
       "etr": 1767127500000,
-      "ticket": "30204135",
+      "ticket": "30211735",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -53,6 +53,34 @@
     "geometry": {
       "x": -11688519.3391,
       "y": 4814031.0684999973
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 54501,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 404,
+      "off_": 1767128280000,
+      "etr": 1767138300000,
+      "ticket": "30211735",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4831020.564900003,-11677379.488499999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{4CB16F27-5487-4E27-A9E6-1F41183DCAA2}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11677379.488499999,
+      "y": 4831020.5649000034
     }
   }
 ]
