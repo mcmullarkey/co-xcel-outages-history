@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
-      "objectid": 55345,
+      "objectid": 55355,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
       "customers": 1,
-      "off_": 1767323160000,
-      "etr": 1767331800000,
-      "ticket": "2034535",
+      "off_": 1767326940000,
+      "etr": 1767338100000,
+      "ticket": "2041735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4858677.029200003,-11705829.624499999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D5B1D22A-1F2C-45BF-A8FA-0DE59FCEA0A5}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Superior",
+      "xcelarea": "Superior"
+    },
+    "geometry": {
+      "x": -11705829.624499999,
+      "y": 4858677.0292000026
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 55352,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767326460000,
+      "etr": 1767334500000,
+      "ticket": "2041735",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -16,7 +44,7 @@
       "latlong": "4813247.175099999,-11703910.0067",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{9553D9A8-2C65-4ADF-9D92-6E8DCAA3F055}",
+      "globalid": "{459E5C5F-038F-4144-BEC0-14B9E5622E88}",
       "county": "JEFFERSON",
       "cause": "Outage",
       "city": "Morrison",
@@ -25,6 +53,62 @@
     "geometry": {
       "x": -11703910.0067,
       "y": 4813247.1750999987
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 55353,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767326700000,
+      "etr": 1767338100000,
+      "ticket": "2041735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828204.004900001,-11674823.7155",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{734FD058-5030-4846-84A4-FF32EDF17706}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "geometry": {
+      "x": -11674823.715500001,
+      "y": 4828204.004900001
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 55354,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767326520000,
+      "etr": 1767338100000,
+      "ticket": "2041735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4818261.1677,-11681657.3151",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1A42FD6B-E85C-42FE-9123-A8D3BD775E4B}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11681657.315099999,
+      "y": 4818261.1677000001
     }
   }
 ]
