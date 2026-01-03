@@ -3,11 +3,11 @@
     "attributes": {
       "objectid": 55819,
       "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1,
       "off_": 1767445560000,
       "etr": 1767453300000,
-      "ticket": "3134535",
+      "ticket": "3141735",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -35,7 +35,7 @@
       "customers": 1,
       "off_": 1767434700000,
       "etr": 1767451500000,
-      "ticket": "3134535",
+      "ticket": "3141735",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -57,13 +57,41 @@
   },
   {
     "attributes": {
+      "objectid": 55812,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1767444240000,
+      "etr": 1767454200000,
+      "ticket": "3141735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4956806.708899997,-11489562.9212",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{E6A14464-31C3-4804-A354-75526AC68E3E}",
+      "county": "LOGAN",
+      "cause": "Outage",
+      "city": "Sterling",
+      "xcelarea": "Sterling"
+    },
+    "geometry": {
+      "x": -11489562.9212,
+      "y": 4956806.7088999972
+    }
+  },
+  {
+    "attributes": {
       "objectid": 55672,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
       "customers": 15,
       "off_": 1767381540000,
       "etr": 1767452400000,
-      "ticket": "3134535",
+      "ticket": "3141735",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -81,62 +109,6 @@
     "geometry": {
       "x": -11680293.896200001,
       "y": 4823771.4019000009
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 55805,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1767441780000,
-      "etr": 1767448800000,
-      "ticket": "3134535",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4798349.595399998,-11671963.2944",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{E1B58D66-3A29-4E0F-AB3C-0F6E568B66D5}",
-      "county": "DOUGLAS",
-      "cause": "Outage",
-      "city": "Parker",
-      "xcelarea": "Parker"
-    },
-    "geometry": {
-      "x": -11671963.294399999,
-      "y": 4798349.5953999981
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 55812,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1767444240000,
-      "etr": 1767448800000,
-      "ticket": "3134535",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4956806.708899997,-11489562.9212",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{E6A14464-31C3-4804-A354-75526AC68E3E}",
-      "county": "LOGAN",
-      "cause": "Outage",
-      "city": "Sterling",
-      "xcelarea": "Sterling"
-    },
-    "geometry": {
-      "x": -11489562.9212,
-      "y": 4956806.7088999972
     }
   }
 ]
