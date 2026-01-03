@@ -1,30 +1,58 @@
 [
   {
     "attributes": {
-      "objectid": 55650,
+      "objectid": 55662,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1767379740000,
-      "etr": 1767388500000,
-      "ticket": "2190935",
+      "customers": 1044,
+      "off_": 1767382860000,
+      "etr": 1767396600000,
+      "ticket": "2203335",
+      "outageimpact": "Large",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4823437.020900004,-11679418.988499999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A1AB73A1-965F-41D9-A7B6-41596A25C24A}",
+      "county": "DENVER, ARAPAHOE",
+      "cause": "Outage",
+      "city": "Denver,  Glendale",
+      "xcelarea": "Denver,  Glendale"
+    },
+    "geometry": {
+      "x": -11679418.988499999,
+      "y": 4823437.0209000036
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 55661,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 4,
+      "off_": 1767381540000,
+      "etr": 1767391200000,
+      "ticket": "2203335",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4837832.351099998,-11703415.8562",
+      "latlong": "4823712.581799999,-11680295.2198",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{E57E1F3B-3662-4F69-A68A-D72BB55F5518}",
-      "county": "JEFFERSON",
+      "globalid": "{2018B1CD-8D8C-497A-854A-9BD05153BB40}",
+      "county": "DENVER",
       "cause": "Outage",
-      "city": "Arvada",
-      "xcelarea": "Arvada"
+      "city": "Denver",
+      "xcelarea": "Denver"
     },
     "geometry": {
-      "x": -11703415.8562,
-      "y": 4837832.3510999978
+      "x": -11680295.219799999,
+      "y": 4823712.5817999989
     }
   },
   {
@@ -35,7 +63,7 @@
       "customers": 1,
       "off_": 1767366240000,
       "etr": 1767388500000,
-      "ticket": "2190935",
+      "ticket": "2203335",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -53,6 +81,34 @@
     "geometry": {
       "x": -11705093.463199999,
       "y": 4812499.9332000017
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 55658,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 4,
+      "off_": 1767381300000,
+      "etr": 1767391200000,
+      "ticket": "2203335",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4790482.731200002,-11806503.3485",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{82230291-498B-4EA9-80FE-950E7FFC50B2}",
+      "county": "SUMMIT",
+      "cause": "Outage",
+      "city": "Breckenridge",
+      "xcelarea": "Breckenridge"
+    },
+    "geometry": {
+      "x": -11806503.3485,
+      "y": 4790482.7312000021
     }
   }
 ]
