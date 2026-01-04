@@ -3,11 +3,11 @@
     "attributes": {
       "objectid": 55920,
       "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 2,
       "off_": 1767488940000,
-      "etr": 1767497400000,
-      "ticket": "4024535",
+      "etr": 1767520800000,
+      "ticket": "4032535",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -15,7 +15,7 @@
       "datastatus": null,
       "latlong": "4824661.011,-11659574.9067",
       "states": "CO",
-      "crewstatus": "Crew Onsite",
+      "crewstatus": null,
       "globalid": "{62719BD9-11B6-48A2-A659-69538567EE21}",
       "county": "ARAPAHOE",
       "cause": "Outage",
@@ -29,69 +29,13 @@
   },
   {
     "attributes": {
-      "objectid": 55907,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 443,
-      "off_": 1767484320000,
-      "etr": 1767496500000,
-      "ticket": "4024535",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4908072.552199997,-11663204.1369",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{A6326420-5F7A-48B2-9760-2D85628B8D3E}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "La Salle,  Gilcrest,  Platteville",
-      "xcelarea": "La Salle,  Gilcrest,  Platteville"
-    },
-    "geometry": {
-      "x": -11663204.1369,
-      "y": 4908072.552199997
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 55923,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 2,
-      "off_": 1767493680000,
-      "etr": 1767504600000,
-      "ticket": "4024535",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4824042.432599999,-11658954.5298",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{D5CA4885-E210-453B-9411-26397CE6F492}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "geometry": {
-      "x": -11658954.5298,
-      "y": 4824042.432599999
-    }
-  },
-  {
-    "attributes": {
       "objectid": 55672,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
       "customers": 15,
       "off_": 1767381540000,
       "etr": 1767553200000,
-      "ticket": "4024535",
+      "ticket": "4032535",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -109,6 +53,34 @@
     "geometry": {
       "x": -11680293.896200001,
       "y": 4823771.4019000009
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 55928,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 43,
+      "off_": 1767496500000,
+      "etr": 1767506400000,
+      "ticket": "4032535",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4907118.376100004,-11663209.877700001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E4278EA1-10E3-4934-84E0-45ACAF979426}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Platteville,  La Salle,  Gilcrest",
+      "xcelarea": "Platteville,  La Salle,  Gilcrest"
+    },
+    "geometry": {
+      "x": -11663209.877700001,
+      "y": 4907118.3761000037
     }
   }
 ]
