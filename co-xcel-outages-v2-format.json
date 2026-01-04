@@ -7,7 +7,7 @@
       "customers": 11,
       "off_": 1767527760000,
       "etr": 1767539700000,
-      "ticket": "4132935",
+      "ticket": "4134535",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -29,69 +29,13 @@
   },
   {
     "attributes": {
-      "objectid": 56066,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1767532740000,
-      "etr": 1767544200000,
-      "ticket": "4132935",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4841630.085000001,-11690432.999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{9F2B36F4-1275-46FC-BD63-1ABA35679895}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Westminster",
-      "xcelarea": "Westminster"
-    },
-    "geometry": {
-      "x": -11690432.999,
-      "y": 4841630.0850000009
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 56041,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1767527040000,
-      "etr": 1767535200000,
-      "ticket": "4132935",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4954917.468199998,-11694638.2687",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{022374B8-CA8B-4474-9C39-E496DD50C643}",
-      "county": "LARIMER",
-      "cause": "Outage",
-      "city": "Fort Collins",
-      "xcelarea": "Fort Collins"
-    },
-    "geometry": {
-      "x": -11694638.2687,
-      "y": 4954917.4681999981
-    }
-  },
-  {
-    "attributes": {
       "objectid": 55672,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 15,
       "off_": 1767381540000,
       "etr": 1767553200000,
-      "ticket": "4132935",
+      "ticket": "4134535",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -109,6 +53,34 @@
     "geometry": {
       "x": -11680293.896200001,
       "y": 4823771.4019000009
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 56041,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1767527040000,
+      "etr": 1767535200000,
+      "ticket": "4134535",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4954917.468199998,-11694638.2687",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{022374B8-CA8B-4474-9C39-E496DD50C643}",
+      "county": "LARIMER",
+      "cause": "Outage",
+      "city": "Fort Collins",
+      "xcelarea": "Fort Collins"
+    },
+    "geometry": {
+      "x": -11694638.2687,
+      "y": 4954917.4681999981
     }
   }
 ]
