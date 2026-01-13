@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
+      "objectid": 60040,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1768262700000,
+      "etr": 1768270500000,
+      "ticket": "13002933",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4866607.9639,-11718717.5885",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{3FA3F9A4-98C2-4747-8721-941D6ED3DF89}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "geometry": {
+      "x": -11718717.588500001,
+      "y": 4866607.9638999999
+    }
+  },
+  {
+    "attributes": {
       "objectid": 55672,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 15,
       "off_": 1767381540000,
       "etr": null,
-      "ticket": "12234533",
+      "ticket": "13002933",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -19,12 +47,40 @@
       "globalid": "{E3DEE395-EE59-4F04-B7DE-C8DE97CB7F47}",
       "county": "DENVER, ARAPAHOE",
       "cause": "Outage",
-      "city": "Denver,  Glendale",
-      "xcelarea": "Denver,  Glendale"
+      "city": "Glendale,  Denver",
+      "xcelarea": "Glendale,  Denver"
     },
     "geometry": {
       "x": -11680293.896200001,
       "y": 4823771.4019000009
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 60041,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 6,
+      "off_": 1768263360000,
+      "etr": 1768274100000,
+      "ticket": "13002933",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4840914.244999997,-11696055.643",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{32EAC2AE-C9E2-4119-B8E0-A3D0CF6ABC58}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "geometry": {
+      "x": -11696055.642999999,
+      "y": 4840914.2449999973
     }
   }
 ]
