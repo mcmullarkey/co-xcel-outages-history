@@ -1,30 +1,58 @@
 [
   {
     "attributes": {
-      "objectid": 61233,
+      "objectid": 61236,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1768433040000,
-      "etr": null,
-      "ticket": "14234132",
+      "customers": 26,
+      "off_": 1768434480000,
+      "etr": 1768445100000,
+      "ticket": "15002932",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4845908.581500001,-11652178.148400001",
+      "latlong": "4810287.572899997,-11689987.8446",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{EA77DE82-5BA1-4EBE-AAF3-7C205886FB7F}",
-      "county": "DENVER",
+      "globalid": "{0D015766-BEC2-48B2-A767-320FBDDCCD09}",
+      "county": "ARAPAHOE",
       "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
+      "city": "Littleton",
+      "xcelarea": "Littleton"
     },
     "geometry": {
-      "x": -11652178.148400001,
-      "y": 4845908.5815000013
+      "x": -11689987.844599999,
+      "y": 4810287.5728999972
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 61240,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 6,
+      "off_": 1768436340000,
+      "etr": 1768446900000,
+      "ticket": "15002932",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4818950.476400003,-11700071.5693",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{107EB8BE-DC10-49E0-940C-4003FA6907E4}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "geometry": {
+      "x": -11700071.5693,
+      "y": 4818950.4764000028
     }
   }
 ]
