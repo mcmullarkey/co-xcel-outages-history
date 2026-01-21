@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
+      "objectid": 64958,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1768952520000,
+      "etr": 1768963500000,
+      "ticket": "20234533",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4851426.309,-11695937.9794",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6995748A-19A1-42A2-86E7-24603D510C1F}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "geometry": {
+      "x": -11695937.9794,
+      "y": 4851426.3090000004
+    }
+  },
+  {
+    "attributes": {
       "objectid": 64778,
       "boundary": null,
       "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 28,
       "off_": 1768927800000,
       "etr": 1768961700000,
-      "ticket": "20225333",
+      "ticket": "20234533",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -19,8 +47,8 @@
       "globalid": "{7FA9743E-8E84-4F7F-A483-D4D1132B1C47}",
       "county": "SUMMIT",
       "cause": "Outage",
-      "city": "Blue River,  Breckenridge",
-      "xcelarea": "Blue River,  Breckenridge"
+      "city": "Breckenridge,  Blue River",
+      "xcelarea": "Breckenridge,  Blue River"
     },
     "geometry": {
       "x": -11806083.214299999,
@@ -34,8 +62,8 @@
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 43,
       "off_": 1768946580000,
-      "etr": 1768954500000,
-      "ticket": "20225333",
+      "etr": 1768956300000,
+      "ticket": "20234533",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -63,7 +91,7 @@
       "customers": 2,
       "off_": 1768913340000,
       "etr": null,
-      "ticket": "20225333",
+      "ticket": "20234533",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -85,69 +113,13 @@
   },
   {
     "attributes": {
-      "objectid": 64844,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1768943460000,
-      "etr": 1768953600000,
-      "ticket": "20225333",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4820158.275600001,-11668399.5923",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{84757DB8-7190-4150-87E2-C42C0A8E5476}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "geometry": {
-      "x": -11668399.5923,
-      "y": 4820158.2756000012
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 64951,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 7,
-      "off_": 1768946580000,
-      "etr": 1768953600000,
-      "ticket": "20225333",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4851426.309,-11695937.9794",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{6D8DB7DC-A14F-4BA3-A455-E06FE14FEB4C}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Westminster",
-      "xcelarea": "Westminster"
-    },
-    "geometry": {
-      "x": -11695937.9794,
-      "y": 4851426.3090000004
-    }
-  },
-  {
-    "attributes": {
       "objectid": 64810,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 6,
       "off_": 1768932780000,
       "etr": 1768943700000,
-      "ticket": "20225333",
+      "ticket": "20234533",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -175,7 +147,7 @@
       "customers": 1,
       "off_": 1768929720000,
       "etr": 1768938300000,
-      "ticket": "20225333",
+      "ticket": "20234533",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -197,30 +169,30 @@
   },
   {
     "attributes": {
-      "objectid": 64793,
+      "objectid": 64957,
       "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 388,
-      "off_": 1768918740000,
-      "etr": 1768951800000,
-      "ticket": "20225333",
-      "outageimpact": "Medium",
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1768951740000,
+      "etr": 1768959900000,
+      "ticket": "20234533",
+      "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4829892.744999997,-11669337.5203",
+      "latlong": "4852839.697899997,-11693588.468",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{DA6B7710-C1CB-45E6-97AA-570E490DCC9E}",
-      "county": "ARAPAHOE, ADAMS",
+      "globalid": "{96DF219D-AD21-477A-A54B-9C87DB077524}",
+      "county": "ADAMS",
       "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
+      "city": "Westminster",
+      "xcelarea": "Westminster"
     },
     "geometry": {
-      "x": -11669337.520300001,
-      "y": 4829892.7449999973
+      "x": -11693588.468,
+      "y": 4852839.6978999972
     }
   },
   {
@@ -231,7 +203,7 @@
       "customers": 8,
       "off_": 1768896240000,
       "etr": 1768911300000,
-      "ticket": "20225333",
+      "ticket": "20234533",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
