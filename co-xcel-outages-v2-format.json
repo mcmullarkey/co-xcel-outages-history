@@ -1,30 +1,30 @@
 [
   {
     "attributes": {
-      "objectid": 66857,
+      "objectid": 67011,
       "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 10,
-      "off_": 1769239560000,
-      "etr": 1769247000000,
-      "ticket": "24115333",
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769256720000,
+      "etr": 1769267700000,
+      "ticket": "24121733",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4832062.359499998,-11671186.5081",
+      "latlong": "4826020.629900001,-11674763.2122",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{5C55C70A-8234-428F-A942-B43CCA9672B5}",
-      "county": "ADAMS",
+      "globalid": "{24A2D62B-60CD-44DF-9F76-424F16F4953C}",
+      "county": "DENVER",
       "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
+      "city": "Denver",
+      "xcelarea": "Denver"
     },
     "geometry": {
-      "x": -11671186.508099999,
-      "y": 4832062.3594999984
+      "x": -11674763.212200001,
+      "y": 4826020.629900001
     }
   },
   {
@@ -35,7 +35,7 @@
       "customers": 1,
       "off_": 1769246520000,
       "etr": null,
-      "ticket": "24115333",
+      "ticket": "24121733",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -53,6 +53,34 @@
     "geometry": {
       "x": -11681348.493700001,
       "y": 4838095.7679999992
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 66857,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 10,
+      "off_": 1769239560000,
+      "etr": 1769247000000,
+      "ticket": "24121733",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4832062.359499998,-11671186.5081",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5C55C70A-8234-428F-A942-B43CCA9672B5}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "geometry": {
+      "x": -11671186.508099999,
+      "y": 4832062.3594999984
     }
   }
 ]
