@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
-      "objectid": 69179,
+      "objectid": 69187,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769578380000,
+      "etr": 1769586300000,
+      "ticket": "28060533",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4839763.777800001,-11681239.0945",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B6D1380D-FACA-46E7-B754-2A85D5713726}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Commerce City",
+      "xcelarea": "Commerce City"
+    },
+    "geometry": {
+      "x": -11681239.0945,
+      "y": 4839763.7778000012
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 69179,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 0,
       "off_": 1769572140000,
       "etr": 1769582700000,
-      "ticket": "28044933",
+      "ticket": "28060533",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -25,90 +53,6 @@
     "geometry": {
       "x": -11687280.404300001,
       "y": 4821920.8947999999
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 69182,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1769575260000,
-      "etr": 1769586300000,
-      "ticket": "28044933",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4831038.064900003,-11678195.2422",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{A23EB314-A7DA-40D2-9209-1F406D0FE030}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "geometry": {
-      "x": -11678195.2422,
-      "y": 4831038.0649000034
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 69181,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1769574780000,
-      "etr": 1769582700000,
-      "ticket": "28044933",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4809303.444200002,-11796612.815499999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{7A409D86-40B4-403C-9755-73E7FA165139}",
-      "county": "SUMMIT",
-      "cause": "Outage",
-      "city": "Keystone",
-      "xcelarea": "Keystone"
-    },
-    "geometry": {
-      "x": -11796612.815499999,
-      "y": 4809303.4442000017
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 69180,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1769574780000,
-      "etr": 1769582700000,
-      "ticket": "28044933",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4833716.371200003,-11702039.9662",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{207FA501-20B8-47F1-8FFF-F722A2374C98}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Wheat Ridge",
-      "xcelarea": "Wheat Ridge"
-    },
-    "geometry": {
-      "x": -11702039.9662,
-      "y": 4833716.3712000027
     }
   }
 ]
