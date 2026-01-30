@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
+      "objectid": 70171,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 3,
+      "off_": 1769752560000,
+      "etr": 1769762700000,
+      "ticket": "30060933",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4843971.930200003,-11687604.5956",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{3A754226-22BF-42B3-BEAD-15915C2AD1F3}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11687604.5956,
+      "y": 4843971.9302000031
+    }
+  },
+  {
+    "attributes": {
       "objectid": 70117,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1,
       "off_": 1769715840000,
       "etr": 1769751900000,
-      "ticket": "30045333",
+      "ticket": "30060933",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -25,6 +53,34 @@
     "geometry": {
       "x": -11689013.3126,
       "y": 4834296.3461000025
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 70172,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 4,
+      "off_": 1769753280000,
+      "etr": null,
+      "ticket": "30060933",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4807083.063699998,-11684386.6375",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6176E53C-8651-47C6-BBA3-09C602B20285}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Centennial",
+      "xcelarea": "Centennial"
+    },
+    "geometry": {
+      "x": -11684386.637499999,
+      "y": 4807083.063699998
     }
   }
 ]
