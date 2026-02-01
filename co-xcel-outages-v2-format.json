@@ -1,30 +1,86 @@
 [
   {
     "attributes": {
-      "objectid": 70838,
+      "objectid": 70845,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 3,
-      "off_": 1769915940000,
-      "etr": 1769926500000,
-      "ticket": "1042515",
+      "customers": 9,
+      "off_": 1769920740000,
+      "etr": 1769931900000,
+      "ticket": "1044516",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4822140.2651999965,-11694387.202",
+      "latlong": "4924312.060800001,-11661821.3507",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{8F46CF72-2B9D-4E8F-B799-D84677B9D070}",
-      "county": "JEFFERSON",
+      "globalid": "{F329BFF6-5697-4E06-B1F1-35FAA9DD1F9A}",
+      "county": "WELD",
       "cause": "Outage",
-      "city": "Lakewood",
-      "xcelarea": "Lakewood"
+      "city": "Greeley",
+      "xcelarea": "Greeley"
     },
     "geometry": {
-      "x": -11694387.202,
-      "y": 4822140.2651999965
+      "x": -11661821.3507,
+      "y": 4924312.060800001
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 70842,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769919660000,
+      "etr": 1769929200000,
+      "ticket": "1044516",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4839897.181299999,-11697465.688000001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D59FE71A-5057-4DCA-B880-336FE5AA41C0}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "geometry": {
+      "x": -11697465.688000001,
+      "y": 4839897.1812999994
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 70844,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 126,
+      "off_": 1769920500000,
+      "etr": 1769931900000,
+      "ticket": "1044516",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4925228.906800002,-11661787.6888",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B84764AF-CB57-47E5-AB19-E748A0FFB1FA}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley",
+      "xcelarea": "Greeley"
+    },
+    "geometry": {
+      "x": -11661787.6888,
+      "y": 4925228.9068000019
     }
   },
   {
@@ -35,7 +91,7 @@
       "customers": 1,
       "off_": 1769911320000,
       "etr": 1769925600000,
-      "ticket": "1042515",
+      "ticket": "1044516",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -53,6 +109,34 @@
     "geometry": {
       "x": -11695487.644200001,
       "y": 4845966.3725999966
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 70838,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 3,
+      "off_": 1769915940000,
+      "etr": 1769926500000,
+      "ticket": "1044516",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4822140.2651999965,-11694387.202",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8F46CF72-2B9D-4E8F-B799-D84677B9D070}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "geometry": {
+      "x": -11694387.202,
+      "y": 4822140.2651999965
     }
   }
 ]
