@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
+      "objectid": 80577,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1770622620000,
+      "etr": 1770629400000,
+      "ticket": "9075916",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4900609.339599997,-11663680.2893",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8B6D326C-4533-4CE0-88EB-B53400945EF8}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Platteville",
+      "xcelarea": "Platteville"
+    },
+    "geometry": {
+      "x": -11663680.2893,
+      "y": 4900609.3395999968
+    }
+  },
+  {
+    "attributes": {
       "objectid": 80550,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 29,
       "off_": 1770607920000,
       "etr": 1770631200000,
-      "ticket": "9065515",
+      "ticket": "9075916",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -29,30 +57,58 @@
   },
   {
     "attributes": {
-      "objectid": 79607,
+      "objectid": 80587,
       "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 3,
-      "off_": 1770244920000,
-      "etr": null,
-      "ticket": "9065515",
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 21,
+      "off_": 1770623400000,
+      "etr": 1770634800000,
+      "ticket": "9075916",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4871892.079700001,-11720896.733199999",
+      "latlong": "4925351.404700004,-11653786.449000001",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{1BC0BD8B-CA2E-47B5-9307-4E48C5193094}",
-      "county": "BOULDER",
+      "globalid": "{96BCBD9F-F6DC-4C11-8EDE-75DA273C8A96}",
+      "county": "WELD",
       "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
+      "city": "Greeley",
+      "xcelarea": "Greeley"
     },
     "geometry": {
-      "x": -11720896.733199999,
-      "y": 4871892.0797000006
+      "x": -11653786.449000001,
+      "y": 4925351.4047000036
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 80588,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1770623700000,
+      "etr": 1770634800000,
+      "ticket": "9075916",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4912390.637999997,-11675876.9192",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E918A95A-BD9D-4F36-B2F3-03C4FB2F88FE}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Johnstown",
+      "xcelarea": "Johnstown"
+    },
+    "geometry": {
+      "x": -11675876.919199999,
+      "y": 4912390.6379999965
     }
   }
 ]
