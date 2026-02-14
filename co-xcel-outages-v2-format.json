@@ -1,58 +1,86 @@
 [
   {
     "attributes": {
-      "objectid": 83368,
+      "objectid": 83371,
       "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 229,
+      "off_": 1771031700000,
+      "etr": 1771043400000,
+      "ticket": "14042715",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4849403.049400002,-11686984.439199999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{59CB5E42-B213-404D-B003-8F63BE222441}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Northglenn",
+      "xcelarea": "Northglenn"
+    },
+    "geometry": {
+      "x": -11686984.439199999,
+      "y": 4849403.0494000018
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 83377,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
       "customers": 1,
-      "off_": 1771038300000,
-      "etr": 1771046100000,
-      "ticket": "14035516",
+      "off_": 1771042620000,
+      "etr": 1771051500000,
+      "ticket": "14042715",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4817487.118799999,-11691379.7245",
+      "latlong": "4522188.6061,-11816377.5187",
       "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{52E0D215-A794-43A3-A849-2AAF0FB4EEE5}",
+      "crewstatus": null,
+      "globalid": "{4CA51C47-7A53-4325-88BA-4FD9870DF5DC}",
+      "county": "RIO GRANDE",
+      "cause": "Outage",
+      "city": "Monte Vista",
+      "xcelarea": "Monte Vista"
+    },
+    "geometry": {
+      "x": -11816377.5187,
+      "y": 4522188.6061000004
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 83378,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1771042440000,
+      "etr": 1771051500000,
+      "ticket": "14042715",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4826707.136699997,-11678064.4696",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{28743AF7-2312-4CDE-9847-7AD0B9E0A378}",
       "county": "DENVER",
       "cause": "Outage",
       "city": "Denver",
       "xcelarea": "Denver"
     },
     "geometry": {
-      "x": -11691379.7245,
-      "y": 4817487.1187999994
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 83348,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1043,
-      "off_": 1771031700000,
-      "etr": 1771043400000,
-      "ticket": "14035516",
-      "outageimpact": "Large",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4849293.127700001,-11685892.0165",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{9B440BDF-B8C4-4CAF-8ACF-E7CBF9CFACA6}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Northglenn,  Thornton",
-      "xcelarea": "Northglenn,  Thornton"
-    },
-    "geometry": {
-      "x": -11685892.0165,
-      "y": 4849293.127700001
+      "x": -11678064.469599999,
+      "y": 4826707.1366999969
     }
   },
   {
@@ -63,7 +91,7 @@
       "customers": 12,
       "off_": 1770979380000,
       "etr": null,
-      "ticket": "14035516",
+      "ticket": "14042715",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
