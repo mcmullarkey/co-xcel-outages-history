@@ -1,30 +1,114 @@
 [
   {
     "attributes": {
-      "objectid": 87257,
+      "objectid": 87284,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
       "customers": 1,
-      "off_": 1771570800000,
-      "etr": 1771581600000,
-      "ticket": "20070428",
+      "off_": 1771574100000,
+      "etr": 1771584300000,
+      "ticket": "20080028",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4824026.2139,-11673292.8621",
+      "latlong": "4812914.883500002,-11676004.9199",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{70AAD629-B6C7-4C24-84B5-EC2BCF2F9C2D}",
-      "county": "ARAPAHOE",
+      "globalid": "{175301CB-FC28-4310-A318-82ACFE33AC1B}",
+      "county": "DENVER",
       "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
+      "city": "Denver",
+      "xcelarea": "Denver"
     },
     "geometry": {
-      "x": -11673292.8621,
-      "y": 4824026.2138999999
+      "x": -11676004.9199,
+      "y": 4812914.8835000023
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 87286,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 12,
+      "off_": 1771574220000,
+      "etr": 1771610400000,
+      "ticket": "20080028",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4816875.5524,-11685725.8443",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D50F56E7-BCA5-431F-90FA-B4DC786C5DEF}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Englewood",
+      "xcelarea": "Englewood"
+    },
+    "geometry": {
+      "x": -11685725.8443,
+      "y": 4816875.5524000004
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 87279,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1771573680000,
+      "etr": 1771579800000,
+      "ticket": "20080028",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4906577.031400003,-11681958.7304",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B5C90E09-8F51-483F-8411-12F7FC7D532E}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Johnstown",
+      "xcelarea": "Johnstown"
+    },
+    "geometry": {
+      "x": -11681958.7304,
+      "y": 4906577.0314000025
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 87278,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1771573860000,
+      "etr": null,
+      "ticket": "20080028",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4856968.792300001,-11704072.618900001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{BF84D5DC-AE81-4275-90D6-572191BEBDCA}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Louisville,  Superior",
+      "xcelarea": "Louisville,  Superior"
+    },
+    "geometry": {
+      "x": -11704072.618900001,
+      "y": 4856968.7923000008
     }
   },
   {
@@ -35,7 +119,7 @@
       "customers": 74,
       "off_": 1771548780000,
       "etr": 1771581600000,
-      "ticket": "20070428",
+      "ticket": "20080028",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -59,11 +143,11 @@
     "attributes": {
       "objectid": 86785,
       "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1,
       "off_": 1771496400000,
-      "etr": 1771549200000,
-      "ticket": "20070428",
+      "etr": 1771578000000,
+      "ticket": "20080028",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -71,7 +155,7 @@
       "datastatus": null,
       "latlong": "4818425.414499998,-11677962.993",
       "states": "CO",
-      "crewstatus": null,
+      "crewstatus": "Crew Onsite",
       "globalid": "{7C193CEA-62F9-4CB6-AB72-F21E19FC2FCE}",
       "county": "DENVER",
       "cause": "Outage",
@@ -81,34 +165,6 @@
     "geometry": {
       "x": -11677962.993000001,
       "y": 4818425.4144999981
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 87254,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1771570500000,
-      "etr": 1771578900000,
-      "ticket": "20070428",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4798273.9826000035,-11671495.9762",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{B5501149-3844-46B6-85C9-881E50D7BD65}",
-      "county": "DOUGLAS",
-      "cause": "Outage",
-      "city": "Parker",
-      "xcelarea": "Parker"
-    },
-    "geometry": {
-      "x": -11671495.976199999,
-      "y": 4798273.9826000035
     }
   }
 ]
