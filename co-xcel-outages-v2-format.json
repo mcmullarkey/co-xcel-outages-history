@@ -7,7 +7,7 @@
       "customers": 1,
       "off_": 1771745400000,
       "etr": 1771753500000,
-      "ticket": "22073228",
+      "ticket": "22075228",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -35,7 +35,7 @@
       "customers": 28,
       "off_": 1771744800000,
       "etr": 1771752600000,
-      "ticket": "22073228",
+      "ticket": "22075228",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -63,7 +63,7 @@
       "customers": 7,
       "off_": 1771743840000,
       "etr": null,
-      "ticket": "22073228",
+      "ticket": "22075228",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -85,41 +85,13 @@
   },
   {
     "attributes": {
-      "objectid": 88028,
+      "objectid": 88022,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1,
-      "off_": 1771743960000,
-      "etr": null,
-      "ticket": "22073228",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4734672.323600002,-12084716.1001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{19C48237-4AE5-405F-BEA5-E9678DC02FF1}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "geometry": {
-      "x": -12084716.100099999,
-      "y": 4734672.3236000016
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 88022,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
       "off_": 1771741860000,
       "etr": 1771765200000,
-      "ticket": "22073228",
+      "ticket": "22075228",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -137,6 +109,34 @@
     "geometry": {
       "x": -11806847.4738,
       "y": 4790660.9843999967
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 88028,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1771743960000,
+      "etr": null,
+      "ticket": "22075228",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4734672.323600002,-12084716.1001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{19C48237-4AE5-405F-BEA5-E9678DC02FF1}",
+      "county": "MESA",
+      "cause": "Outage",
+      "city": "Grand Junction",
+      "xcelarea": "Grand Junction"
+    },
+    "geometry": {
+      "x": -12084716.100099999,
+      "y": 4734672.3236000016
     }
   }
 ]
