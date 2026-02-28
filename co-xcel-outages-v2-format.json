@@ -1,41 +1,13 @@
 [
   {
     "attributes": {
-      "objectid": 91644,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 123,
-      "off_": 1772228880000,
-      "etr": 1772239500000,
-      "ticket": "28013628",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4789564.009400003,-11804765.999699999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{CEBB481F-E935-4BB1-BC3E-56E4EE2B74B6}",
-      "county": "SUMMIT",
-      "cause": "Outage",
-      "city": "Breckenridge",
-      "xcelarea": "Breckenridge"
-    },
-    "geometry": {
-      "x": -11804765.999699999,
-      "y": 4789564.0094000027
-    }
-  },
-  {
-    "attributes": {
       "objectid": 91627,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 16,
       "off_": 1772222280000,
       "etr": 1772247600000,
-      "ticket": "28013628",
+      "ticket": "28015228",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -53,6 +25,34 @@
     "geometry": {
       "x": -11720082.296399999,
       "y": 4870118.3082000017
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 91644,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 123,
+      "off_": 1772228880000,
+      "etr": 1772249400000,
+      "ticket": "28015228",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4789564.009400003,-11804765.999699999",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{CEBB481F-E935-4BB1-BC3E-56E4EE2B74B6}",
+      "county": "SUMMIT",
+      "cause": "Outage",
+      "city": "Breckenridge",
+      "xcelarea": "Breckenridge"
+    },
+    "geometry": {
+      "x": -11804765.999699999,
+      "y": 4789564.0094000027
     }
   }
 ]
