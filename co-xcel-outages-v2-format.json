@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
+      "objectid": 91954,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 49,
+      "off_": 1772321520000,
+      "etr": 1772350200000,
+      "ticket": "1074816",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4817661.536600001,-11681363.260200001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8F4F509F-92FA-4B71-817D-7B8A4F3480B6}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11681363.260200001,
+      "y": 4817661.5366000012
+    }
+  },
+  {
+    "attributes": {
       "objectid": 91999,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
       "customers": 38,
       "off_": 1772348880000,
       "etr": 1772356500000,
-      "ticket": "1072816",
+      "ticket": "1074816",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -35,7 +63,7 @@
       "customers": 20,
       "off_": 1772334840000,
       "etr": null,
-      "ticket": "1072816",
+      "ticket": "1074816",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -57,30 +85,30 @@
   },
   {
     "attributes": {
-      "objectid": 91954,
+      "objectid": 91990,
       "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 49,
-      "off_": 1772321520000,
-      "etr": 1772350200000,
-      "ticket": "1072816",
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 93,
+      "off_": 1772347860000,
+      "etr": 1772356500000,
+      "ticket": "1074816",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4817661.536600001,-11681363.260200001",
+      "latlong": "4825239.239500001,-11706793.7059",
       "states": "CO",
-      "crewstatus": null,
-      "globalid": "{8F4F509F-92FA-4B71-817D-7B8A4F3480B6}",
-      "county": "DENVER",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{04809411-0D45-4EAA-A6EA-8B52DBF843AB}",
+      "county": "JEFFERSON",
       "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
+      "city": "Golden",
+      "xcelarea": "Golden"
     },
     "geometry": {
-      "x": -11681363.260200001,
-      "y": 4817661.5366000012
+      "x": -11706793.7059,
+      "y": 4825239.2395000011
     }
   },
   {
@@ -91,7 +119,7 @@
       "customers": 35,
       "off_": 1772347860000,
       "etr": 1772357400000,
-      "ticket": "1072816",
+      "ticket": "1074816",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -109,34 +137,6 @@
     "geometry": {
       "x": -11706781.111200001,
       "y": 4825196.3940000013
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 91990,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 93,
-      "off_": 1772347860000,
-      "etr": 1772356500000,
-      "ticket": "1072816",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4825239.239500001,-11706793.7059",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{04809411-0D45-4EAA-A6EA-8B52DBF843AB}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Golden",
-      "xcelarea": "Golden"
-    },
-    "geometry": {
-      "x": -11706793.7059,
-      "y": 4825239.2395000011
     }
   }
 ]
