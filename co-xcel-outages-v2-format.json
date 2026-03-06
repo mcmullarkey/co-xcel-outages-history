@@ -3,11 +3,11 @@
     "attributes": {
       "objectid": 94508,
       "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1,
       "off_": 1772746920000,
-      "etr": 1772755200000,
-      "ticket": "5222416",
+      "etr": 1772757900000,
+      "ticket": "5232416",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -15,7 +15,7 @@
       "datastatus": null,
       "latlong": "4847031.555799998,-11691764.7931",
       "states": "CO",
-      "crewstatus": null,
+      "crewstatus": "Crew Onsite",
       "globalid": "{A76AC8B1-C61B-4F30-8BEC-5E96E2B01EB1}",
       "county": "ADAMS",
       "cause": "Outage",
@@ -29,30 +29,58 @@
   },
   {
     "attributes": {
-      "objectid": 94507,
+      "objectid": 94516,
       "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 28,
       "off_": 1772746920000,
-      "etr": 1772755200000,
-      "ticket": "5222416",
+      "etr": 1772757000000,
+      "ticket": "5232416",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4841995.113899998,-11687403.2621",
+      "latlong": "4842187.508100003,-11687260.0128",
       "states": "CO",
-      "crewstatus": null,
-      "globalid": "{7A66F185-8D7E-4CFB-A94A-38BBD765E0CE}",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{7D145C9E-1349-4B6B-8719-A9D3FA770A27}",
       "county": "ADAMS",
       "cause": "Outage",
       "city": "Denver",
       "xcelarea": "Denver"
     },
     "geometry": {
-      "x": -11687403.2621,
-      "y": 4841995.1138999984
+      "x": -11687260.012800001,
+      "y": 4842187.508100003
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 94517,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 411,
+      "off_": 1772752260000,
+      "etr": 1772763300000,
+      "ticket": "5232416",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4831272.584700003,-11686409.4084",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D6F0E119-FBB9-4A2D-B293-0C07CF62CDB5}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11686409.408399999,
+      "y": 4831272.5847000033
     }
   }
 ]
