@@ -1,41 +1,13 @@
 [
   {
     "attributes": {
-      "objectid": 98389,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1773292980000,
-      "etr": 1773304200000,
-      "ticket": "12053216",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4821387.109499998,-11686248.0574",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{3528D431-1686-4279-8BF9-35F51012F218}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "geometry": {
-      "x": -11686248.057399999,
-      "y": 4821387.1094999984
-    }
-  },
-  {
-    "attributes": {
       "objectid": 98380,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 2542,
       "off_": 1773291240000,
       "etr": 1773295200000,
-      "ticket": "12053216",
+      "ticket": "12055216",
       "outageimpact": "Large",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -47,12 +19,40 @@
       "globalid": "{60482C1B-7E10-429B-8F9C-9E441A6AD6D3}",
       "county": "BOULDER, LARIMER",
       "cause": "Outage",
-      "city": "Boulder,  Raymond,  Jamestown,  Nederland,  Ward,  Lyons,  Riverside",
-      "xcelarea": "Boulder,  Raymond,  Jamestown,  Nederland,  Ward,  Lyons,  Riverside"
+      "city": "Boulder,  Raymond,  Jamestown,  Ward,  Lyons,  Riverside,  Nederland",
+      "xcelarea": "Boulder,  Raymond,  Jamestown,  Ward,  Lyons,  Riverside,  Nederland"
     },
     "geometry": {
       "x": -11725609.196699999,
       "y": 4866817.8197999969
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 98392,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1773294540000,
+      "etr": 1773306000000,
+      "ticket": "12055216",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4848362.858400002,-11686321.624",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{AF92DA1D-02FE-4B5D-8388-3435F9417597}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Thornton",
+      "xcelarea": "Thornton"
+    },
+    "geometry": {
+      "x": -11686321.624,
+      "y": 4848362.8584000021
     }
   },
   {
@@ -63,7 +63,7 @@
       "customers": 1,
       "off_": 1773289500000,
       "etr": 1773296100000,
-      "ticket": "12053216",
+      "ticket": "12055216",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
