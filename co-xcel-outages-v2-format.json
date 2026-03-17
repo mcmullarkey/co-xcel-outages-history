@@ -1,13 +1,69 @@
 [
   {
     "attributes": {
+      "objectid": 103691,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1773593280000,
+      "etr": 1773605700000,
+      "ticket": "17052420",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4837137.157799996,-11695953.8179",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5571F4E0-938F-48B8-8A89-9AED2DBF4552}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "geometry": {
+      "x": -11695953.8179,
+      "y": 4837137.1577999964
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 104480,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1773722400000,
+      "etr": 1773728100000,
+      "ticket": "17052420",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4834334.599600002,-11686023.3757",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{65EF82CA-BE1F-4FF5-B549-B4DA13A95C2E}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11686023.375700001,
+      "y": 4834334.5996000022
+    }
+  },
+  {
+    "attributes": {
       "objectid": 104207,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1,
       "off_": 1773665160000,
       "etr": 1773676800000,
-      "ticket": "17042820",
+      "ticket": "17052420",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -34,8 +90,8 @@
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 262,
       "off_": 1773719760000,
-      "etr": 1773729900000,
-      "ticket": "17042820",
+      "etr": 1773729000000,
+      "ticket": "17052420",
       "outageimpact": "Medium",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -57,69 +113,13 @@
   },
   {
     "attributes": {
-      "objectid": 103691,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1773593280000,
-      "etr": 1773605700000,
-      "ticket": "17042820",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4837137.157799996,-11695953.8179",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{5571F4E0-938F-48B8-8A89-9AED2DBF4552}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Arvada",
-      "xcelarea": "Arvada"
-    },
-    "geometry": {
-      "x": -11695953.8179,
-      "y": 4837137.1577999964
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 104445,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 88,
-      "off_": 1773706740000,
-      "etr": 1773717300000,
-      "ticket": "17042820",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4823516.948100001,-11702433.9793",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{F49712A9-DBFB-411C-97C5-C68A68322B73}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Lakewood",
-      "xcelarea": "Lakewood"
-    },
-    "geometry": {
-      "x": -11702433.9793,
-      "y": 4823516.9481000006
-    }
-  },
-  {
-    "attributes": {
       "objectid": 104069,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 15,
       "off_": 1773655260000,
       "etr": null,
-      "ticket": "17042820",
+      "ticket": "17052420",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -137,6 +137,34 @@
     "geometry": {
       "x": -12080480.8588,
       "y": 4738464.2727999985
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 104445,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 88,
+      "off_": 1773706740000,
+      "etr": 1773717300000,
+      "ticket": "17052420",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4823516.948100001,-11702433.9793",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F49712A9-DBFB-411C-97C5-C68A68322B73}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "geometry": {
+      "x": -11702433.9793,
+      "y": 4823516.9481000006
     }
   }
 ]
