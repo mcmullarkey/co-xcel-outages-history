@@ -1,30 +1,58 @@
 [
   {
     "attributes": {
-      "objectid": 105173,
+      "objectid": 105192,
       "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
       "customers": 1,
-      "off_": 1773799740000,
-      "etr": 1773808200000,
-      "ticket": "18033220",
+      "off_": 1773807960000,
+      "etr": 1773819000000,
+      "ticket": "18042820",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4798453.621399999,-11998353.200199999",
+      "latlong": "4959560.0163,-11489155.9594",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{D06563FE-8352-448F-9F53-A6DEACCF0AD6}",
-      "county": "GARFIELD",
+      "globalid": "{E1EA94B8-2AF3-4D42-AA70-DC7CD749E2FC}",
+      "county": "LOGAN",
       "cause": "Outage",
-      "city": "Rifle",
-      "xcelarea": "Rifle"
+      "city": "Sterling",
+      "xcelarea": "Sterling"
     },
     "geometry": {
-      "x": -11998353.200199999,
-      "y": 4798453.6213999987
+      "x": -11489155.9594,
+      "y": 4959560.0163000003
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 105190,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2103,
+      "off_": 1773807240000,
+      "etr": 1773812700000,
+      "ticket": "18042820",
+      "outageimpact": "Large",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4829965.8926,-11658717.8279",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{26DB3145-D182-4EFD-B3CE-177263BEAE1D}",
+      "county": "ARAPAHOE, ADAMS, DOUGLAS",
+      "cause": "Outage",
+      "city": "Aurora,  Watkins",
+      "xcelarea": "Aurora,  Watkins"
+    },
+    "geometry": {
+      "x": -11658717.8279,
+      "y": 4829965.8925999999
     }
   },
   {
@@ -35,7 +63,7 @@
       "customers": 6,
       "off_": 1773800760000,
       "etr": 1773810000000,
-      "ticket": "18033220",
+      "ticket": "18042820",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -57,41 +85,13 @@
   },
   {
     "attributes": {
-      "objectid": 105168,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 5,
-      "off_": 1773794400000,
-      "etr": 1773817200000,
-      "ticket": "18033220",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4869383.582500003,-11703042.9626",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{CEBE11A7-4784-445C-964A-7F490C1215B9}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "geometry": {
-      "x": -11703042.9626,
-      "y": 4869383.5825000033
-    }
-  },
-  {
-    "attributes": {
       "objectid": 105178,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 3,
       "off_": 1773800760000,
       "etr": 1773809100000,
-      "ticket": "18033220",
+      "ticket": "18042820",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -109,6 +109,34 @@
     "geometry": {
       "x": -12028130.3335,
       "y": 4786275.5727000013
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 105168,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 5,
+      "off_": 1773794400000,
+      "etr": 1773817200000,
+      "ticket": "18042820",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4869383.582500003,-11703042.9626",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{CEBE11A7-4784-445C-964A-7F490C1215B9}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "geometry": {
+      "x": -11703042.9626,
+      "y": 4869383.5825000033
     }
   }
 ]
