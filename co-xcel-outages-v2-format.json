@@ -7,7 +7,7 @@
       "customers": 1,
       "off_": 1774280640000,
       "etr": 1774288800000,
-      "ticket": "23171220",
+      "ticket": "23174820",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -29,13 +29,41 @@
   },
   {
     "attributes": {
+      "objectid": 108514,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 7,
+      "off_": 1774287360000,
+      "etr": null,
+      "ticket": "23174820",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4835444.7478,-11676058.3655",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{50CFB8D2-F2A3-432E-BD58-559B96190AC6}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11676058.365499999,
+      "y": 4835444.7478
+    }
+  },
+  {
+    "attributes": {
       "objectid": 108488,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1292,
       "off_": 1774282320000,
       "etr": 1774293300000,
-      "ticket": "23171220",
+      "ticket": "23174820",
       "outageimpact": "Large",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -57,30 +85,58 @@
   },
   {
     "attributes": {
-      "objectid": 108438,
+      "objectid": 108511,
       "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1,
-      "off_": 1774274820000,
-      "etr": 1774288800000,
-      "ticket": "23171220",
+      "off_": 1774286340000,
+      "etr": 1774293300000,
+      "ticket": "23174820",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4912568.6153,-11680351.8881",
+      "latlong": "4813556.196999997,-11689313.4211",
       "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{7ADD3932-A59E-4642-A0A3-1C9B6A45A62B}",
-      "county": "WELD",
+      "crewstatus": null,
+      "globalid": "{FF191338-5CC0-4B2F-9DDC-917940E132E7}",
+      "county": "ARAPAHOE",
       "cause": "Outage",
-      "city": "Johnstown",
-      "xcelarea": "Johnstown"
+      "city": "Sheridan",
+      "xcelarea": "Sheridan"
     },
     "geometry": {
-      "x": -11680351.8881,
-      "y": 4912568.6152999997
+      "x": -11689313.4211,
+      "y": 4813556.1969999969
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 108512,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1774286340000,
+      "etr": 1774295100000,
+      "ticket": "23174820",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4820688.581299998,-11690299.1596",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B341BB81-43ED-403B-ACFA-1F8BDC2FEFBA}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11690299.159600001,
+      "y": 4820688.5812999979
     }
   }
 ]
