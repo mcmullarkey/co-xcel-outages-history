@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
+      "objectid": 112675,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1774926180000,
+      "etr": 1774937700000,
+      "ticket": "31030910",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4929382.610799998,-11649231.094",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5BD16040-9E9C-4882-92DE-4BA151CD4A87}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley",
+      "xcelarea": "Greeley"
+    },
+    "geometry": {
+      "x": -11649231.094000001,
+      "y": 4929382.610799998
+    }
+  },
+  {
+    "attributes": {
       "objectid": 112380,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 51,
       "off_": 1774881240000,
       "etr": null,
-      "ticket": "31015310",
+      "ticket": "31030910",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -25,34 +53,6 @@
     "geometry": {
       "x": -11677578.697000001,
       "y": 4801980.9035999998
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 112464,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1774888200000,
-      "etr": 1774925100000,
-      "ticket": "31015310",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4914034.067199998,-11650470.4751",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{AB46D321-2F87-4D6A-A31D-C62C7D56ABBE}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "La Salle",
-      "xcelarea": "La Salle"
-    },
-    "geometry": {
-      "x": -11650470.475099999,
-      "y": 4914034.0671999976
     }
   }
 ]
