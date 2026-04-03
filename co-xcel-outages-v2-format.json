@@ -7,7 +7,7 @@
       "customers": 2,
       "off_": 1775158020000,
       "etr": null,
-      "ticket": "3030110",
+      "ticket": "3040111",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -35,7 +35,7 @@
       "customers": 610,
       "off_": 1775164200000,
       "etr": 1775206800000,
-      "ticket": "3030110",
+      "ticket": "3040111",
       "outageimpact": "Medium",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -53,6 +53,34 @@
     "geometry": {
       "x": -11543437.944700001,
       "y": 4905308.7352000028
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 114698,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2607,
+      "off_": 1775185980000,
+      "etr": 1775193300000,
+      "ticket": "3040111",
+      "outageimpact": "Large",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4832348.7788999975,-11662556.3443",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{FBF6DB58-54E4-4214-9EE8-500E9861AB79}",
+      "county": "ADAMS, DENVER, ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora,  Denver",
+      "xcelarea": "Aurora,  Denver"
+    },
+    "geometry": {
+      "x": -11662556.3443,
+      "y": 4832348.7788999975
     }
   }
 ]
