@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
-      "objectid": 120117,
+      "objectid": 120132,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 95,
+      "customers": 1,
+      "off_": 1776049200000,
+      "etr": null,
+      "ticket": "13040910",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4817351.684900001,-11673622.9644",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F96B12BC-474A-443F-AA7F-2BCA20903229}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11673622.964400001,
+      "y": 4817351.6849000007
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 120117,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 87,
       "off_": 1776037260000,
-      "etr": 1776049200000,
-      "ticket": "13022110",
+      "etr": 1776063600000,
+      "ticket": "13040910",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -15,7 +43,7 @@
       "datastatus": null,
       "latlong": "4803405.044500001,-11968041.1099",
       "states": "CO",
-      "crewstatus": null,
+      "crewstatus": "Crew Onsite",
       "globalid": "{232C1BA7-9CF0-49FE-90FA-59280E317889}",
       "county": "GARFIELD",
       "cause": "Outage",
@@ -25,6 +53,62 @@
     "geometry": {
       "x": -11968041.1099,
       "y": 4803405.0445000008
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 120135,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1776052560000,
+      "etr": 1776060000000,
+      "ticket": "13040910",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4457561.677000001,-11839001.6345",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{33CAD937-5FF1-4A55-8FB9-7286CA9AC05F}",
+      "county": "CONEJOS",
+      "cause": "Outage",
+      "city": "Antonito",
+      "xcelarea": "Antonito"
+    },
+    "geometry": {
+      "x": -11839001.634500001,
+      "y": 4457561.6770000011
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 120136,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1776053100000,
+      "etr": 1776064500000,
+      "ticket": "13040910",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4834747.753899999,-11666111.357900001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{520ADADF-4D81-4AB5-BEC5-A4D0CB87480F}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11666111.357900001,
+      "y": 4834747.753899999
     }
   }
 ]
