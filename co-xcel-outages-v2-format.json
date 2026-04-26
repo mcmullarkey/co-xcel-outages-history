@@ -7,7 +7,7 @@
       "customers": 7,
       "off_": 1776941820000,
       "etr": null,
-      "ticket": "26071938",
+      "ticket": "26080738",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -29,13 +29,41 @@
   },
   {
     "attributes": {
+      "objectid": 128462,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1777188360000,
+      "etr": 1777195800000,
+      "ticket": "26080738",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4846029.2151999995,-11695410.1458",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{CFB95546-1672-45AD-B034-4D338103CE61}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "geometry": {
+      "x": -11695410.1458,
+      "y": 4846029.2151999995
+    }
+  },
+  {
+    "attributes": {
       "objectid": 128458,
       "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 1,
       "off_": 1777187400000,
-      "etr": 1777198500000,
-      "ticket": "26071938",
+      "etr": 1777197600000,
+      "ticket": "26080738",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -57,69 +85,13 @@
   },
   {
     "attributes": {
-      "objectid": 128455,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1777161420000,
-      "etr": null,
-      "ticket": "26071938",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4835124.798100002,-11678782.364599999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{2EE151A1-8AC9-4CEA-B304-D38C73B98456}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Commerce City",
-      "xcelarea": "Commerce City"
-    },
-    "geometry": {
-      "x": -11678782.364599999,
-      "y": 4835124.7981000021
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 128428,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1777161360000,
-      "etr": null,
-      "ticket": "26071938",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4835110.417099997,-11678345.4901",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{C973A3DE-E9EA-466B-B1AE-0595FD314035}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Commerce City",
-      "xcelarea": "Commerce City"
-    },
-    "geometry": {
-      "x": -11678345.4901,
-      "y": 4835110.4170999974
-    }
-  },
-  {
-    "attributes": {
       "objectid": 127673,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 2,
       "off_": 1777022460000,
       "etr": null,
-      "ticket": "26071938",
+      "ticket": "26080738",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -137,6 +109,34 @@
     "geometry": {
       "x": -11719599.128600001,
       "y": 4873649.3655999973
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 128467,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 272,
+      "off_": 1777190520000,
+      "etr": 1777202100000,
+      "ticket": "26080738",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828538.108499996,-11683342.2213",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{01579419-D272-4066-9205-A6CA70225992}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11683342.2213,
+      "y": 4828538.1084999964
     }
   }
 ]
