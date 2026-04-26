@@ -7,7 +7,7 @@
       "customers": 7,
       "off_": 1776941820000,
       "etr": null,
-      "ticket": "26130338",
+      "ticket": "26135138",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -35,7 +35,7 @@
       "customers": 1,
       "off_": 1777193760000,
       "etr": null,
-      "ticket": "26130338",
+      "ticket": "26135138",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -57,13 +57,69 @@
   },
   {
     "attributes": {
+      "objectid": 128549,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1777211040000,
+      "etr": 1777218300000,
+      "ticket": "26135138",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4814327.748499997,-11687203.6084",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{2F987186-7350-45C7-8B67-77A7A3E030B4}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Englewood",
+      "xcelarea": "Englewood"
+    },
+    "geometry": {
+      "x": -11687203.6084,
+      "y": 4814327.748499997
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 128548,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777211040000,
+      "etr": 1777218300000,
+      "ticket": "26135138",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4800820.114299998,-11989015.0367",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{63615EE7-0A3A-46A5-9ED5-B23DB09B3DA8}",
+      "county": "GARFIELD",
+      "cause": "Outage",
+      "city": "Rifle",
+      "xcelarea": "Rifle"
+    },
+    "geometry": {
+      "x": -11989015.036699999,
+      "y": 4800820.1142999977
+    }
+  },
+  {
+    "attributes": {
       "objectid": 127673,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 2,
       "off_": 1777022460000,
       "etr": null,
-      "ticket": "26130338",
+      "ticket": "26135138",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -81,6 +137,34 @@
     "geometry": {
       "x": -11719599.128600001,
       "y": 4873649.3655999973
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 128550,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777211220000,
+      "etr": 1777218300000,
+      "ticket": "26135138",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4832701.803199999,-11693438.0197",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1BD38106-8EE0-40C5-9662-DD2C5A4C6F3A}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11693438.0197,
+      "y": 4832701.803199999
     }
   }
 ]
