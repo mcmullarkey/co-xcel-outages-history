@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
+      "objectid": 150214,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1779521760000,
+      "etr": 1779529500000,
+      "ticket": "23080230",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828434.055600002,-11686593.09",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{BEBEDE35-AB2F-4DC9-92D0-DEC37CE6E465}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11686593.09,
+      "y": 4828434.0556000024
+    }
+  },
+  {
+    "attributes": {
       "objectid": 150164,
       "boundary": null,
       "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 123,
       "off_": 1779497820000,
       "etr": 1779537600000,
-      "ticket": "23060629",
+      "ticket": "23080230",
       "outageimpact": "Medium",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -29,41 +57,13 @@
   },
   {
     "attributes": {
-      "objectid": 150166,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 75,
-      "off_": 1779493920000,
-      "etr": 1779518700000,
-      "ticket": "23060629",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4818940.3303999975,-11667909.3201",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{AABFEEA6-65CD-4F5A-93EE-A00A757D977C}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "geometry": {
-      "x": -11667909.3201,
-      "y": 4818940.3303999975
-    }
-  },
-  {
-    "attributes": {
       "objectid": 150120,
       "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 18,
       "off_": 1779469380000,
       "etr": 1779537600000,
-      "ticket": "23060629",
+      "ticket": "23080230",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -81,6 +81,62 @@
     "geometry": {
       "x": -11800673.0425,
       "y": 4808042.6601999998
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 150215,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1779522900000,
+      "etr": null,
+      "ticket": "23080230",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4837751.642499998,-11683950.2695",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{18F0D97B-DA2F-429C-8320-8C1E174A7F20}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11683950.2695,
+      "y": 4837751.6424999982
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 150218,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 24,
+      "off_": 1779520980000,
+      "etr": 1779532200000,
+      "ticket": "23080230",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4836620.926700003,-11686133.2191",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D960A8A3-2C6B-4E5D-8CEE-69477E8BD66B}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "geometry": {
+      "x": -11686133.2191,
+      "y": 4836620.9267000034
     }
   }
 ]
