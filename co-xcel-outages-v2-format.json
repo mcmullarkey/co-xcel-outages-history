@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
+      "objectid": 150164,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 123,
+      "off_": 1779497820000,
+      "etr": 1779537600000,
+      "ticket": "23014629",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4789564.009400003,-11804765.999699999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D98C8DBD-2220-4E04-8760-B7045EB17319}",
+      "county": "SUMMIT",
+      "cause": "Outage",
+      "city": "Breckenridge",
+      "xcelarea": "Breckenridge"
+    },
+    "geometry": {
+      "x": -11804765.999699999,
+      "y": 4789564.0094000027
+    }
+  },
+  {
+    "attributes": {
       "objectid": 150120,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
       "customers": 18,
       "off_": 1779469380000,
       "etr": 1779537600000,
-      "ticket": "22231829",
+      "ticket": "23014629",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
@@ -25,6 +53,34 @@
     "geometry": {
       "x": -11800673.0425,
       "y": 4808042.6601999998
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 150163,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 90,
+      "off_": 1779493920000,
+      "etr": 1779501600000,
+      "ticket": "23014629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4818826.541199997,-11667784.4542",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{1C4774CA-62A6-49CB-A2F5-E67596A2864E}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "geometry": {
+      "x": -11667784.4542,
+      "y": 4818826.5411999971
     }
   }
 ]
