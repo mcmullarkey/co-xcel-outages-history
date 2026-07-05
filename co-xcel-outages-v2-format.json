@@ -1,30 +1,58 @@
 [
   {
     "attributes": {
-      "objectid": 194035,
+      "objectid": 194102,
       "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1783209960000,
-      "etr": 1783222200000,
-      "ticket": "5022603",
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 6,
+      "off_": 1783222380000,
+      "etr": 1783233900000,
+      "ticket": "5044603",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4798837.4772000015,-11691487.0833",
+      "latlong": "4837033.287600003,-11703295.127999999",
       "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{6CFE7273-7B68-43E3-8512-E56AB18572AB}",
-      "county": "DOUGLAS",
+      "crewstatus": null,
+      "globalid": "{D4BD1114-1954-403B-AABB-6B1FCAC2C6A5}",
+      "county": "JEFFERSON",
       "cause": "Outage",
-      "city": "Highlands Ranch",
-      "xcelarea": "Highlands Ranch"
+      "city": "Arvada",
+      "xcelarea": "Arvada"
     },
     "geometry": {
-      "x": -11691487.0833,
-      "y": 4798837.4772000015
+      "x": -11703295.127999999,
+      "y": 4837033.2876000032
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 194103,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 169,
+      "off_": 1783222560000,
+      "etr": 1783233000000,
+      "ticket": "5044603",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4835651.795599997,-11694908.3019",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6B485211-6086-45EC-8CA5-C55BE811C9AE}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Denver,  Arvada",
+      "xcelarea": "Denver,  Arvada"
+    },
+    "geometry": {
+      "x": -11694908.301899999,
+      "y": 4835651.795599997
     }
   },
   {
@@ -35,7 +63,7 @@
       "customers": 26,
       "off_": 1783060740000,
       "etr": 1783242000000,
-      "ticket": "5022603",
+      "ticket": "5044603",
       "outageimpact": "Small",
       "outagetype": "Unplanned Outage",
       "medialink": null,
