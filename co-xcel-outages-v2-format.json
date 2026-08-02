@@ -1,13 +1,41 @@
 [
   {
     "attributes": {
-      "objectid": 225311,
+      "objectid": 225318,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1785641880000,
+      "etr": 1785651300000,
+      "ticket": "2050144",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4811784.731600001,-11684527.4833",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D17F7B59-B83E-4894-ACF9-74B93940983A}",
+      "county": "ARAPAHOE",
+      "cause": "Unplanned",
+      "city": "Cherry Hills Village",
+      "xcelarea": "Cherry Hills Village"
+    },
+    "geometry": {
+      "x": -11684527.4833,
+      "y": 4811784.7316000015
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 225311,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
       "customers": 7,
       "off_": 1785638880000,
-      "etr": 1785649500000,
-      "ticket": "2032144",
+      "etr": 1785648600000,
+      "ticket": "2050144",
       "outageimpact": "Small",
       "outagetype": "Outage",
       "medialink": null,
@@ -29,30 +57,58 @@
   },
   {
     "attributes": {
-      "objectid": 225314,
+      "objectid": 225329,
       "boundary": null,
       "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 58,
-      "off_": 1785639720000,
-      "etr": 1785650400000,
-      "ticket": "2032144",
+      "customers": 1,
+      "off_": 1785645420000,
+      "etr": 1785654900000,
+      "ticket": "2050144",
       "outageimpact": "Small",
       "outagetype": "Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4833513.5612,-11667350.9316",
+      "latlong": "4824366.346600004,-11672292.957",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{1C3C7903-2D64-47AB-B1E7-03503AF3CD4F}",
-      "county": "DENVER",
+      "globalid": "{687486F7-479C-4E22-9CA0-DDC0D84F3F06}",
+      "county": "ARAPAHOE",
       "cause": "Unplanned",
-      "city": "Denver",
-      "xcelarea": "Denver"
+      "city": "Aurora",
+      "xcelarea": "Aurora"
     },
     "geometry": {
-      "x": -11667350.931600001,
-      "y": 4833513.5612000003
+      "x": -11672292.957,
+      "y": 4824366.3466000035
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 225304,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 0,
+      "off_": 1785637680000,
+      "etr": 1785650400000,
+      "ticket": "2050144",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4823570.431900002,-11666506.5064",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{DF909643-32B8-48B3-B954-072B52B4056C}",
+      "county": "ARAPAHOE",
+      "cause": "Unplanned",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "geometry": {
+      "x": -11666506.5064,
+      "y": 4823570.4319000021
     }
   },
   {
@@ -63,7 +119,7 @@
       "customers": 75,
       "off_": 1785603840000,
       "etr": 1785657600000,
-      "ticket": "2032144",
+      "ticket": "2050144",
       "outageimpact": "Small",
       "outagetype": "Outage",
       "medialink": null,
@@ -85,86 +141,114 @@
   },
   {
     "attributes": {
-      "objectid": 225300,
+      "objectid": 225314,
       "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 61,
-      "off_": 1785636000000,
-      "etr": 1785644100000,
-      "ticket": "2032144",
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 58,
+      "off_": 1785639720000,
+      "etr": 1785650400000,
+      "ticket": "2050144",
       "outageimpact": "Small",
       "outagetype": "Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4811473.801700003,-11684473.1661",
+      "latlong": "4833513.5612,-11667350.9316",
       "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{AF15CF57-F7D6-4635-8548-119A6CF3224A}",
-      "county": "ARAPAHOE",
+      "crewstatus": null,
+      "globalid": "{1C3C7903-2D64-47AB-B1E7-03503AF3CD4F}",
+      "county": "DENVER",
       "cause": "Unplanned",
-      "city": "Cherry Hills Village",
-      "xcelarea": "Cherry Hills Village"
+      "city": "Denver",
+      "xcelarea": "Denver"
     },
     "geometry": {
-      "x": -11684473.166099999,
-      "y": 4811473.8017000034
+      "x": -11667350.931600001,
+      "y": 4833513.5612000003
     }
   },
   {
     "attributes": {
-      "objectid": 225304,
+      "objectid": 225335,
       "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 262,
-      "off_": 1785637680000,
-      "etr": 1785645900000,
-      "ticket": "2032144",
-      "outageimpact": "Medium",
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 55,
+      "off_": 1785646080000,
+      "etr": 1785657600000,
+      "ticket": "2050144",
+      "outageimpact": "Small",
       "outagetype": "Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4823570.431900002,-11666506.5064",
+      "latlong": "4928453.856799997,-11660870.117899999",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{DF909643-32B8-48B3-B954-072B52B4056C}",
-      "county": "ARAPAHOE",
+      "globalid": "{8FB94AAB-7068-473E-8972-5ABBCCABD9D1}",
+      "county": "WELD",
       "cause": "Unplanned",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
+      "city": "Greeley",
+      "xcelarea": "Greeley"
     },
     "geometry": {
-      "x": -11666506.5064,
-      "y": 4823570.4319000021
+      "x": -11660870.117899999,
+      "y": 4928453.8567999974
     }
   },
   {
     "attributes": {
-      "objectid": 225154,
+      "objectid": 225336,
       "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
       "customers": 1,
-      "off_": 1785600540000,
-      "etr": 1785609000000,
-      "ticket": "2032144",
+      "off_": 1785646260000,
+      "etr": 1785657600000,
+      "ticket": "2050144",
       "outageimpact": "Small",
       "outagetype": "Outage",
       "medialink": null,
       "outagestatus": 0,
       "datastatus": null,
-      "latlong": "4851365.775700003,-11683337.883200001",
+      "latlong": "4929087.7095,-11660757.3145",
       "states": "CO",
       "crewstatus": null,
-      "globalid": "{56122E47-E2F6-4C4F-879E-7FA298710CB8}",
-      "county": "ADAMS",
+      "globalid": "{30955089-A8C1-496B-9B65-DEB8E6CCE044}",
+      "county": "WELD",
       "cause": "Unplanned",
-      "city": "Thornton",
-      "xcelarea": "Thornton"
+      "city": "Greeley",
+      "xcelarea": "Greeley"
     },
     "geometry": {
-      "x": -11683337.883200001,
-      "y": 4851365.7757000029
+      "x": -11660757.3145,
+      "y": 4929087.7094999999
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 225337,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1785646620000,
+      "etr": 1785657600000,
+      "ticket": "2050144",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4905975.783799998,-11538098.3072",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E5C7DF15-454C-4EA1-A1D7-4982408C9ED4}",
+      "county": "MORGAN",
+      "cause": "Unplanned",
+      "city": "Brush",
+      "xcelarea": "Brush"
+    },
+    "geometry": {
+      "x": -11538098.3072,
+      "y": 4905975.7837999985
     }
   },
   {
@@ -175,7 +259,7 @@
       "customers": 2,
       "off_": 1785433020000,
       "etr": 1785618000000,
-      "ticket": "2032144",
+      "ticket": "2050144",
       "outageimpact": "Small",
       "outagetype": "Outage",
       "medialink": null,
